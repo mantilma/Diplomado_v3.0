@@ -1,236 +1,236 @@
-### **CLASE #*4* - BITCOIN**
+### **LEZIONE #*4* - BITCOIN**
 
-**¿Por qué se creó Bitcoin?**
+**Perché è stato creato Bitcoin?**
 
-El ataque en el 2001 a las Torres Gemelas de Nueva York fue un golpe durísimo para la economía mundial. Como consecuencia, con el apoyo del sector privado y el objetivo de facilitarle financiamiento hipotecario a las personas de ingresos más bajos, EEUU comenzó a bajar las tasas de interés rápidamente a niveles nunca antes vistos. De tal forma se les dió créditos a personas sin ingresos, activos, ni empleo. Este tipo de hipotecas fue bautizada como  "hipotecas subprime", y por supuesto, tenían alta probabilidad de impago. Los efectos de la crisis se viven hasta hoy. Su estallido se dió el 15 de septiembre del 2008, cuando el banco de inversión Lehman Brothers se declaró en bancarrota. A partir de ese momento, Estados Unidos sufrió un colapso económico y luego le siguió el resto de los países desarrollados. En consecuencia, día a día creció  la desconfianza en los bancos por la toma de riesgos excesivos y la poca regulación en la industria.
+L'attacco alle Twin Towers di New York nel 2001 è stato un duro colpo per l'economia mondiale. Di conseguenza, con il sostegno del settore privato e l'obiettivo di fornire finanziamenti ipotecari alle persone a reddito più basso, gli Stati Uniti hanno iniziato ad abbassare rapidamente i tassi di interesse a livelli mai visti prima. In questo modo venivano concessi crediti a persone prive di reddito, patrimonio o occupazione. Questo tipo di mutuo è stato soprannominato "mutui subprime" e, naturalmente, avevano un'alta probabilità di insolvenza. Gli effetti della crisi si vivono ancora oggi. Il suo scoppio è avvenuto il 15 settembre 2008, quando la banca d'affari Lehman Brothers ha dichiarato bancarotta. Da quel momento in poi, gli Stati Uniti hanno subito un collasso economico e a ruota tutti gli altri paesi più sviluppati. Di conseguenza, la sfiducia nelle banche è cresciuta di giorno in giorno a causa dell'eccessiva assunzione di rischi e della scarsa regolamentazione del settore.
 
  
 
-💡 **Los problemas a solucionar?**
+💡 **I problemi da risolvere?**
 
-- La falta de soberanía individual,
-- la centralización de los bancos,
-- la inflación, la vigilancia,
-- la necesidad de intermediarios,
-- la poca accesibilidad a los servicios bancarios y
-- los altos costes de las remesas internacionales, entre otros.
+- La mancanza di sovranità individuale,
+- la centralizzazione delle banche,
+- l'inflazione, la sorveglianza,
+- la necessità di intermediari,
+- scarsa accessibilità ai servizi bancari e
+- gli alti costi delle rimesse internazionali, tra gli altri.
 
-**Cómo se solucionaron?** 
+**Come sono stati risolti?** 
 
 - Con el uso de una tecnología desarrollada en 1991,
 
 
-**¿Quién los solucionó?**
+**Chi li ha risolti?**
 
-- Satoshi Nakamoto apareció en Octubre del 2008. Su identidad todavía es un misterio.
-- Propuso su idea de un nuevo sistema de efectivo electrónico. Este dinero se llamaría **bitcoin**.
-- Dedicó su tiempo a crear una guía para explicar un nuevo medio de pago que:
-    - posibilita la ejecución de transferencias de valor rápidas, y a bajo costo,
-    - no puede ser controlado ni manipulado por gobiernos o entidades financieras
-- Gracias a este ser o grupo de personas, existe una solución al problema del “**doble gasto”:**
-    - ****Ahora es imposible que alguien gaste el mismo dinero virtual en dos sitios diferentes.
-- Su documento de nueve páginas conocido como un **Whitepaper** (Papel Blanco).
-    - Lo compartió a una lista de correos electrónicos con los Cypherpunk:
-        - un grupo muy activo con discusiones técnicas
-            - abarcaban matemáticas, criptografía, ciencias de la computación, discusiones políticas y filosóficas e incluso argumentos personales.
+- Satoshi Nakamoto è apparso nell'ottobre 2008. La sua identità è ancora un mistero.
+- Propose la sua idea per un nuovo sistema di moneta elettronica. Questa moneta sarebbe stata chiamata **bitcoin**.
+- Dedicò il suo tempo alla creazione di una guida per spiegare un nuovo mezzo di pagamento che:
+    - consente l'esecuzione di trasferimenti di valore rapidi e a basso costo,
+    - non può essere controllato o manipolato da governi o entità finanziarie
+- Grazie a questo individuo o gruppo di persone, esiste ora una soluzione al problema della “**doppia spesa”:**
+    - ****Ora è impossibile per qualcuno spendere gli stessi soldi digitali in due spese differenti.
+- Il suo documento di nove pagine noto come **Whitepaper** (Foglio Bianco).
+    - Lo condivise con una mailing list con i Cypherpunk:
+        - un gruppo molto attivo con discussioni tecniche
+            - che abbracciano matematica, crittografia, informatica, discussioni politiche e filosofiche e persino argomenti personali.
 
-https://bitcoin.org/files/bitcoin-paper/bitcoin_es.pdf
+https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf
 
-- Satoshi tenía cinismo hacia el sistema monetario y bancario tradicional.
-    - Esto se puede ver en el **bloque génesis,** donde publicó un mensaje que decía:
+- Satoshi era cinico nei confronti del tradizionale sistema monetario e bancario.
+    - Questo può essere visto nel **blocco genesi**, dove postò un messaggio dicendo:
 
-> "The Times 03/ene/2009 Canciller al borde del segundo rescate para los bancos"
+> "The Times 03/gen/2009 Il cancelliere sull'orlo del secondo salvataggio per le banche"
 > 
 
 - Satoshi Nakamoto, Genesis Block.  
 
-- Hace referencia a un artículo del periódico Times titulado "Canciller al borde del segundo rescate de los bancos".
-- Canciller británico debía decidir si inyectar billones de Libras Esterlinas más en la economía con el fin de rescatar a los bancos.
+- Si riferisce a un articolo del quotidiano Times intitolato "Cancelliere sull'orlo del secondo salvataggio bancario".
+- Il cancelliere britannico ha dovuto decidere se iniettare altri miliardi di sterline britanniche nell'economia per salvare le banche.
 
-Estos son otros datos básicos que sabemos sobre Satoshi, su Whitepaper y la creación de Bitcoin:
+Questi sono altri fatti fondamentali che conosciamo su Satoshi, il suo Whitepaper e la creazione di Bitcoin:
 
-- La primera transacción de bitcoins fue de Nakamoto a Hal Finney.
-- La última “señal de vida” de Satoshi fue con Gavin Andersen, desarrollador de software:
+- La prima transazione bitcoin è stata fatta da Nakamoto ad Hal Finney.
+- L'ultimo "segno di vita" di Satoshi è stato con Gavin Andersen, uno sviluppatore di software:
     
-    > “…paso a otras cosas,…en buenas manos con Gavin y todos.”
+    > “…passo a fare altre cose…in buone mani con Gavin e tutti gli altri.”
     > 
-- En mensajes públicos, e incluso en mensajes privados que luego se publicaron, Nakamoto nunca habló de nada personal.  Todo se trataba de bitcoin y su **código**.
-- Muchas personas afirmaron ser Satoshi. Aún no sabemos quién es.
-- Se estima que Satoshi tiene aproximadamente 980,000 bitcoin.
+- Nei messaggi pubblici, e anche nei messaggi privati ​​poi pubblicati, Nakamoto non ha mai parlato di qualcosa di personale. Tutto ruotava intorno al bitcoin ed il suo **codice**.
+- Molte persone hanno affermato di essere Satoshi. Ma ancora non sappiamo chi sia.
+- Si stima che Satoshi possieda circa 980.000 bitcoin.
 
-¿**Cuales dificultades enfrentó Satoshi?**
+**Quali difficoltà ha dovuto affrontare Satoshi?**
 
-- [ ]  ¿Podría alguien mandarle el mismo dinero a dos personas simultáneamente?
-- [ ]  En internet ¿quién puede confiar en quien está del otro lado?
-- [ ]  ¿Cómo sabemos si alguien tiene suficiente dinero en su cuenta (o en su monedero) para comprarle un producto a otro?
-- [ ]  ¿Cómo se asegura de que una red descentralizada pueda tomar decisiones correctas, incluso si algunos de los **nodos** (participantes conectados) en ella se vuelven deshonestos?
-- [ ]  ¿Podemos crear un sistema distribuido y confiable que no asuma automáticamente que los participantes van a actuar éticamente y trabajarán en interés del grupo?
-- [ ]  ¿Cómo sabemos que la persona que quiere recibir dinero a través de este sistema es quien dice ser?
+- [ ]  Qualcuno potrebbe inviare gli stessi soldi a due persone contemporaneamente?
+- [ ]  Su Internet, chi può fidarsi di chi sta dall'altra parte?
+- [ ]  Come facciamo a sapere se qualcuno ha abbastanza soldi nel proprio conto (o nel proprio portafoglio) per acquistare un prodotto da un altro?
+- [ ]  Come si fa a garantire che una rete decentralizzata possa prendere decisioni corrette, anche se alcuni dei **nodi** (partecipanti connessi) al suo interno agiscano in maniera disonesta?
+- [ ]  Possiamo creare un sistema distribuito e affidabile che non presuma automaticamente che i partecipanti agiscano in modo etico e lavorino nell'interesse del gruppo?
+- [ ]  Come facciamo a sapere che la persona che vuole ricevere denaro attraverso questo sistema è chi dice di essere?
 
-”**Problema del Doble Gasto” = "Problema de los Generales Bizantinos"**
+”**Problema della doppia spesa” = "Il problema dei Generali Bizantini"**
 
-**¿Cual era el dilema de los Generales?**
+**Qual era il dilemma dei generali?**
 
-El problema de los Generales Bizantinos es una metáfora que narra la dificultad de transmitir información fiable sin la intervención de un coordinador central de confianza.
+Il problema dei generali bizantini è una metafora che racconta la difficoltà di trasmettere informazioni attendibili senza l'intervento di un coordinatore centrale di fiducia.
 
-Cuál es la alegoría?
+Qual è l'allegoria?
 
-- [ ]  Hay un castillo en Persia, que está muy bien abastecido y fortificado.
-- [ ]  Los generales bizantinos han rodeado el castillo y planean lanzar un ataque.
-- [ ]  Dado que el ejército está tan disperso, no existe un control centralizado.
-- [ ]  Los generales se comunican entre ellos por medio de mensajeros.
-- [ ]  Las dos posibles órdenes son "atacar" y "retirarse".
-- [ ]  Deben ponerse de acuerdo para atacar al ejército persia, y hacerlo simultáneamente.
-- [ ]  Si cualquiera de ellos lo intentara por separado, perderán la batalla
-- [ ]  Si existe un traidor, podría conseguir que los leales no se pongan de acuerdo.
-    - [ ]  Por ejemplo, le podría decir a un general que ataque y al otro que se retire.
-- [ ]  Una mañana, un general  recibe el siguiente mensaje: "El ataque se producirá el Martes". ****No lleva la firma de ninguna autoridad central.
+- [ ]  C'è un castello in Persia, che è molto ben controllato e fortificato.
+- [ ]  I generali bizantini hanno circondato il castello e pianificano di lanciare un attacco.
+- [ ]  Poiché l'esercito è sparso, non esiste un controllo centralizzato.
+- [ ]  I generali comunicano tra loro per mezzo di messaggeri.
+- [ ]  I due ordini possibili sono "attacco" e "ritirata".
+- [ ]  Devono accordarsi di attaccare l'esercito persiano e di farlo contemporaneamente.
+- [ ]  Se uno di loro prova ad attaccare separatamente, perderanno la battaglia.
+- [ ]  Se c'è un traditore, potrebbe portare i lealisti a non raggiungere un accordo.
+    - [ ]  Ad esempio, potrebbe dire a un generale di attaccare e all'altro di ritirarsi.
+- [ ]  Una mattina un generale riceve il seguente messaggio: "L'attacco avverrà martedì". ****Non reca la firma di alcuna autorità centrale.
 
 
- ¿Cómo puede el general  tener la certeza de que se trata de una orden verdadera y no de un engaño del enemigo transmitiendo información contraria a la estrategia del ejército?
+Come può il generale essere sicuro che si tratti di un vero ordine e non di un inganno del nemico che trasmette informazioni contrarie alla strategia dell'esercito?
 
-¿Que sucede si quien mandó el mensaje es traidor y planea traicionar al ejército?¿Qué pasa si el mismo general es corrupto y busca sembrar la discordia entre los otros generales?
+Cosa succede se la persona che ha inviato il messaggio è un traditore e intende tradire l'esercito o se lo stesso generale è corrotto e cerca di seminare discordia tra gli altri generali?
 
-La solución a este problema se usó originalmente como método para evitar el spam por email. 
+La soluzione a questo problema è stata originariamente utilizzata come metodo per prevenire lo spam tramite e-mail.
 
-¿**Que tiene que ver esto con Bitcoin?**
+**Cosa c'entra questo con Bitcoin?**
 
-El problema de los generales bizantinos describe:
+Il problema dei generali bizantini descrive:
 
-- la dificultad que tienen los sistemas descentralizados para ponerse de acuerdo sobre una sola verdad.
-- Es el mismo que se tiene cuando se realiza una transferencia de dinero sin un intermediario confiable.
-    - Se requiere entonces de una manera de verificar que el mensaje no ha sido modificado, lo cual no se había logrado hasta la aparición de Bitcoin con su mecanismo de **consenso**.
-- El uso de la criptografía es esencial en este proceso, pero que es **criptografía**?
-    - El arte de crear **mensajes codificados con claves secretas** con el objetivo de que no pueda ser descifrado salvo por la persona a quien está dirigido o que tenga la clave.
-- Bitcoin también utiliza un mecanismo de **prueba de trabajo** y una **cadena de bloques** para resolver el problema del “**doble gasto**”.
-- Bitcoin logra:
+- la difficoltà che i sistemi decentralizzati hanno di concordare su un'unica verità.
+- È lo stesso problema di quando viene effettuato un trasferimento di denaro senza un intermediario affidabile.
+    - È quindi necessario un modo per verificare che il messaggio non sia stato modificato, cosa che non era possibile fino alla comparsa di Bitcoin con il suo meccanismo di **consenso**.
+- L'uso della crittografia è essenziale in questo processo, ma cos'è la **crittografia**?
+    - L'arte di creare **messaggi cifrati con chiavi segrete** in modo che non possano essere decifrati se non dalla persona a cui sono indirizzati o che ne possiede la chiave.
+- Bitcoin utilizza anche un meccanismo di **proof of work** e una **blockchain** per risolvere il problema della “**doppia spesa**”.
+- Bitcoin consente:
 
-1) transferir un activo digital (o dinero) a otro usuario a través de Internet,
+1) trasferire una proprietà digitale (o denaro) a un altro utente su Internet,
 
-2) de manera que solo el propietario pueda iniciar la operación,
+2) in modo che solo il proprietario possa avviare l'operazione,
 
-3) únicamente el destinatario pueda recibirlo,
+3) solo il destinatario può riceverlo,
 
-4) todo el mundo pueda validar la transferencia,
+4) tutti possono convalidare il trasferimento,
 
-5) y esta sea reconocida por todos los participantes,
+5) e questo è riconosciuto da tutti i partecipanti,
 
-6) al igual que ser inmutable, o imposible de revertir  o borrar,
+6) oltre ad essere immutabile o impossibile da commutare o cancellare,
 
-7)  todo ello realizado de manera totalmente **distribuida** y **descentralizada**.
+7)  tutto questo in maniera totalmente **distribuita** e **decentralizzata**.
 
-En el marco de las cadenas de bloques, cada General es un **nodo en la red**, 
+Nel quadro della blockchain, ogni Generale è un **nodo nella rete**,
 
-- Los nodos deben llegar a un convenio
-    - para determinar el estado actual del registro de contabilidad compartido.
-    - Si la mayoría de la **red** en la **blockchain** llega está de acuerdo,
-        - modifican los balances de cuentas por pagar y por cobrar de los usuarios,
-    - Si una gran mayoría de la red es maliciosa,
-        - el sistema es vulnerable a fallas.
+- I nodi devono raggiungere un accordo
+    - per determinare lo stato corrente del record del libro mastro condiviso.
+    - Se la maggior parte della **rete** sulla **blockchain** raggiunge un accordo,
+        - modificano i saldi dei conti con debiti e crediti degli utenti,
+    - Se la maggior parte della rete è malevola,
+        - il sistema è vulnerabile ad errori.
 
-### *Introducción al Bitcoin*
+### *Introduzione al Bitcoin*
 
-Comencemos con un video breve:
+Cominciamo con un breve video;
 
-¿Qué es Bitcoin y cómo funciona? https://youtu.be/S2HxMK7iO4c
+Cos'è Bitcoin e come funziona? https://youtu.be/S2HxMK7iO4c
 
-¿Qué es Bitcoin? ¿Qué es bitcoin?…..
+Cos'è Bitcoin? Cos'è il bitcoin?…..
 
-Es muchas cosas…. 
+Sono tante cose….
 
-- **Dinero**: Una moneda virtual e intangible que cumple las tres funciones del dinero tradicional: una unidad de cuenta, un depósito de valor y un medio de intercambio.
-- **Software**: Software que puede descargar y ejecutar en cualquier computador.
-    - Un **sistema de pago** sin un banco central o una autoridad única.
-- **Red**: Conjunto de personas y computadores trabajando a través del consenso para funcionar sin falla.
+- **Denaro**: Una moneta virtuale e immateriale che svolge le tre funzioni del denaro tradizionale: unità di conto, riserva di valore e mezzo di scambio.
+- **Software**: Software che puoi scaricare ed eseguire su qualsiasi computer.
+    - Un **sistema di pagamento** senza una banca centrale o un'unica autorità.
+- **Rete**: Insieme di persone e computer che lavorano attraverso il consenso per funzionare senza errori.
     
     
-    - Cual es la diferencia entre Bitcoin y bitcoin?
-        - Bitcoin con ‘B’ se refiere a la **red** de computadores que trabaja con el mismo programa, mientras *bitcoin* con ‘b’ se refiere a el activo digital ($) que se maneja dentro de la red.  Dicho de otra forma, bitcoin es una unidad de la moneda virtual cifrada mediante criptografía, que nos sirve para intercambiar valor dentro de la red Bitcoin.
+    - Qual è la differenza tra Bitcoin e bitcoin?
+        - Bitcoin con "B" si riferisce alla **rete** di computer che eseguono lo stesso programma, mentre *bitcoin* con "b" si riferisce all'asset digitale gestito all'interno della rete.  In altre parole, il bitcoin è un'unità di valuta virtuale crittografata, che viene utilizzata per scambiare valore all'interno della rete Bitcoin.
     
-- Cual es su función principal?
-    - Permite la transferencia de pagos persona a persona (P2P), sin intermediarios, de forma económica, y sin barreras internacionales. Almacena valor.
-- Que avance tecnológico ha logrado? Porqué  revolucionará la banca?
-    - Impide que la gente pueda gastar el mismo dinero dos veces.
-    - Elimina la necesidad de una autoridad central para supervisar las transacciones.
-- Que lo hace valioso?
-    
-    
-- Cual es la relación entre la cadena de bloques y Bitcoin?
-    - La cadena de bloques es el libro público donde se registran de forma permanente las transacciones más importantes de Bitcoin.
-    - Bitcoin es la única cadena de bloques que registra transacciones realizadas con la moneda bitcoin.
+- Qual è la sua funzione principale?
+    - Consente il trasferimento di pagamenti da persona a persona (P2P), senza intermediari, economicamente e senza barriere internazionali. Conserva il valore.
+- Quale progresso tecnologico ha raggiunto? Perché rivoluzionerà il settore bancario?
+    - Impedisce alle persone di spendere gli stessi soldi due volte.
+    - Elimina la necessità di un'autorità centrale per supervisionare le transazioni.
+- Cosa lo rende prezioso?
     
     
-- De qué  están hechos los *bitcoin*?
-    - De nada que se pueda tocar físicamente, como un billete.
-    - Son sólo cadenas de números y letras digitales
-    - Una identidad única ( tal cómo tu huella digital te da tu identidad).
-- Bitcoin es anónimo?
-    - No, es seudónimo. Las transacciones son visibles, accesibles y transparentes para todos
-    - Las personas se identifican no con nombre y apellido sino con cadenas de cadenas de letras y números
-- ¿Quién puede usar Bitcoin?
-    - A diferencia del sistema bancario tradicional, cualquier persona que tenga acceso al internet.
-- Cómo puedo conseguir bitcoin?
-    - Se **compra** en línea a través de  plataformas de intercambio o e**xchanges**.
-    - Se **crean nuevos** bitcoin a través de un proceso de trabajo llamado **minería.**
-- Cuales son las barreras de entrada a Bitcoin?
-    - Se necesita acceso a internet para poder hacer transacciones con BTC.
-    - Algunos países prohiben las entradas pero es imposible prohibir el intercambio.
-- En donde se almacenan los bitcoin?
-    - En un monedero con acceso a nuestras claves privadas o en un exchange.
-- Cómo puede tener valor una moneda que no existe en el mundo físico y que no está respaldada por nada, ni por nadie?
-    - El valor crece con confianza, escasez, utilidad y nivel de demanda, entre otros factores.
-- Es seguro el Bitcoin?
-    - El objetivo de la minería es desincentivar a los malos actores y dificultar comportamientos indeseados como el doble gasto o el spam.
-    - La criptografía protege la información de una manera muy segura. Se usan:
-        - claves públicas (similar al # de una cuenta bancaria pero único en cada transacción )
-        - y claves privadas (similar a un PIN secreto perteneciente a dicha cuenta bancaria)
-- Quien  y cómo  se asegura de que las transacciones se ejecuten sin fallas?
-    - A través de la los mineros y la minería.
-    - El objetivo es desincentivar a los malos actores y dificultar comportamientos indeseados.
-- Cuales son algunas de las ventajas de bitcoin frente al fiat?
-    - El precio del bitcoin es el mismo en todos los países del mundo.
-    - No existen fronteras.
-    - Su inflación es controlada y su emisión predefinida.
-    - Los gobiernos no tienen poder de decisión sobre su gobernanza.
+- Qual è la relazione tra blockchain e Bitcoin?
+    - La blockchain è il libro mastro pubblico in cui vengono registrate permanentemente le transazioni Bitcoin più importanti.
+    - Bitcoin è l'unica blockchain che registra le transazioni effettuate con la valuta bitcoin.
+    
+    
+- Di cosa sono fatti i *bitcoin*?
+    - Nulla di tutto ciò che può essere toccato fisicamente, come una banconota.
+    - Sono solo stringhe di numeri e lettere digitali
+    - Un'identità univoca (proprio come l'impronta digitale che ti dà la tua identità).
+- Bitcoin è anonimo?
+    - No, è uno pseudonimo. Le transazioni sono visibili, accessibili e trasparenti a tutti
+    - Le persone si identificano non per nome e cognome ma per stringhe di stringhe di lettere e numeri
+- Chi può usare Bitcoin?
+    - A differenza del sistema bancario tradizionale, chiunque abbia accesso a Internet.
+- Come posso ottenere bitcoin?
+    - Viene **acquistato** online tramite piattaforme di scambio o **exchanges**.
+    - Si **creano nuovi** bitcoin attraverso un processo di lavoro chiamato **mining.**
+- Quali sono le barriere d'ingresso in Bitcoin?
+    - L'accesso a Internet è necessario per poter effettuare transazioni con BTC.
+    - Alcuni paesi vietano il Bitcoin ma è impossibile vietare lo scambio.
+- Dove sono salvati i bitcoin?
+    - In un portafoglio con accesso alle nostre chiavi private o in uno exchange.
+- Come può avere valore una valuta che non esiste nel mondo fisico e che non è supportata da niente e nessuno?
+    - Il valore cresce con la fiducia, la scarsità, l'utilità e il livello della domanda, tra i fattori.
+- Bitcoin è sicuro?
+    - L'obiettivo del mining è scoraggiare i cattivi attori e ostacolare comportamenti indesiderati come la doppia spesa o lo spamming.
+    - La crittografia protegge le informazioni in modo sicuro. Vengono utilizzati:
+        - chiavi pubbliche (simili al # di un conto bancario ma univoco per ogni transazione)
+        - e chiavi private (simile a un PIN segreto di accesso ad un conto bancario)
+- Chi e come si assicura che le transazioni vengano eseguite senza errori?
+    - Attraverso i minatori ed il mining.
+    - L'obiettivo è scoraggiare i cattivi attori e rendere più difficile comportamenti fraudolenti.
+- Quali sono alcuni dei vantaggi di bitcoin rispetto a fiat?
+    - Il prezzo del bitcoin è lo stesso in tutti i paesi del mondo.
+    - Non ci sono confini.
+    - La sua inflazione è controllata e la sua emissione predefinita.
+    - I governi non hanno potere decisionale sulla loro governance.
     
    
 
 
 
-Diferencias entre Bitcoin y Fiat 
+Differenze tra Bitcoin e Fiat
 
-**Actividad: Completar 2.c (la columna de bitcoin)**
+**Attività: completare 2.c (la colonna bitcoin)**
 
-Ejercicio Práctico (continuación de [Es un Buen Activo Monetario?]
+Esercizio pratico (continuazione di [È un buon asset monetario?]
 
-Si tuviste dificultades con el ejercicio anterior, repasa la tabla “Diferencias entre Bitcoin y Fiat”.
+Se hai avuto difficoltà con l'esercizio precedente, rivedi la tabella "Differenze tra Bitcoin e Fiat".
 
-## **Los participantes de Bitcoin:**
+## **Partecipanti Bitcoin:**
 
-Para entender cómo participa alguien o un sistema en la red Bitcoin, nos debemos preguntar
+Per capire come qualcuno o un sistema partecipa alla rete Bitcoin, dobbiamo chiederci
 
-- ¿Dicha persona o dicho computador puede ver solo las transacciones en las que participa?
-    - Tiene acceso a más información?
-- ¿Cuáles son las transacciones que puede realizar?
-- ¿Cuáles son los permisos tiene sobre la red?
-- ¿Cómo interactúa con la red?
-- ¿Tiene acceso a una copia de toda la cadena?
-
-
-1. **Mineros**: Equipos de computación especializados 
-    - Compiten en resolver rompecabezas matemáticos entre sí, para crear nuevos bitcoins.
-    - Confirman transacciones y mantienen la seguridad de la red.
-        - Similar a los empleados en un banco; se les paga por su trabajo
-2. **Exchanges o Intercambios**: Intercambian monedas fiat por bitcoin y otras criptomonedas.
-    - Ofrecen una manera de entrar y salir del mercado para aquellos que no son mineros.
-    - Similar a los bancos; ofrecen servicios a los usuarios
-3. **Monederos**: Aplicaciones usadas para almacenar, mandar y recibir bitcoin.
-    - Similar a las cuentas bancarias o las apps para transferir dinero por internet
-4. **Nodos**: Dispositivos conectados a una red digital que validan, transmiten, procesan y almacenan transacciones BTC. (Además de ser monederos, tienen muchas otras funciones)
-    - Constan de dos cosas: hardware  y software. (Similar a un móvil  y un app)
-        - El hardware es el material físico necesario para ejecutar el software.
-- **Desarrolladores**: Mantienen y proponen mejoras al código.
+- Può detta persona o detto computer vedere solo le transazioni a cui partecipa?
+    - Ha accesso a maggiori informazioni?
+- Quali sono le transazioni che può effettuare?
+- Quali sono i permessi che ha sulla rete?
+- Come interagisce con la rete?
+- Ha accesso a una copia dell'intera blockchain?
 
 
-Actividad: Si tenemos tiempo en clase, podemos acceder algunos exchanges?
+1. **Minatori**: Attrezzatura di computazione informatica specializzata
+    - Competono nel risolvere enigmi matematici tra loro, per creare nuovi bitcoin.
+    - Confermano le transazioni e mantengono la sicurezza della rete.
+        - Simile ai dipendenti di una banca; sono pagati per il loro lavoro
+2. **Exchanges**: Scambiano valute fiat con bitcoin e altre criptovalute.
+    - Offrono un modo per entrare e uscire dal mercato per coloro che non sono minatori.
+    - Simile alle banche; offrono servizi agli utenti
+3. **Portafogli**: Applicazioni utilizzate per archiviare, inviare e ricevere bitcoin.
+    - Simili ai conti bancari o alle app per trasferire denaro online
+4. **Nodi**: Dispositivi connessi a una rete digitale che convalidano, trasmettono, elaborano e archiviano transazioni BTC. (Oltre ad essere portafogli, hanno molte altre funzioni)
+    - Sono costituiti da due parti: hardware e software. (Simile a un cellulare e un'app)
+        - L'hardware è il materiale fisico necessario per eseguire il software.
+- **Sviluppatori**: Mantengono e propongono miglioramenti al codice.
+
+
+Attività: se abbiamo tempo in classe, possiamo accedere ad alcuni exchanges?
 
