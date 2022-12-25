@@ -123,114 +123,114 @@ Nel quadro della blockchain, ogni Generale è un **nodo nella rete**,
 
 - I nodi devono raggiungere un accordo
     - per determinare lo stato corrente del record del libro mastro condiviso.
-    - Si la mayoría de la **red** en la **blockchain** llega está de acuerdo,
-        - modifican los balances de cuentas por pagar y por cobrar de los usuarios,
-    - Si una gran mayoría de la red es maliciosa,
-        - el sistema es vulnerable a fallas.
+    - Se la maggior parte della **rete** sulla **blockchain** raggiunge un accordo,
+        - modificano i saldi dei conti con debiti e crediti degli utenti,
+    - Se la maggior parte della rete è malevola,
+        - il sistema è vulnerabile ad errori.
 
-### *Introducción al Bitcoin*
+### *Introduzione al Bitcoin*
 
-Comencemos con un video breve:
+Cominciamo con un breve video;
 
-¿Qué es Bitcoin y cómo funciona? https://youtu.be/S2HxMK7iO4c
+Cos'è Bitcoin e come funziona? https://youtu.be/S2HxMK7iO4c
 
-¿Qué es Bitcoin? ¿Qué es bitcoin?…..
+Cos'è Bitcoin? Cos'è il bitcoin?…..
 
-Es muchas cosas…. 
+Sono tante cose….
 
-- **Dinero**: Una moneda virtual e intangible que cumple las tres funciones del dinero tradicional: una unidad de cuenta, un depósito de valor y un medio de intercambio.
-- **Software**: Software que puede descargar y ejecutar en cualquier computador.
-    - Un **sistema de pago** sin un banco central o una autoridad única.
-- **Red**: Conjunto de personas y computadores trabajando a través del consenso para funcionar sin falla.
+- **Denaro**: Una moneta virtuale e immateriale che svolge le tre funzioni del denaro tradizionale: unità di conto, riserva di valore e mezzo di scambio.
+- **Software**: Software che puoi scaricare ed eseguire su qualsiasi computer.
+    - Un **sistema di pagamento** senza una banca centrale o un'unica autorità.
+- **Rete**: Insieme di persone e computer che lavorano attraverso il consenso per funzionare senza errori.
     
     
-    - Cual es la diferencia entre Bitcoin y bitcoin?
-        - Bitcoin con ‘B’ se refiere a la **red** de computadores que trabaja con el mismo programa, mientras *bitcoin* con ‘b’ se refiere a el activo digital ($) que se maneja dentro de la red.  Dicho de otra forma, bitcoin es una unidad de la moneda virtual cifrada mediante criptografía, que nos sirve para intercambiar valor dentro de la red Bitcoin.
+    - Qual è la differenza tra Bitcoin e bitcoin?
+        - Bitcoin con "B" si riferisce alla **rete** di computer che eseguono lo stesso programma, mentre *bitcoin* con "b" si riferisce all'asset digitale gestito all'interno della rete.  In altre parole, il bitcoin è un'unità di valuta virtuale crittografata, che viene utilizzata per scambiare valore all'interno della rete Bitcoin.
     
-- Cual es su función principal?
-    - Permite la transferencia de pagos persona a persona (P2P), sin intermediarios, de forma económica, y sin barreras internacionales. Almacena valor.
-- Que avance tecnológico ha logrado? Porqué  revolucionará la banca?
-    - Impide que la gente pueda gastar el mismo dinero dos veces.
-    - Elimina la necesidad de una autoridad central para supervisar las transacciones.
-- Que lo hace valioso?
-    
-    
-- Cual es la relación entre la cadena de bloques y Bitcoin?
-    - La cadena de bloques es el libro público donde se registran de forma permanente las transacciones más importantes de Bitcoin.
-    - Bitcoin es la única cadena de bloques que registra transacciones realizadas con la moneda bitcoin.
+- Qual è la sua funzione principale?
+    - Consente il trasferimento di pagamenti da persona a persona (P2P), senza intermediari, economicamente e senza barriere internazionali. Conserva il valore.
+- Quale progresso tecnologico ha raggiunto? Perché rivoluzionerà il settore bancario?
+    - Impedisce alle persone di spendere gli stessi soldi due volte.
+    - Elimina la necessità di un'autorità centrale per supervisionare le transazioni.
+- Cosa lo rende prezioso?
     
     
-- De qué  están hechos los *bitcoin*?
-    - De nada que se pueda tocar físicamente, como un billete.
-    - Son sólo cadenas de números y letras digitales
-    - Una identidad única ( tal cómo tu huella digital te da tu identidad).
-- Bitcoin es anónimo?
-    - No, es seudónimo. Las transacciones son visibles, accesibles y transparentes para todos
-    - Las personas se identifican no con nombre y apellido sino con cadenas de cadenas de letras y números
-- ¿Quién puede usar Bitcoin?
-    - A diferencia del sistema bancario tradicional, cualquier persona que tenga acceso al internet.
-- Cómo puedo conseguir bitcoin?
-    - Se **compra** en línea a través de  plataformas de intercambio o e**xchanges**.
-    - Se **crean nuevos** bitcoin a través de un proceso de trabajo llamado **minería.**
-- Cuales son las barreras de entrada a Bitcoin?
-    - Se necesita acceso a internet para poder hacer transacciones con BTC.
-    - Algunos países prohiben las entradas pero es imposible prohibir el intercambio.
-- En donde se almacenan los bitcoin?
-    - En un monedero con acceso a nuestras claves privadas o en un exchange.
-- Cómo puede tener valor una moneda que no existe en el mundo físico y que no está respaldada por nada, ni por nadie?
-    - El valor crece con confianza, escasez, utilidad y nivel de demanda, entre otros factores.
-- Es seguro el Bitcoin?
-    - El objetivo de la minería es desincentivar a los malos actores y dificultar comportamientos indeseados como el doble gasto o el spam.
-    - La criptografía protege la información de una manera muy segura. Se usan:
-        - claves públicas (similar al # de una cuenta bancaria pero único en cada transacción )
-        - y claves privadas (similar a un PIN secreto perteneciente a dicha cuenta bancaria)
-- Quien  y cómo  se asegura de que las transacciones se ejecuten sin fallas?
-    - A través de la los mineros y la minería.
-    - El objetivo es desincentivar a los malos actores y dificultar comportamientos indeseados.
-- Cuales son algunas de las ventajas de bitcoin frente al fiat?
-    - El precio del bitcoin es el mismo en todos los países del mundo.
-    - No existen fronteras.
-    - Su inflación es controlada y su emisión predefinida.
-    - Los gobiernos no tienen poder de decisión sobre su gobernanza.
+- Qual è la relazione tra blockchain e Bitcoin?
+    - La blockchain è il libro mastro pubblico in cui vengono registrate permanentemente le transazioni Bitcoin più importanti.
+    - Bitcoin è l'unica blockchain che registra le transazioni effettuate con la valuta bitcoin.
+    
+    
+- Di cosa sono fatti i *bitcoin*?
+    - Nulla di tutto ciò che può essere toccato fisicamente, come una banconota.
+    - Sono solo stringhe di numeri e lettere digitali
+    - Un'identità univoca (proprio come l'impronta digitale che ti dà la tua identità).
+- Bitcoin è anonimo?
+    - No, è uno pseudonimo. Le transazioni sono visibili, accessibili e trasparenti a tutti
+    - Le persone si identificano non per nome e cognome ma per stringhe di stringhe di lettere e numeri
+- Chi può usare Bitcoin?
+    - A differenza del sistema bancario tradizionale, chiunque abbia accesso a Internet.
+- Come posso ottenere bitcoin?
+    - Viene **acquistato** online tramite piattaforme di scambio o **exchanges**.
+    - Si **creano nuovi** bitcoin attraverso un processo di lavoro chiamato **mining.**
+- Quali sono le barriere d'ingresso in Bitcoin?
+    - L'accesso a Internet è necessario per poter effettuare transazioni con BTC.
+    - Alcuni paesi vietano il Bitcoin ma è impossibile vietare lo scambio.
+- Dove sono salvati i bitcoin?
+    - In un portafoglio con accesso alle nostre chiavi private o in uno exchange.
+- Come può avere valore una valuta che non esiste nel mondo fisico e che non è supportata da niente e nessuno?
+    - Il valore cresce con la fiducia, la scarsità, l'utilità e il livello della domanda, tra i fattori.
+- Bitcoin è sicuro?
+    - L'obiettivo del mining è scoraggiare i cattivi attori e ostacolare comportamenti indesiderati come la doppia spesa o lo spamming.
+    - La crittografia protegge le informazioni in modo sicuro. Vengono utilizzati:
+        - chiavi pubbliche (simili al # di un conto bancario ma univoco per ogni transazione)
+        - e chiavi private (simile a un PIN segreto di accesso ad un conto bancario)
+- Chi e come si assicura che le transazioni vengano eseguite senza errori?
+    - Attraverso i minatori ed il mining.
+    - L'obiettivo è scoraggiare i cattivi attori e rendere più difficile comportamenti fraudolenti.
+- Quali sono alcuni dei vantaggi di bitcoin rispetto a fiat?
+    - Il prezzo del bitcoin è lo stesso in tutti i paesi del mondo.
+    - Non ci sono confini.
+    - La sua inflazione è controllata e la sua emissione predefinita.
+    - I governi non hanno potere decisionale sulla loro governance.
     
    
 
 
 
-Diferencias entre Bitcoin y Fiat 
+Differenze tra Bitcoin e Fiat
 
-**Actividad: Completar 2.c (la columna de bitcoin)**
+**Attività: completare 2.c (la colonna bitcoin)**
 
-Ejercicio Práctico (continuación de [Es un Buen Activo Monetario?]
+Esercizio pratico (continuazione di [È un buon asset monetario?]
 
-Si tuviste dificultades con el ejercicio anterior, repasa la tabla “Diferencias entre Bitcoin y Fiat”.
+Se hai avuto difficoltà con l'esercizio precedente, rivedi la tabella "Differenze tra Bitcoin e Fiat".
 
-## **Los participantes de Bitcoin:**
+## **Partecipanti Bitcoin:**
 
-Para entender cómo participa alguien o un sistema en la red Bitcoin, nos debemos preguntar
+Per capire come qualcuno o un sistema partecipa alla rete Bitcoin, dobbiamo chiederci
 
-- ¿Dicha persona o dicho computador puede ver solo las transacciones en las que participa?
-    - Tiene acceso a más información?
-- ¿Cuáles son las transacciones que puede realizar?
-- ¿Cuáles son los permisos tiene sobre la red?
-- ¿Cómo interactúa con la red?
-- ¿Tiene acceso a una copia de toda la cadena?
-
-
-1. **Mineros**: Equipos de computación especializados 
-    - Compiten en resolver rompecabezas matemáticos entre sí, para crear nuevos bitcoins.
-    - Confirman transacciones y mantienen la seguridad de la red.
-        - Similar a los empleados en un banco; se les paga por su trabajo
-2. **Exchanges o Intercambios**: Intercambian monedas fiat por bitcoin y otras criptomonedas.
-    - Ofrecen una manera de entrar y salir del mercado para aquellos que no son mineros.
-    - Similar a los bancos; ofrecen servicios a los usuarios
-3. **Monederos**: Aplicaciones usadas para almacenar, mandar y recibir bitcoin.
-    - Similar a las cuentas bancarias o las apps para transferir dinero por internet
-4. **Nodos**: Dispositivos conectados a una red digital que validan, transmiten, procesan y almacenan transacciones BTC. (Además de ser monederos, tienen muchas otras funciones)
-    - Constan de dos cosas: hardware  y software. (Similar a un móvil  y un app)
-        - El hardware es el material físico necesario para ejecutar el software.
-- **Desarrolladores**: Mantienen y proponen mejoras al código.
+- Può detta persona o detto computer vedere solo le transazioni a cui partecipa?
+    - Ha accesso a maggiori informazioni?
+- Quali sono le transazioni che può effettuare?
+- Quali sono i permessi che ha sulla rete?
+- Come interagisce con la rete?
+- Ha accesso a una copia dell'intera blockchain?
 
 
-Actividad: Si tenemos tiempo en clase, podemos acceder algunos exchanges?
+1. **Minatori**: Attrezzatura di computazione informatica specializzata
+    - Competono nel risolvere enigmi matematici tra loro, per creare nuovi bitcoin.
+    - Confermano le transazioni e mantengono la sicurezza della rete.
+        - Simile ai dipendenti di una banca; sono pagati per il loro lavoro
+2. **Exchanges**: Scambiano valute fiat con bitcoin e altre criptovalute.
+    - Offrono un modo per entrare e uscire dal mercato per coloro che non sono minatori.
+    - Simile alle banche; offrono servizi agli utenti
+3. **Portafogli**: Applicazioni utilizzate per archiviare, inviare e ricevere bitcoin.
+    - Simili ai conti bancari o alle app per trasferire denaro online
+4. **Nodi**: Dispositivi connessi a una rete digitale che convalidano, trasmettono, elaborano e archiviano transazioni BTC. (Oltre ad essere portafogli, hanno molte altre funzioni)
+    - Sono costituiti da due parti: hardware e software. (Simile a un cellulare e un'app)
+        - L'hardware è il materiale fisico necessario per eseguire il software.
+- **Sviluppatori**: Mantengono e propongono miglioramenti al codice.
+
+
+Attività: se abbiamo tempo in classe, possiamo accedere ad alcuni exchanges?
 
