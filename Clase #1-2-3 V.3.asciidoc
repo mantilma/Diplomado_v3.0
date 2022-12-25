@@ -1,121 +1,121 @@
 
 
-# Clase #*1*
+# Lezione #*1*
 
-# El Sistema Monetario
+# Il Sistema Monetario
 
-### Actividad “Introducción al dinero”
+### Attività “Introduzione al denaro”
 
-## ¿Qué problemas existen con el dinero de hoy?
+## Quali problemi esistono con i soldi di oggi?
 
-Estamos programados para resistir los desafíos de la vida y progresar. Es un proceso humano natural el querer superarnos, llevar una vida productiva, creativa y valiosa, pero:
+Siamo programmati per resistere alle sfide della vita e prosperare. È un processo umano naturale voler migliorare noi stessi, condurre una vita produttiva, creativa e di valore, ma:
 
-- Vivimos en un mundo donde hay mucho para pocos, y muy poco muchos.
-    - Los individuos de menores recursos económicos:
-        - no cuentan con las mismas oportunidades. Porqué?
-            - no tienen acceso a los mismos niveles de educación,
-            - no pueden acceder a los créditos necesarios comenzar sus negocios.
+- Viviamo in un mondo dove c'è molto per pochi e molto poco per molti.
+    - Individui con minori risorse economiche:
+        - Non hanno le stesse opportunità. Come mai?
+            - non hanno accesso agli stessi livelli di istruzione,
+            - non possono accedere al credito finanziario necessario per avviare i loro affari.
 
-Para reducir la pobreza y estimular el bienestar social, es importante:
+Per ridurre la povertà e stimolare il benessere sociale, è importante:
 
-- mejorar el acceso a la educación financiera,
+- migliorare l'accesso all'educazione finanziaria,
+- sviluppare la capacità di gestire il denaro,
 - desarrollar la capacidad de administrar dinero,
-- aprender a utilizar nuevas tecnologías de manera responsable
-- planear para el futuro.
+- pianificare il futuro.
 
-Veremos que Bitcoin es una herramienta y un tipo de dinero:
+Vedremo che Bitcoin è uno strumento e un tipo di denaro:
 
-- transparente, descentralizado, global, digital, barato, privado, programable, de fácil y rápido acceso, que puede ayudar a remediar estos problemas.
+- trasparente, decentralizzato, globale, digitale, economico, privato, programmabile, veloce e di facile accesso, che può aiutare a risolvere questi problemi.
 
-**Consecuencias del desarrollo de nuestra civilización**
+**Conseguenze dello sviluppo della nostra civiltà**
 
-Las personas siempre han necesitado alguien que financie sus aspiraciones del futuro.
+Le persone hanno sempre avuto bisogno di qualcuno che finanziasse le loro aspirazioni per il futuro.
 
-- Formas de intercambiar salarios, tiempo, y energía por depósitos de valor.
+- Modi di scambiare salari, tempo ed energia con riserve di valore.
 
-Si no hubiésemos evolucionado, habríamos quedado reducidos a una economía de trueque. 
+Se non ci fossimo evoluti, saremmo stati ridotti a un'economia basata sul baratto.
 
-- Cada cosa que alguien quisiera comprar tendría que ser canjeada por algo que esa persona pudiera proveer.
+- Ogni cosa che qualcuno avesse voluto comprare avrebbe dovuto scambiarla in cambio di qualcos'altro.
 
-El desarrollo permanente ha revolucionado las sociedades y la interacción global
+Lo sviluppo permanente ha rivoluzionato le società e l'interazione globale
 
-- En general, con un interés común de mejorar la calidad de vida de futuras civilizaciones
-    - A medida que la tecnología avanza y aumenta la productividad, debería(n)(mos):
-        - bajar los precios de forma natural
-        - fortalecerse la moneda
-        - poder comprar más por menos.
-    - Pero sucede lo contrario
-        - Los precios suben, las monedas se debilitan y compramos menos por más
+- In generale, con un comune interesse a migliorare la qualità della vita delle generazioni future
+    - Man mano che la tecnologia avanza e la produttività aumenta, dovremmo avere:
+        - il diminuire i prezzi in modo naturale
+        - il rafforzarsi della moneta
+        - il potere di comprare di più a meno.
+    - Ma accade il contrario
+        - I prezzi salgono, le valute si indeboliscono e compriamo di meno a più
     
-- ¿Cómo hemos llegado hasta aquí?
-- ¿Cómo, porqué, y para qué se crea más dinero y cuales son las consecuencias?
-- ¿Qué hay escondido tras los sistemas financieros hoy?
-- *¿Cuál es el peligro invisible de la pérdida de valor del dinero?*
-- *¿Cómo podemos darle valor adicional a nuestros ahorros*?
+- Come siamo arrivati ​​a questo?
+- Come, perché e per cosa viene creato altro denaro e quali sono le conseguenze?
+- Cosa si nasconde oggi dietro i sistemi finanziari?
+- *Qual è il pericolo invisibile della perdita di valore del denaro?*
+- *Come possiamo dare un valore aggiunto ai nostri risparmi?*
 
-Hoy, sólo los bancos y los gobiernos tienen el poder de emitir dinero en una economía.
+Oggi solo le banche ed i governi hanno il potere di emettere moneta in un'economia.
 
-El dinero simplemente no se acaba. Los gobiernos imprimen la cantidad de dinero necesaria para financiar sus gastos públicos, inyectar recursos en la economía y retirarlos después en forma de impuestos. 
+I soldi semplicemente sono illimitati. I governi stampano la quantità di denaro necessaria per finanziare la loro spesa pubblica, iniettano risorse nell'economia e poi le ritirano sotto forma di tasse.
 
-El problema es que como humanidad, gastamos más de lo que generamos. Como consecuencia:
+Il problema è che come umanità spendiamo più di quanto generiamo. Dovuto a:
 
-- pérdida de confianza en el valor del dinero y en el sistema bancario moderno.
-- inestabilidad económica y política mundial e incluso, trae guerras. Porqué?
+- perdita di fiducia nel valore del denaro e nel sistema bancario moderno.
+- instabilità economica e politica globale che porta persino allo scoppiare di nuove guerre. Come mai?
 
-### **Nuestras necesidades son infinitas pero nuestros recursos escasos.**
-
-
-
-**La Modernización** 
-
-> ‘*Se ****debe confiar en los bancos para que retengan nuestro dinero y lo transfieran electrónicamente, pero lo prestan en oleadas de burbujas crediticias con apenas una fracción en reserva.’ –Satoshi Nakamoto*
+### **I nostri bisogni sono infiniti ma le nostre risorse sono limitate.**
 
 
-El negocio bancario consiste en: 
 
-- La compra de dinero en forma de depósitos de los ahorradores, y su posterior venta mediante préstamos a aquellos que lo necesitan.
-- Su beneficio, como en cualquier otro negocio, proviene de:
-    - Un mayor precio de venta que el de compra-
-        - la tasa de interés de el dinero que presta es mayor a la que paga a los ahorradores.
-    - Pero la clave del poder bancario ****reside en la posibilidad de:
-        - vender algo que no es de su propiedad**,** sino del ahorrador correspondiente.
-- Los gobiernos controlan la emisión de sus monedas
-    - intentan solucionar ciclos económicos problemáticos
-- Las economías imprimen más dinero en momentos de recesión
-    - estimulan el crecimiento a corto plazo
-    - disminuyen el desempleo a corto plazo
-- La necesidad del papel moneda físico ha perdido su importancia
-    - La banca por internet ha facilitado el uso del crédito
+**La Modernizzazione** 
+
+> ‘Ci si dovrebbe fidare delle banche per detenere il nostro denaro e trasferirlo elettronicamente, ma queste lo prestano creando ondate di bolle del credito con bassa riserva frazionaria.' –Satoshi Nakamoto*
 
 
-💡 **Los Beneficios**
+L'attività bancaria è costituita da:
 
-- Facilitan transacciones inmediatas y planeación hacia el futuro
-- Registran los movimientos de los ahorradores y deudores en bases de datos centralizadas
-- Actualizan constantemente las salidas y entradas de sus usuarios
-- Verifican la legitimidad de las cuentas
-- Si el dinero desaparece en una cuenta por una de múltiples razones, es reemplazable.
-    - Cuentan con pólizas de seguro en caso de ser víctimas de un robo.
+- L'acquisto di denaro sotto forma di depositi dai risparmiatori, e la sua successiva vendita tramite prestiti a chi ne richiede.
+- Il suo profitto, come in qualsiasi altra attività, deriva da:
+    - Un prezzo di vendita superiore al prezzo di acquisto
+        - il tasso di interesse sul denaro che presta è superiore al tasso che paga ai risparmiatori.
+    - Ma la chiave del potere bancario risiede nella possibilità di:
+        - vendere qualcosa che non gli appartiene**,** ma è di proprietà del risparmiatore.
+- I governi controllano l'emissione delle loro valute
+    - tentatano di aggiustare cicli economici problematici
+- Le economie stampano più denaro in tempi di recessione
+    - stimolano la crescita a breve termine
+    - riducono la disoccupazione a breve termine
+- La necessità di carta moneta fisica ha perso la sua importanza
+    - L'internet banking ha reso più facile l'utilizzo del credito
 
 
-💡 **Los Costos.**
+💡 **I Benefici**
 
-- El sistema bancario tiene una única fuente de falla, es centralizado y se puede manipular fácilmente.
+- Facilitano le transazioni immediate e la pianificazione per il futuro
+- Registrano i movimenti di risparmiatori e debitori in banche dati centralizzate
+- Aggiornano costantemente le uscite e gli ingressi di denaro dei propri utenti
+- Verificano la legittimità dei conti
+- Se il denaro scompare in un conto per i più svariati motivi, è rimpiazzabile.
+    - Dispongono di polizze assicurative in caso di essere vittime di una rapina.
+
+
+💡 **I Costi**
+
+- Il sistema bancario ha un unico punto debole, è centralizzato e pertanto può essere facilmente manipolato.
    
     
-- Los gobiernos pueden:
-    - expandir y contraer libremente la oferta monetaria
-    - confiscar cuentas bancarias,
-    - bloquear retiros sin previo aviso,
-    - enfrentar graves problemas técnicos o piratería informática,
-    - eliminar algunos servicios básicos,
-    - maniobrar las tasas de intereses y los impuestos
-    - La inflación alta y tasas de interés negativas causan que el valor del dinero disminuya
+- I governi possono:
+    - espandere e contrarre liberamente l'offerta di moneta
+    - sequestrare conti bancari,
+    - bloccare i prelievi senza preavviso,
+    - affrontare seri problemi tecnici o hacking,
+    - rimuovere alcuni servizi di base,
+    - manovrare i tassi di interesse e le tasse
+    - L'elevata inflazione e i tassi di interesse negativi fanno diminuire il valore del denaro
 
 
-> “Un banco es un lugar en el que prestan a usted un paraguas cuando hace buen tiempo y se lo piden cuando empieza a llover.” (Robert Lee Frost)
+> “Una banca è un posto dove ti prestano un ombrello quando fa bel tempo e te lo chiedono quando inizia a piovere.” (Robert Lee Frost)
 
-### Definición del Dinero
+### Definizione di denaro
 
 Aceptamos pagos en efectivo, cheque y/o tarjeta de crédito a cambio de bienes y servicios
 
