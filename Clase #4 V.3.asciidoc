@@ -17,7 +17,7 @@ L'attacco alle Twin Towers di New York nel 2001 è stato un duro colpo per l'eco
 
 **Come sono stati risolti?** 
 
-- Con el uso de una tecnología desarrollada en 1991,
+- Con l'uso di una tecnologia sviluppata nel 1991,
 
 
 **Chi li ha risolti?**
@@ -130,7 +130,7 @@ Nel quadro della blockchain, ogni Generale è un **nodo nella rete**,
 
 ### *Introduzione al Bitcoin*
 
-Cominciamo con un breve video;
+Cominciamo con un breve video:
 
 Cos'è Bitcoin e come funziona? https://youtu.be/S2HxMK7iO4c
 
