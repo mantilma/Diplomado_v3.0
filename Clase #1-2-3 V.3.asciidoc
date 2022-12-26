@@ -167,61 +167,61 @@ Il denaro può assumere molte forme. Più delle seguenti caratteristiche possied
 **Scarsità** Il valore del denaro dipende dalla domanda e dall'offerta. Più denaro viene offerto e meno è necessario, minore sarà il suo valore**.** 
 
 
-**DENARO CONVENZIONALE e ATTIVI MONETARI** 
+**MONETA CONVENZIONALE e ATTIVI MONETARI** 
 
-- El **dinero convencional** es el dinero de uso general en un país en particular.
-    - Efectivo en circulación, depósitos bancarios y reservas del banco central.
-    - La mayoría es crédito o entradas electrónicas en los libros contables.
-    - **NO NECESARIAMENTE** guarda ****su **VALOR** en el **tiempo**
+- La **moneta convenzionale** è il denaro di uso generale in un determinato paese.
+    - Contanti in circolazione, depositi bancari e riserve della banca centrale.
+    - La maggior parte sono scritture a credito o elettroniche nei libri contabili.
+    - **NON NECESSARIAMENTE** conserva il ****suo **VALORE** nel **tempo**
     
-- Los **ACTIVOS MONETARIOS** generalmente **SI** guardan ****su **VALOR** en el **tiempo**.
+- Gli **ATTIVI MONETARI** generalmente **SI** che conservano il ****loro **VALORE** nel **tempo**.
 
-**Tipos de dinero:**
+**Tipi di moneta:**
 
 - Moneta **Merce**:
-    - difíciles de extraer,  escasos
-    - atractivos como reserva de valor
-    - oro y plata perduraron como buen dinero durante miles de años
+    - difficile da estrarre, scarsa
+    - attraente come riserva di valore
+    - l'oro e l'argento sono durati come una buona moneta per migliaia di anni
     
-    **Activo Monetario** 
+    **Attivo Monetario** 
     
-- **Representativo**:
-    - billetes respaldados en oro o plata
-    - cada billete se intercambia por su valor equivalente en metal
-    - En la historia moderna, el patrón oro duró hasta 1971.
+- **Moneta rappresentativa**:
+    - banconote con sottostante rappresentato da oro o argento
+    - ogni banconota viene convertita con il suo controvalore in metallo
+    - Nella storia moderna, il gold standard è durato fino al 1971.
     
-    **Activo Monetario (Inicialmente)**
+    **Attivo Monetario (Inicialmente)**
     
-    **Dinero Convencional(Al pasar del tiempo-**si se incrementa la oferta monetaria**)** 
+    **Moneta convenzionale (Nel tempo, **se l'offerta di moneta aumenta**)** 
     
-- **Fiat o moneda fiduciaria**:
-    - Implementada como monopolio y emitida a voluntad por un gobierno
-    - no está respaldada por un producto físico
-    - no tiene valor intrínseco; su valor depende de:
-        - la relación entre oferta y demanda
-        - la estabilidad del gobierno emisor.
+- **Fiat o moneta fiduciaria**:
+    - Implementata come monopolio ed emessa a piacimento da un governo
+    - non ha nessun sottostante fisico
+    - non ha valore intrinseco; il suo valore dipende da:
+        - il rapporto tra domanda e offerta
+        - la stabilità del governo emittente.
     
-    **Dinero Convencional (**El fiat digital tiene más riesgo de contraparte que el físico**)**
+    **Moneta convenzionale (**La fiat digitale ha più rischio di controparte rispetto a quella fisica**)**
     
 - **Bitcoin**:
-    - moneda digital escasa
-    - opera de manera descentralizada
-    - se basa en software y criptografía “persona a persona” para realizar movimientos.
+    - moneta digitale scarsa
+    - opera in maniera decentralizzata
+    - si basa su software e crittografia “peer to peer” per effettuare i movimenti.
     
-    **Activo Monetario**
+    **Attivo Monetario**
     
 
-**Ejercicio Práctico.**  Marque con una X si el artículo cumple con la característica indicada. Cuál articulo escogería como dinero? 
+**Esercizio pratico.** Segna con una X se l'articolo soddisfa le caratteristiche indicate. Quale oggetto sceglieresti come denaro?
 
-(No llenemos la última columna ‘Bitcoin’ hasta completar el cuarto capítulo.)
+(Non compiliamo l'ultima colonna "Bitcoin" fino al completamento del quarto capitolo.)
 
-Es un buen activo monetario? 
+È un buon attivo monetario?
 
-Un dinero útil debe ser portátil, divisible, duradero, escaso, reconocible y fungible
+Una moneta utile deve essere portabile, divisibile, durevole, scarsa, riconoscibile e fungibile
 
-**Actividad o Tarea-Las Uvas Secas Cómo Dinero** 
+**Attività o Compito-Uva Secca Come Denaro**
 
-# Clase #**2**
+# Lezione #**2**
 
 # Historia, Evolución y Devaluación del Dinero
 
