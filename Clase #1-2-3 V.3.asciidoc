@@ -359,92 +359,92 @@ Recurso: Economía desde Cero, *Dinero*, Canal Encuentro, Argentina
 Segui le istruzioni dell'insegnante
 
 
-# Clase #*3*
+# Lezione #*3*
 
-## Los Efectos **del Dinero Fiat y la Centralización**
+## Gli effetti **del denaro fiat e della centralizzazione**
 
-## Actividad de clase - ¡Subasta!
+## Attività di classe - Asta!
 
-Siga las instrucciones del maestro para la siguiente actividad.
+Segui le indicazioni dell'insegnante per l'attività successiva.
 
-### Inflación
+### Inflazione
 
-De manera introductoria, analizaremos el siguiente video sobre qué es la inflación:
+In modo introduttivo, analizzeremo il seguente video su cosa sia l'inflazione:
 
 https://youtu.be/gkDQGribCfc
 
-Recurso:*Causas de la Inflación*, Video,Banco de la República, Colombia
+Risorsa:*Cause dell'inflazione*, Video, Banco de la República, Colombia
 
-- **Definición**:
-    - Originalmente el término se usaba para indicar:
-        - la pérdida de valor de una moneda,
-        - la devaluación de su poder adquisitivo provocada por el aumento de su oferta.
-    - Esta perdida de valor normalmente produce, en términos de dicha moneda:
-        - un aumento general y sostenido en el precio de todos los bienes y servicios
-    - El término “inflación” pasó a utilizarse también para indicar el aumento de precios
-        - independientemente de la causa.
+- **Definizione**:
+    - Originariamente il termine era usato per indicare:
+        - la perdita di valore di una moneta,
+        - la svalutazione del suo potere d'acquisto causata dall'aumento della sua offerta.
+    - Tale perdita di valore produce normalmente, in termini di detta moneta:
+        - un aumento generale e sostenuto del prezzo di tutti i beni e servizi
+    - Il termine "inflazione" venne utilizzato anche per indicare l'aumento dei prezzi
+        - indipendentemente dalla causa.
     
-     **Porqué nos importa?**
+     **Perché ci interessa?**
     
-    - Cuando más dinero persigue la misma cantidad de bienes:
-        - los precios suben.
-    - Si los precios de los productos aumentan más rápido que los sueldos y salarios:
-        - las personas se empobrecen. 
+    - Quando più denaro persegue la stessa quantità di beni:
+        - i prezzi salgono.
+    - Se i prezzi dei prodotti aumentano più velocemente dei salari e degli stipendi:
+        - le persone diventano più povere.
         
-        **McDonald’s en 1970:**
+        **McDonald’s nel 1970:**
     
   
     
-        **McDonald’s en el 2022:**
+        **McDonald’s nel 2022:**
     
     
     
 
-**¿Que nos enseñan los economistas modernos?**
+**Cosa ci insegnano gli economisti moderni?**
 
-- Necesitamos estimular la inflación para poder administrar eficazmente una nación.
-- Si no incentivamos el gasto y la inversión (a través de la devaluación de la moneda):
-    - arriesgamos a una menor demanda,
-    - desatando una producción disminuida y
-    - llevando en el peor caso a una economía estancada.
-    - Todo esto implica que es ****difícil, imposible o hasta no recommendable ahorrar.
-- La situación actual nos incentiva a gastar. Es una teoría contraproducente.
-    - No pensamos en un futuro más allá que un par de días, semanas o meses
-    - Deberíamos poder prepararnos para el futuro de nuestros nietos
-    - La inflación simplemente no nos permite tener disciplina financiera.
-- Nuestras decisiones tienen consecuencias.
-    - Esto se conoce como el **“costo de oportunidad”**
+- Dobbiamo stimolare l'inflazione per gestire efficacemente una nazione.
+- Se non incoraggiamo la spesa e gli investimenti (attraverso la svalutazione della valuta):
+    - rischiamo una domanda inferiore,
+    - innescando una diminuzione della produzione e
+    - portando nel peggiore dei casi a un'economia stagnante.
+    - Tutto ciò implica che è **** difficile, impossibile o addirittura sconsigliato risparmiare.
+- La situazione attuale ci incoraggia a spendere. È una teoria controproducente.
+    - Non pensiamo a un futuro oltre un paio di giorni, settimane o mesi
+    - Dovremmo essere in grado di preparare il futuro dei nostri nipoti
+    - L'inflazione semplicemente non ci consente di avere una disciplina finanziaria.
+- Le nostre decisioni hanno delle conseguenze.
+    - Questo è noto come il **"costo opportunità"**
     
-    - La inflación fomenta una **Preferencia Temporal Alta,** lo que significa que preferimos  $100 hoy en vez de $200 en dos años.
+    - L'inflazione incoraggia una **preferenza temporale elevata**, il che significa che preferiamo $100 oggi invece di $200 tra due anni.
     
   
-    - Nuestro objetivo debería ser crear una **preferencia temporal baja.**
+    - Il nostro obiettivo dovrebbe essere quello di creare una **preferenza temporale bassa.**
     
    
     
-    Vemos las siguientes tres razones por las que ocurre inflación:
+    Vediamo i seguenti tre motivi per cui si verifica l'inflazione:
     
     https://youtu.be/_DpyCXNiY7E
     
-    Recurso: *Causas de la Inflación,* Video, Banco de la República, Colombia
+    Risorsa: *Cause dell'Inflazione,* Video, Banco de la República, Colombia
     
-    1. **Inflación de costos o de oferta**
-    - Aumenta el precio de los insumos
-        - Causas:
-            - Regulaciones gubernamentales, guerras, sequías, dificultades en la cadena de suministro y otras situaciones.
-            - Alza en las tazas de impuestos incrementan el costo de las materias primas
-            - Los trabajos especializados se vuelven más costosos
-                - falta de habilidades o recursos en una sociedad
-            - Las nuevas tecnologías suelen ser muy caras
-                - con el tiempo disminuyen el costo de los productos.
-    1. **Inflación de demanda**
-        1. La oferta de bienes no alcanza a cubrir la demanda
-        2. Debido a una reducción de impuestos o reducción en las tasas de intereses en los préstamos) 
-            - se crea un aumento en el ingreso disponible...
-            - empieza a circular en el mercado el exceso…
-            - se compite por conseguir los mismos bienes con más dinero…
-                - esto hace subir los precios...
-        - eventualmente aumenta la oferta, y luego los precios vuelven a bajar.
+    1. **Inflazione dei costi o dell'offerta**
+    - Aumenta il prezzo dei fattori di produzione
+        - Cause:
+            - Regolamenti governativi, guerre, siccità, difficoltà nella catena di approvvigionamento e altre situazioni.
+            - L'aumento delle aliquote fiscali aumenta il costo delle materie prime
+            - I lavori specializzati diventano più costosi
+                - mancanza di competenze o risorse in una società
+            - Le nuove tecnologie sono spesso molto costose
+                - nel tempo il costo dei prodotti diminuisce.
+    1. **Inflazione della domanda**
+        1. L'offerta di beni non è sufficiente a coprire la domanda
+        2. A causa di una riduzione delle imposte o della riduzione dei tassi di interesse sui prestiti
+            - crea un aumento del reddito disponibile...
+            - L'eccesso comincia a circolare nel mercato...
+            - Si gareggia per ottenere gli stessi beni con più soldi...
+                - Questo fa salire i prezzi...
+        - alla fine l'offerta aumenta e quindi i prezzi tornano a scendere.
     
     1. **Inflación por políticas gubernamentales**
     - El gobierno financia el déficit con emisión
