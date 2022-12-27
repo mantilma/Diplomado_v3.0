@@ -283,80 +283,80 @@ https://www.youtube.com/watch?v=zcYw8a4RJC4
 Recurso: Economía desde Cero, *Dinero*, Canal Encuentro, Argentina
 
 
-- El dinero ha evolucionado a lo largo de la historia, enfrentando desafíos y cambios de necesidades…
-    - Normalmente, se eligió la forma de dinero que ofrecía las características superiores.
-    - Pero desde que se empezaron a recortar  las monedas y la transición de metales preciosos a  metales respaldados por papel…
-        - pasamos de una selección natural de la forma de dinero con mejor rendimiento,
-        - a una de facilidad de uso, mayor portabilidad y divisibilidad.
-    - Hubo un cambio hacia la centralización.
+- Il denaro si è evoluto nel corso della storia, affrontando sfide e mutevoli esigenze...
+    - In genere, veniva scelta la forma di denaro che offriva le caratteristiche superiori.
+    - Ma da quando si iniziò a ridurre le monete ed il passaggio da metalli preziosi a metalli garantiti dalla carta...
+        - siamo passati da una selezione naturale della forma di denaro con le migliori prestazioni,
+        - a uno di facilità d'uso, maggiore portabilità e divisibilità.
+    - C'è stato uno spostamento verso la centralizzazione.
     
     ### Cambio Repentino al Fiat
     
-    La época industrial marcó el inicio de la centralización:
+    L'era industriale segnò l'inizio della centralizzazione:
     
-    - El objetivo era distribuir correctamente los bienes producidos
-        - Se crearon los Bancos Centrales
-        - Nació el sistema de tarjetas de crédito y débito
+    - L'obiettivo era quello di distribuire correttamente i beni prodotti
+        - Si crearono le banche centrali
+        - Nasce il sistema delle carte di credito e di debito
     
-    Cuando el dinero se centraliza, pueden ocurrir problemas profundos. 
+    Quando il denaro è centralizzato, possono verificarsi problemi profondi.
     
-    - Los gobierno monitorean de cerca la actividad económica de sus ciudadanos
-    - El abuso de poder puede llevar a
-        - estímulos económicos e intervenciones gubernamentales
-        - explosión de deuda y consumo irresponsable
-            - Aumento en la desigualdad de riqueza
+    - I governi controllano da vicino l'attività economica dei loro cittadini
+    - L'abuso di potere può portare a
+        - stimoli economici e interventi governativi
+        - esplosione del debito e consumi irresponsabili
+            - Aumento della disuguaglianza di ricchezza
     
-    - Hasta 1971, se usaba dinero representativo: medio de intercambio y reserva de valor.
-    - Nos alejamos del dinero sólido hacia un mundo basado en la deuda
-        - Richard Nixon, eliminó la libre convertibilidad del oro por el dinero
-        - Pasamos al experimento actual, que es el dinero **fiat**.
-        - El dinero moderno es por decreto  y no por consenso.
-            - **Fiat** viene del latín y significa por decreto: es elegido y establecido por ley
+    - Fino al 1971 si usava la moneta rappresentativa: mezzo di scambio e riserva di valore.
+    - Ci stiamo allontanando da hard money verso un mondo basato sul debito
+        - Richard Nixon, ha eliminato la libera convertibilità dell'oro in denaro
+        - Passiamo all'esperimento attuale, che è denaro **fiat**.
+        - La moneta moderna è per decreto e non per consenso.
+            - **Fiat** deriva dal latino e significa per decreto: è scelto e stabilito dalla legge
             
 
-> “Aquello que funcionó ayer, no necesariamente funcionará hoy.” Jordan Peterson
+> “Ciò che ha funzionato ieri non funzionerà necessariamente oggi.” Jordan Peterson
 
 
-**Los Bancos Centrales**
+**Le Banche centrali**
 
-- **El objetivo y función del Banco Central:**
-    - Controla la política monetaria del país con el fin de garantizar estabilidad
-    - Su función: Ser el banquero de los bancos.
-    - Su trabajo principal: manipular la oferta del dinero en circulación
-        - **Controlar la inflación y maximizar el empleo a con políticas económicas y financieras**
-    - El Banco Central de los EEUU se llama La Reserva Federal.
+- **Obiettivo e funzione della Banca Centrale:**
+    - Controlla la politica monetaria del paese al fine di garantire la stabilità
+    - La sua funzione: essere il banchiere delle banche.
+    - Il loro compito principale: gestire l'offerta di denaro in circolazione
+        - **Controllare l'inflazione e massimizzare l'occupazione con politiche economiche e finanziarie**
+    - La banca centrale degli Stati Uniti si chiama Federal Reserve.
     
-    - ¿Quién define y quién se beneficia de estos objetivos?
-        - Los grandes bancos -pueden influenciar las políticas federales, e incluso globales.
-    - Cómo  altera la oferta monetaria la Reserva Federal?
-        - A través del sistema bancario **de reserva fraccionaria**,
-        - Los Bancos en EEUU sólo mantienen un 10% de sus depósitos en sus reservas .
-        - La banca de reserva fraccionaria resulta en un m**ultiplicador bancario**
-        - Más de dos personas usan el mismo dinero a la vez en la economía de un país .
+    - Chi stabilisce e chi beneficia di questi obiettivi?
+        - Le grandi banche possono influenzare le politiche federali e persino globali.
+    - In che modo la Federal Reserve modifica l'offerta di moneta?
+        - Attraverso il sistema bancario della **riserva frazionaria**,
+        - Le banche negli Stati Uniti mantengono solo il 10% dei loro depositi nelle loro riserve.
+        - La riserva frazionaria bancaria si traduce in un **moltiplicatore bancario**
+        - Più di due persone usano contemporaneamente gli stessi soldi nell'economia di un paese.
             
            
-            💡 Los bancos tienen la obligación de mantener un cierto porcentaje de todos los depósitos en el banco.Reducir ese porcentaje significa que puede circular más dinero, y aumentarlo significa que circula menos dinero.
+            💡 Le banche sono tenute a mantenere una certa percentuale di tutti i depositi in banca. Ridurre tale percentuale significa che può circolare più denaro e aumentarla significa che circola meno denaro.
             
            
             
         
-    - ¿Qué problemas puede provocar la banca de **reserva fraccionaria?**
-        - Los bancos «piden prestado y prestan a largo plazo».
-            - El retiro de depósitos excede las reservas de efectivo.
-            - Los bancos incurren grandes pérdidas
-            - En los peores de los casos se produce una corrida bancaria.
-        - Los cambios en las tasas de interés o el costo del capital afectan el riesgo.
-            - + dinero en circulación…préstamos más baratos y menos exigentes.
+    - Quali problemi può causare il **sistema bancario a riserva frazionaria?**
+        - Le banche "prendono in prestito e prestano a lungo termine".
+            - I prelievi sui depositi superano le riserve di contante.
+            - Le banche subiscono enormi perdite
+            - Nei casi peggiori si verifica una corsa agli sportelli.
+        - Le variazioni dei tassi di interesse o del costo del capitale influiscono sul rischio.
+            - + denaro in circolazione…prestiti più convenienti e meno esigenti.
         
-    - Operaciones de mercado abierto (para aumentar o disminuir el dinero en circulación)
-        - El gobierno compra o vende títulos monetarios (deuda de alta liquidez).
-            - Si quieren aumentarlo: compran bonos de la tesorería.
-            - Si quieren disminuirlo: venden bonos de la tesorería
+    - Operazioni di mercato libero (per aumentare o diminuire il denaro in circolazione)
+        - Il governo acquista o vende titoli monetari (debito ad alta liquidità).
+            - Se vogliono aumentarlo: comprano buoni del tesoro.
+            - Se vogliono diminuirlo: vendono buoni del tesoro
     
 
-# Actividad Reserva Fraccionaria
+# Attività di riserva frazionaria
 
-Siga las instrucciones del maestro
+Segui le istruzioni dell'insegnante
 
 
 # Clase #*3*
