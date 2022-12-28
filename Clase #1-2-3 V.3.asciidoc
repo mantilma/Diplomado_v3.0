@@ -446,104 +446,104 @@ Risorsa:*Cause dell'inflazione*, Video, Banco de la República, Colombia
                 - Questo fa salire i prezzi...
         - alla fine l'offerta aumenta e quindi i prezzi tornano a scendere.
     
-    1. **Inflación por políticas gubernamentales**
-    - El gobierno financia el déficit con emisión
-        - ¿Son auténticos los trabajos/proyectos que se crean a través de la inflación?
-        - ¿Por qué es importante para los gobiernos que la gente compre cosas con su dinero?
-        - ¿Que tipos de bienes compramos como sociedad cuando existe mas dinero en la economía? Son bienes esenciales para vivir?
-        - Qué sucede cuando las tasas de impuestos suben con más  velocidad que el incremento en los salarios en una economía?
+    1. **Inflazione dovuta alle politiche del governo**
+    - Il governo finanzia il disavanzo con l'emissione
+        - I posti di lavoro/progetti creati dall'inflazione sono autentici?
+        - Perché è importante per i governi che le persone comprino le cose con i loro soldi?
+        - Quali tipi di beni acquistiamo come società quando c'è più denaro nell'economia? Sono beni essenziali per vivere?
+        - Cosa succede quando le aliquote fiscali aumentano più velocemente dell'aumento dei salari in un'economia?
     
-    - La inflación significa que el trabajo que hiciste hace un tiempo tiene menor valor que  el de hoy.
-        - El año pasado te pagaron $10; compraste 10 almuerzos a $1 cada uno.
-        - Decidiste guardarlos.
-        - Hoy hay :
-            - más dinero en la economía circulando
-            - más gente queriendo comprar almuerzos
-            - la misma cantidad de almuerzos a la venta
-            - el precio sube a $2 por almuerzo.
-        - Sólo podrás comprar 5 almuerzos con los $10 dólares que ahorraste.
-        - En teoría, esto no tiene sentido. Si pones 8 horas de trabajo, esa realidad no cambia aunque hayan pasado 10 años. Esa energía debería poder quedarse contigo.
-        - Podríamos decir que la inflación es un tipo de robo de valor.
+    - L'inflazione comporta che il lavoro che hai fatto qualche tempo fa vale meno di quello di oggi.
+        - L'anno scorso ti hanno pagato $ 10; hai comprato 10 pranzi per $ 1 ciascuno.
+        - Hai deciso di tenerli.
+        - Oggi c'è:
+            - più denaro circolante nell'economia
+            - più persone che vogliono comprare pranzi
+            - lo stesso numero di pranzi in vendita
+            - il prezzo sale a $ 2 per il pranzo.
+        - Potrai acquistare solo 5 pranzi con i $ 10 che hai risparmiato.
+        - In teoria, questo non ha senso. Se impieghi 8 ore di lavoro, quella realtà non cambia anche se sono passati 10 anni. Quell'energia dovrebbe essere in grado di rimanere con te.
+        - Potremmo dire che l'inflazione è un tipo di furto di ricchezza.
         
 
-En el siguiente gráfico podemos ver la perdida de valor del dolar Americano. 
+Nel grafico seguente possiamo vedere la perdita di valore del dollaro americano.
 
 
-Recurso: 
+Risorsa:
 
 *Declining purchasing power of the US dollar strengthens Bitcoin,* https://cryptopotato.com/is-there-a-pattern-between-usd-dow-jones-and-bitcoin/, Toju Ometoruwa
 
-- **Inflación a traves del tiempo**
-    - La inflación entre 1970 y 2020 fue mucho mayor que la del período de 50 años anterior, 1920 a 1970.
-    - Que pasará si seguimos en la misma trayectoria?
-    - Quien tuvo un castigo económico mayor, la generación de tus abuelos o la de tus padres?
+- **inflazione nel corso del tempo**
+    - L'inflazione tra il 1970 e il 2020 è stata molto più alta di quella del precedente periodo di 50 anni, dal 1920 al 1970.
+    - Cosa succederà se continuiamo sulla stessa traiettoria?
+    - Chi ha avuto una sofferenza economica maggiore, la generazione dei tuoi nonni o quella dei tuoi genitori?
     
-    - $1 de 1920 a 1970:
+    - $ 1 dal 1920 al 1970:
         
        
-    - $1 de 1970 a 2020:
+    - $ 1 dal 1970 al 2020:
             
 
  
 
-Crees que los salarios subieron a la par de los precios? 
+Pensi che i salari siano aumentati insieme ai prezzi?
 
 
-Dicho desde otro punto de vista, lo que hoy (2022) compramos con $100, nos hubiera costado aproximadamente $7 en 1920. 
+Detto da un altro punto di vista, quello che compriamo oggi (2022) con $100, ci sarebbe costato circa $7 nel 1920.
 
-La inflación causa pérdida en el p**oder adquisitivo:** 
+L'inflazione causa la perdita del **potere d'acquisto:** 
 
-- los aumentos en los salarios son menores que los aumentos en los precios de la comida
-- los individuos se ven obligados a reducir su consumo
-- se disminuye la capacidad de compra.
+- gli aumenti dei salari sono inferiori agli aumenti dei prezzi dei generi alimentari
+- gli individui sono costretti a ridurre i propri consumi
+- il potere d'acquisto è ridotto.
 
-Para mayor visibilidad y análisis de otros periodos puedes ir aquí:
+Per una maggiore visibilità e analisi di altri periodi potete andare qui:
 
 https://www.wolframalpha.com/input?i=100+1970+usd+in+2020
 
 
-### Vigilancia
+### Sorveglianza
 
-Los gobiernos imponen regulaciones con el fin de encontrar y atrapar personas que lavan dinero o hacen otro tipo de transacciones ilegales. 
+I governi impongono regolamenti per trovare e catturare persone che riciclano denaro o effettuano altri tipi di transazioni illegali.
 
-- La vigilancia es un arma de doble filo.
-- Cuanto más fraude ocurra, más vigilancia por parte del Estado y compañías privadas
-    - invaden nuestra privacidad gracias al progreso tecnológico
-    - controlan nuestros movimientos en las redes sociales y económicas
-    - Intercambio de datos personales a cambio del disfrute de ciertos servicios.
-- Consecuencias:
-    - estafas digitales, acoso en línea, extorsión, usurpación de identidad y otros problemas que ponen en peligro la privacidad y la seguridad de los usuarios.
-    - Nuestras compras con tarjetas se registran, analizan y se vigilan
-        - a menos que compremos bienes y servicios en efectivo
-- Si alguien consigue tu contraseña de tu banca en internet, o hackea los servidores centralizados, tendría acceso a toda la información.
+- La sorveglianza è un'arma a doppio taglio.
+- Più frodi si verificano, maggiore è la sorveglianza da parte dello Stato e delle aziende private
+    - invadono la nostra privacy grazie al progresso tecnologico
+    - controllano i nostri movimenti nelle reti sociali ed economiche
+    - Scambio di dati personali in cambio della fruizione di determinati servizi.
+- Conseguenze:
+    - truffe digitali, molestie online, estorsioni, furto di identità e altri problemi che mettono in pericolo la privacy e la sicurezza degli utenti.
+    - I nostri acquisti con carta vengono registrati, analizzati e monitorati
+        - a meno che non acquistiamo beni e servizi in contanti
+- Se qualcuno ottiene la tua password dal tuo internet banking o hackera i server centralizzati, ottiene accesso a tutte le informazioni.
 
-💡 Necesitamos un dinero que resguarde nuestra privacidad y no comparta toda nuestra información personal con gobiernos y empresas privadas.
+💡 Abbiamo bisogno di denaro che protegga la nostra privacy e non condivida tutte le nostre informazioni personali con governi e aziende private.
 
 
 
-¿Cómo nos vigilan en internet?
+Come ci monitorano su Internet?
 https://youtu.be/-sWgOuFIaws
 
-### Restricción
+### Restrizioni
 
-- Es que es difícil y costoso mover dinero entre naciones.
-- Los gobiernos controlan los intercambios de divisas, aunque se haga entre dos personas conocidas.
+- È difficile e costoso spostare denaro tra nazioni.
+- I governi controllano tutti gli scambi di valuta.
 
-Aquí hay una lista de políticas y formas en que esto puede suceder:
+Ecco un elenco di politiche e modi in cui ciò può accadere:
 
-- **Políticas gubernamentales**
-    - Control de Capitales: Se restringe la cantidad de dinero que sus ciudadanos pueden transferir, cambiar o llevar al extranjero.
-        - Ejemplos:
-            - Argentina, Rusia, Indonesia, Cuba y China
-            - El ciudadano promedio de China, solo puede convertir hasta $ 50.000 de renminbi (aprox. $8.000 USD) cada año.
+- **Politiche di governo**
+    - Controllo del capitale: la quantità di denaro che i suoi cittadini possono trasferire, modificare o portare all'estero è limitata.
+        - Esempi:
+            - Argentina, Russia, Indonesia, Cuba e Cina
+            - Il cittadino cinese medio può convertire solo fino a $ 50.000 Renminbi (circa $ 8.000 USD) ogni anno.
     
-    > “*La única solución que hemos encontrado en Cuba es Bitcoin. Estamos ahora mismo en las mismas igualdades, la misma posibilidad de competir con cualquier otro país, porque tenemos acceso pleno, libre, sin sanciones ni prohibiciones a esa tecnología que nos permite crear, crecer y conectar.”*
-    > 
+    > “*L'unica soluzione che abbiamo trovato a Cuba è Bitcoin. In questo momento ci troviamo nelle stesse pari opportunità, nella stessa possibilità di competere con qualsiasi altro paese, perché abbiamo pieno, libero accesso, senza sanzioni o divieti, a questa tecnologia che ci permette di creare, crescere e connetterci.”*
+    >
     
-       *Eric García Cruz, emprendedor cubano y entusiasta de Bitcoin.*
+       *Eric García Cruz, Imprenditore cubano e appassionato di Bitcoin.*
     
-- **Políticas bancarias**
-    - Los bancos tienen límites sobre la cantidad de efectivo que se puede retirar de una cuenta, o tienen un máximo que se puede transferir.
+- **Politiche bancarie**
+    - Le banche hanno limiti sulla quantità di denaro che può essere prelevata da un conto o hanno un limite massimo che può essere trasferito.
     - La mayoría de estas transacciones tienen comisiones
         - Grecia, tras la crisis de 2015, sus ciudadanos solo podían retirar $60 euros al día,
             - este es un claro recordatorio de quién realmente controla tu dinero.
