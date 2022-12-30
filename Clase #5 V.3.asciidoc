@@ -1,4 +1,4 @@
-# Compra, Custodia y Movimiento de bitcoin
+# Acquisto, Custodia e Trasferimento di bitcoin
 
 ### Rampas de Entrada y Salida
 
