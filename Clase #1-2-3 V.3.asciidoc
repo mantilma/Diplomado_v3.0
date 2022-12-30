@@ -1,624 +1,624 @@
 
 
-# Clase #*1*
+# Lezione #*1*
 
-# El Sistema Monetario
+# Il Sistema Monetario
 
-### Actividad “Introducción al dinero”
+### Attività “Introduzione al denaro”
 
-## ¿Qué problemas existen con el dinero de hoy?
+## Quali problemi esistono con i soldi di oggi?
 
-Estamos programados para resistir los desafíos de la vida y progresar. Es un proceso humano natural el querer superarnos, llevar una vida productiva, creativa y valiosa, pero:
+Siamo programmati per resistere alle sfide della vita e prosperare. È un processo umano naturale voler migliorare noi stessi, condurre una vita produttiva, creativa e di valore, ma:
 
-- Vivimos en un mundo donde hay mucho para pocos, y muy poco muchos.
-    - Los individuos de menores recursos económicos:
-        - no cuentan con las mismas oportunidades. Porqué?
-            - no tienen acceso a los mismos niveles de educación,
-            - no pueden acceder a los créditos necesarios comenzar sus negocios.
+- Viviamo in un mondo dove c'è molto per pochi e molto poco per molti.
+    - Individui con minori risorse economiche:
+        - Non hanno le stesse opportunità. Come mai?
+            - non hanno accesso agli stessi livelli di istruzione,
+            - non possono accedere al credito finanziario necessario per avviare i loro affari.
 
-Para reducir la pobreza y estimular el bienestar social, es importante:
+Per ridurre la povertà e stimolare il benessere sociale, è importante:
 
-- mejorar el acceso a la educación financiera,
+- migliorare l'accesso all'educazione finanziaria,
+- sviluppare la capacità di gestire il denaro,
 - desarrollar la capacidad de administrar dinero,
-- aprender a utilizar nuevas tecnologías de manera responsable
-- planear para el futuro.
+- pianificare il futuro.
 
-Veremos que Bitcoin es una herramienta y un tipo de dinero:
+Vedremo che Bitcoin è uno strumento e un tipo di denaro:
 
-- transparente, descentralizado, global, digital, barato, privado, programable, de fácil y rápido acceso, que puede ayudar a remediar estos problemas.
+- trasparente, decentralizzato, globale, digitale, economico, privato, programmabile, veloce e di facile accesso, che può aiutare a risolvere questi problemi.
 
-**Consecuencias del desarrollo de nuestra civilización**
+**Conseguenze dello sviluppo della nostra civiltà**
 
-Las personas siempre han necesitado alguien que financie sus aspiraciones del futuro.
+Le persone hanno sempre avuto bisogno di qualcuno che finanziasse le loro aspirazioni per il futuro.
 
-- Formas de intercambiar salarios, tiempo, y energía por depósitos de valor.
+- Modi di scambiare salari, tempo ed energia con riserve di valore.
 
-Si no hubiésemos evolucionado, habríamos quedado reducidos a una economía de trueque. 
+Se non ci fossimo evoluti, saremmo stati ridotti a un'economia basata sul baratto.
 
-- Cada cosa que alguien quisiera comprar tendría que ser canjeada por algo que esa persona pudiera proveer.
+- Ogni cosa che qualcuno avesse voluto comprare avrebbe dovuto scambiarla in cambio di qualcos'altro.
 
-El desarrollo permanente ha revolucionado las sociedades y la interacción global
+Lo sviluppo permanente ha rivoluzionato le società e l'interazione globale
 
-- En general, con un interés común de mejorar la calidad de vida de futuras civilizaciones
-    - A medida que la tecnología avanza y aumenta la productividad, debería(n)(mos):
-        - bajar los precios de forma natural
-        - fortalecerse la moneda
-        - poder comprar más por menos.
-    - Pero sucede lo contrario
-        - Los precios suben, las monedas se debilitan y compramos menos por más
+- In generale, con un comune interesse a migliorare la qualità della vita delle generazioni future
+    - Man mano che la tecnologia avanza e la produttività aumenta, dovremmo avere:
+        - il diminuire i prezzi in modo naturale
+        - il rafforzarsi della moneta
+        - il potere di comprare di più a meno.
+    - Ma accade il contrario
+        - I prezzi salgono, le valute si indeboliscono e compriamo di meno a più
     
-- ¿Cómo hemos llegado hasta aquí?
-- ¿Cómo, porqué, y para qué se crea más dinero y cuales son las consecuencias?
-- ¿Qué hay escondido tras los sistemas financieros hoy?
-- *¿Cuál es el peligro invisible de la pérdida de valor del dinero?*
-- *¿Cómo podemos darle valor adicional a nuestros ahorros*?
+- Come siamo arrivati ​​a questo?
+- Come, perché e per cosa viene creato altro denaro e quali sono le conseguenze?
+- Cosa si nasconde oggi dietro i sistemi finanziari?
+- *Qual è il pericolo invisibile della perdita di valore del denaro?*
+- *Come possiamo dare un valore aggiunto ai nostri risparmi?*
 
-Hoy, sólo los bancos y los gobiernos tienen el poder de emitir dinero en una economía.
+Oggi solo le banche ed i governi hanno il potere di emettere moneta in un'economia.
 
-El dinero simplemente no se acaba. Los gobiernos imprimen la cantidad de dinero necesaria para financiar sus gastos públicos, inyectar recursos en la economía y retirarlos después en forma de impuestos. 
+I soldi semplicemente sono illimitati. I governi stampano la quantità di denaro necessaria per finanziare la loro spesa pubblica, iniettano risorse nell'economia e poi le ritirano sotto forma di tasse.
 
-El problema es que como humanidad, gastamos más de lo que generamos. Como consecuencia:
+Il problema è che come umanità spendiamo più di quanto generiamo. Dovuto a:
 
-- pérdida de confianza en el valor del dinero y en el sistema bancario moderno.
-- inestabilidad económica y política mundial e incluso, trae guerras. Porqué?
+- perdita di fiducia nel valore del denaro e nel sistema bancario moderno.
+- instabilità economica e politica globale che porta persino allo scoppiare di nuove guerre. Come mai?
 
-### **Nuestras necesidades son infinitas pero nuestros recursos escasos.**
-
-
-
-**La Modernización** 
-
-> ‘*Se ****debe confiar en los bancos para que retengan nuestro dinero y lo transfieran electrónicamente, pero lo prestan en oleadas de burbujas crediticias con apenas una fracción en reserva.’ –Satoshi Nakamoto*
+### **I nostri bisogni sono infiniti ma le nostre risorse sono limitate.**
 
 
-El negocio bancario consiste en: 
 
-- La compra de dinero en forma de depósitos de los ahorradores, y su posterior venta mediante préstamos a aquellos que lo necesitan.
-- Su beneficio, como en cualquier otro negocio, proviene de:
-    - Un mayor precio de venta que el de compra-
-        - la tasa de interés de el dinero que presta es mayor a la que paga a los ahorradores.
-    - Pero la clave del poder bancario ****reside en la posibilidad de:
-        - vender algo que no es de su propiedad**,** sino del ahorrador correspondiente.
-- Los gobiernos controlan la emisión de sus monedas
-    - intentan solucionar ciclos económicos problemáticos
-- Las economías imprimen más dinero en momentos de recesión
-    - estimulan el crecimiento a corto plazo
-    - disminuyen el desempleo a corto plazo
-- La necesidad del papel moneda físico ha perdido su importancia
-    - La banca por internet ha facilitado el uso del crédito
+**La Modernizzazione** 
+
+> ‘Ci si dovrebbe fidare delle banche per detenere il nostro denaro e trasferirlo elettronicamente, ma queste lo prestano creando ondate di bolle del credito con bassa riserva frazionaria.' –Satoshi Nakamoto*
 
 
-💡 **Los Beneficios**
+L'attività bancaria è costituita da:
 
-- Facilitan transacciones inmediatas y planeación hacia el futuro
-- Registran los movimientos de los ahorradores y deudores en bases de datos centralizadas
-- Actualizan constantemente las salidas y entradas de sus usuarios
-- Verifican la legitimidad de las cuentas
-- Si el dinero desaparece en una cuenta por una de múltiples razones, es reemplazable.
-    - Cuentan con pólizas de seguro en caso de ser víctimas de un robo.
+- L'acquisto di denaro sotto forma di depositi dai risparmiatori, e la sua successiva vendita tramite prestiti a chi ne richiede.
+- Il suo profitto, come in qualsiasi altra attività, deriva da:
+    - Un prezzo di vendita superiore al prezzo di acquisto
+        - il tasso di interesse sul denaro che presta è superiore al tasso che paga ai risparmiatori.
+    - Ma la chiave del potere bancario risiede nella possibilità di:
+        - vendere qualcosa che non gli appartiene**,** ma è di proprietà del risparmiatore.
+- I governi controllano l'emissione delle loro valute
+    - tentatano di aggiustare cicli economici problematici
+- Le economie stampano più denaro in tempi di recessione
+    - stimolano la crescita a breve termine
+    - riducono la disoccupazione a breve termine
+- La necessità di carta moneta fisica ha perso la sua importanza
+    - L'internet banking ha reso più facile l'utilizzo del credito
 
 
-💡 **Los Costos.**
+💡 **I Benefici**
 
-- El sistema bancario tiene una única fuente de falla, es centralizado y se puede manipular fácilmente.
+- Facilitano le transazioni immediate e la pianificazione per il futuro
+- Registrano i movimenti di risparmiatori e debitori in banche dati centralizzate
+- Aggiornano costantemente le uscite e gli ingressi di denaro dei propri utenti
+- Verificano la legittimità dei conti
+- Se il denaro scompare in un conto per i più svariati motivi, è rimpiazzabile.
+    - Dispongono di polizze assicurative in caso di essere vittime di una rapina.
+
+
+💡 **I Costi**
+
+- Il sistema bancario ha un unico punto debole, è centralizzato e pertanto può essere facilmente manipolato.
    
     
-- Los gobiernos pueden:
-    - expandir y contraer libremente la oferta monetaria
-    - confiscar cuentas bancarias,
-    - bloquear retiros sin previo aviso,
-    - enfrentar graves problemas técnicos o piratería informática,
-    - eliminar algunos servicios básicos,
-    - maniobrar las tasas de intereses y los impuestos
-    - La inflación alta y tasas de interés negativas causan que el valor del dinero disminuya
+- I governi possono:
+    - espandere e contrarre liberamente l'offerta di moneta
+    - sequestrare conti bancari,
+    - bloccare i prelievi senza preavviso,
+    - affrontare seri problemi tecnici o hacking,
+    - rimuovere alcuni servizi di base,
+    - manovrare i tassi di interesse e le tasse
+    - L'elevata inflazione e i tassi di interesse negativi fanno diminuire il valore del denaro
 
 
-> “Un banco es un lugar en el que prestan a usted un paraguas cuando hace buen tiempo y se lo piden cuando empieza a llover.” (Robert Lee Frost)
+> “Una banca è un posto dove ti prestano un ombrello quando fa bel tempo e te lo chiedono quando inizia a piovere.” (Robert Lee Frost)
 
-### Definición del Dinero
+### Definizione di denaro
 
-Aceptamos pagos en efectivo, cheque y/o tarjeta de crédito a cambio de bienes y servicios
+Accettiamo pagamenti in contanti, assegni e/o carte di credito in cambio di beni e servizi
 
-- *No* nos detenemos a pensar que:
-    - todos estos medios de intercambio son únicamente promesas de pago.
+- Noi *non* ci fermiamo a pensare che:
+    - tutti questi mezzi di scambio sono solo promesse di pagamento.
 
-¿Qué es el dinero? https://youtu.be/2yCIKkq8gKA
+Cos'è il denaro? https://youtu.be/2yCIKkq8gKA
 
-**Funciones del Dinero**
+**Funzioni del denaro**
 
-El dinero cumple **tres funciones**: 
+Il denaro svolge **tre funzioni**:
 
-1. Depósito de valor que se puede invertir, ahorrar, solicitar o prestar 
-2. medio de intercambio para pagar bienes y servicios 
-3. unidad de medida que permite comparar los precios entre productos o servicios.
+1. Riserva di valore che può essere investita, risparmiata, presa in prestito o prestata
+2. mezzo di scambio per pagare beni e servizi
+3. unità di misura che consente di confrontare i prezzi tra prodotti o servizi.
 
-Depósito de Valor
+Deposito di valore
 
-- **Definición:** Tiende a mantener su valor a través del tiempo.
+- **Definizione:** Tende a mantenere il suo valore nel tempo.
 
-Medio de intercambio
+Mezzo di scambio
 
-- **Definición:** Elimina el complejo sistema de trueque permitiendo el intercambio de bienes y el pago de deudas con mayor eficiencia.
+- **Definizione:** Elimina il complesso sistema del baratto consentendo lo scambio di merci e il pagamento dei debiti con maggiore efficienza.
 
-Unidad de medida
+Unità di misura
 
-- **Definición:** Permite que exista un patrón universal de un sistema de precios para expresar el valor de bienes y servicios.
-
-
-**Características del Dinero.**
-
-El dinero puede tomar muchas formas. Entre más  de estas características demuestra un tipo de dinero, mejor dinero es.
-
-**Durabilidad** El dinero debe resistir el deterioro físico y perdurar en el tiempo. Debe ser capaz de circular en la economía en un estado aceptable y reconocible.
+- **Definizione:** consente l'esistenza di un modello universale di sistema di prezzi per esprimere il valore di beni e servizi.
 
 
-**Uniformidad o fungibilidad** - Cada unidad de dinero debe ser exactamente igual a cualquier otra. 
+**Caratteristiche del denaro.**
+
+Il denaro può assumere molte forme. Più delle seguenti caratteristiche possiede, migliore è.
+
+**Durabilità** Il denaro deve resistere al deterioramento fisico e durare nel tempo. Deve poter circolare nell'economia in uno stato universalmente accettato e riconosciuto.
 
 
-**Portabilidad** Tiene que ser fácil de trasladar de un lado a otro. Debe poder acumular mucho valor en poco peso.
+**Uniformità o fungibilità** - Ogni unità di moneta deve essere esattamente uguale a qualsiasi altra.
 
 
-**Divisibilidad** Debe servir para adquirir bienes caros y baratos y  ser fraccionado sin perder su valor.
+**Portabilità** Deve essere facile spostarlo da un luogo all'altro. Deve essere in grado di racchiudere molto valore in poco peso.
 
 
-**Reconocibilidad** o **Aceptabilidad**- El bien que se utilice tiene que ser reconocido por todos como dinero.
+**Divisibilità** Deve servire ad acquisire sia beni costosi che economici e deve essere divisibile senza perdere valore.
 
 
-**Escasez** El valor del dinero depende de la oferta y la demanda. Mientras más dinero se ofrezca y menos se necesite, su valor será menor**.** 
+**Riconoscibilità** o **Accettabilità**- La sua materializzazione fisica deve essere riconosciuta da tutti come denaro.
 
 
-**DINERO CONVENCIONAL y ACTIVOS MONETARIOS** 
+**Scarsità** Il valore del denaro dipende dalla domanda e dall'offerta. Più denaro viene offerto e meno è necessario, minore sarà il suo valore**.** 
 
-- El **dinero convencional** es el dinero de uso general en un país en particular.
-    - Efectivo en circulación, depósitos bancarios y reservas del banco central.
-    - La mayoría es crédito o entradas electrónicas en los libros contables.
-    - **NO NECESARIAMENTE** guarda ****su **VALOR** en el **tiempo**
+
+**MONETA CONVENZIONALE e ATTIVI MONETARI** 
+
+- La **moneta convenzionale** è il denaro di uso generale in un determinato paese.
+    - Contanti in circolazione, depositi bancari e riserve della banca centrale.
+    - La maggior parte sono scritture a credito o elettroniche nei libri contabili.
+    - **NON NECESSARIAMENTE** conserva il ****suo **VALORE** nel **tempo**
     
-- Los **ACTIVOS MONETARIOS** generalmente **SI** guardan ****su **VALOR** en el **tiempo**.
+- Gli **ATTIVI MONETARI** generalmente **SI** che conservano il ****loro **VALORE** nel **tempo**.
 
-**Tipos de dinero:**
+**Tipi di moneta:**
 
-- Dinero **Mercancía**:
-    - difíciles de extraer,  escasos
-    - atractivos como reserva de valor
-    - oro y plata perduraron como buen dinero durante miles de años
+- Moneta **Merce**:
+    - difficile da estrarre, scarsa
+    - attraente come riserva di valore
+    - l'oro e l'argento sono durati come una buona moneta per migliaia di anni
     
-    **Activo Monetario** 
+    **Attivo Monetario** 
     
-- **Representativo**:
-    - billetes respaldados en oro o plata
-    - cada billete se intercambia por su valor equivalente en metal
-    - En la historia moderna, el patrón oro duró hasta 1971.
+- **Moneta rappresentativa**:
+    - banconote con sottostante rappresentato da oro o argento
+    - ogni banconota viene convertita con il suo controvalore in metallo
+    - Nella storia moderna, il gold standard è durato fino al 1971.
     
-    **Activo Monetario (Inicialmente)**
+    **Attivo Monetario (Inicialmente)**
     
-    **Dinero Convencional(Al pasar del tiempo-**si se incrementa la oferta monetaria**)** 
+    **Moneta convenzionale (Nel tempo, **se l'offerta di moneta aumenta**)** 
     
-- **Fiat o moneda fiduciaria**:
-    - Implementada como monopolio y emitida a voluntad por un gobierno
-    - no está respaldada por un producto físico
-    - no tiene valor intrínseco; su valor depende de:
-        - la relación entre oferta y demanda
-        - la estabilidad del gobierno emisor.
+- **Fiat o moneta fiduciaria**:
+    - Implementata come monopolio ed emessa a piacimento da un governo
+    - non ha nessun sottostante fisico
+    - non ha valore intrinseco; il suo valore dipende da:
+        - il rapporto tra domanda e offerta
+        - la stabilità del governo emittente.
     
-    **Dinero Convencional (**El fiat digital tiene más riesgo de contraparte que el físico**)**
+    **Moneta convenzionale (**La fiat digitale ha più rischio di controparte rispetto a quella fisica**)**
     
 - **Bitcoin**:
-    - moneda digital escasa
-    - opera de manera descentralizada
-    - se basa en software y criptografía “persona a persona” para realizar movimientos.
+    - moneta digitale scarsa
+    - opera in maniera decentralizzata
+    - si basa su software e crittografia “peer to peer” per effettuare i movimenti.
     
-    **Activo Monetario**
+    **Attivo Monetario**
     
 
-**Ejercicio Práctico.**  Marque con una X si el artículo cumple con la característica indicada. Cuál articulo escogería como dinero? 
+**Esercizio pratico.** Segna con una X se l'articolo soddisfa le caratteristiche indicate. Quale oggetto sceglieresti come denaro?
 
-(No llenemos la última columna ‘Bitcoin’ hasta completar el cuarto capítulo.)
+(Non compiliamo l'ultima colonna "Bitcoin" fino al completamento del quarto capitolo.)
 
-Es un buen activo monetario? 
+È un buon attivo monetario?
 
-Un dinero útil debe ser portátil, divisible, duradero, escaso, reconocible y fungible
+Una moneta utile deve essere portabile, divisibile, durevole, scarsa, riconoscibile e fungibile
 
-**Actividad o Tarea-Las Uvas Secas Cómo Dinero** 
+**Attività o Compito-Uva Secca Come Denaro**
 
-# Clase #**2**
+# Lezione #**2**
 
-# Historia, Evolución y Devaluación del Dinero
+# Storia, evoluzione e svalutazione del denaro
 
-# Historia del Dinero
+# Storia del denaro
 
-El dinero es algo que usamos a diario, pero rara vez paramos a pensar... ¿de dónde vino? ¿cómo transaban nuestros ancestros? 
+Il denaro è qualcosa che usiamo quotidianamente, ma raramente ci fermiamo a pensare... da dove viene? Come commerciavano i nostri antenati?
 
-- Lo que ha constituido dinero, ha variado a través del tiempo y de un lugar a otro.
-- El dinero es tan antiguo como el lenguaje
-    - Es simplemente una forma de comunicación, una tecnología.
-- No existe un acuerdo universal sobre lo que realmente es.
-- En principio, no necesitaríamos un activo especial como un billete para reconocer a quién se le deben bienes y/o servicios.
-    - Cualquier persona podría tener su propio libro contable.
-    - Nuestros ancestros transaban de esta forma y/o a través del trueque sin necesidad de bancos o dinero convencional.
+- Ciò che ha rappresentato il denaro è variato nel tempo e da un luogo all'altro.
+- Il denaro è antico quanto il linguaggio
+    - È semplicemente una forma di comunicazione, una tecnologia.
+- Non esiste un accordo universale su cosa sia realmente.
+- In linea di principio, non avremmo bisogno di un attivo speciale come una banconota per riconoscere a chi sono dovuti beni e/o servizi.
+    - Chiunque potrebbe avere il proprio libro contabile.
+    - I nostri antenati commerciavano in questo modo e/o attraverso il baratto senza bisogno di banche o denaro convenzionale.
 
-**Volvamos al pasado: El Trueque**
+**Torniamo indietro nel tempo: il baratto**
 
-Para producir el trueque debe existir una **doble coincidencia de necesidades**. 
+Per effettuare il baratto ci deve essere una **doppia coincidenza di necessità**. 
 
-- Una persona que quiere intercambiar algo necesita encontrar un socio comercial que tenga lo que quiere y quiera lo que tiene.
-- Este medio de intercambio de bienes y servicios requiere mucho tiempo, restringe la actividad económica y limita la especialización.
-- El uso del dinero alivia estos problemas.
+- Una persona che vuole scambiare qualcosa deve trovare un partner commerciale che abbia ciò che vuole e voglia ciò che ha.
+- Questo modo di scambiare beni e servizi richiede tempo, limita l'attività economica e limita la specializzazione.
+- L'uso del denaro supera questi problemi.
 
-## Actividad de clase: Juego del Trueque
+## Attività di classe: gioco del baratto
 
-Seguir instrucciones del profesor para la actividad a realizar.
+Seguire le indicazioni dell'insegnante per l'attività da svolgere.
 
-### Juego del Trueque: Análisis
+### Gioco del baratto: analisi
 
-1. **¿Qué es el trueque?**
+1. **Cos'è il baratto?**
     
      __________________________________________________________________________
     
-2. **¿Cuáles son los problemas con el trueque?** 
+2. **Quali sono i problemi con il baratto?** 
     
     ____________________________________________________________________________________________________________________________________________________________________________________________
     
-3. **¿Qué es el dinero mercancía?** 
+3. **Cos'è la moneta-merce?** 
     
     ____________________________________________________________________________________________________________________________________________________________________________________________
     
-4. **¿Qué problemas surgen cuando se utiliza el dinero mercancía?** 
+4. **Quali problemi sorgono quando si utilizza la moneta-merce?** 
     
     ____________________________________________________________________________________________________________________________________________________________________________________________
     
-5. **¿Qué es el dinero?** 
+5. **Cos'è il denaro?** 
     
     ___________________________________________________________________________
     
-6. **¿Por qué la gente está dispuesta a aceptar dinero?** 
+6. **Perché le persone sono disposte ad accettare denaro?** 
     
     ____________________________________________________________________________________________________________________________________________________________________________________________
     
 
-Veamos el video:
+Guardiamo il video:
 
 https://www.youtube.com/watch?v=zcYw8a4RJC4
 
 Recurso: Economía desde Cero, *Dinero*, Canal Encuentro, Argentina
 
 
-- El dinero ha evolucionado a lo largo de la historia, enfrentando desafíos y cambios de necesidades…
-    - Normalmente, se eligió la forma de dinero que ofrecía las características superiores.
-    - Pero desde que se empezaron a recortar  las monedas y la transición de metales preciosos a  metales respaldados por papel…
-        - pasamos de una selección natural de la forma de dinero con mejor rendimiento,
-        - a una de facilidad de uso, mayor portabilidad y divisibilidad.
-    - Hubo un cambio hacia la centralización.
+- Il denaro si è evoluto nel corso della storia, affrontando sfide e mutevoli esigenze...
+    - In genere, veniva scelta la forma di denaro che offriva le caratteristiche superiori.
+    - Ma da quando si iniziò a ridurre le monete ed il passaggio da metalli preziosi a metalli garantiti dalla carta...
+        - siamo passati da una selezione naturale della forma di denaro con le migliori prestazioni,
+        - a uno di facilità d'uso, maggiore portabilità e divisibilità.
+    - C'è stato uno spostamento verso la centralizzazione.
     
     ### Cambio Repentino al Fiat
     
-    La época industrial marcó el inicio de la centralización:
+    L'era industriale segnò l'inizio della centralizzazione:
     
-    - El objetivo era distribuir correctamente los bienes producidos
-        - Se crearon los Bancos Centrales
-        - Nació el sistema de tarjetas de crédito y débito
+    - L'obiettivo era quello di distribuire correttamente i beni prodotti
+        - Si crearono le banche centrali
+        - Nasce il sistema delle carte di credito e di debito
     
-    Cuando el dinero se centraliza, pueden ocurrir problemas profundos. 
+    Quando il denaro è centralizzato, possono verificarsi problemi profondi.
     
-    - Los gobierno monitorean de cerca la actividad económica de sus ciudadanos
-    - El abuso de poder puede llevar a
-        - estímulos económicos e intervenciones gubernamentales
-        - explosión de deuda y consumo irresponsable
-            - Aumento en la desigualdad de riqueza
+    - I governi controllano da vicino l'attività economica dei loro cittadini
+    - L'abuso di potere può portare a
+        - stimoli economici e interventi governativi
+        - esplosione del debito e consumi irresponsabili
+            - Aumento della disuguaglianza di ricchezza
     
-    - Hasta 1971, se usaba dinero representativo: medio de intercambio y reserva de valor.
-    - Nos alejamos del dinero sólido hacia un mundo basado en la deuda
-        - Richard Nixon, eliminó la libre convertibilidad del oro por el dinero
-        - Pasamos al experimento actual, que es el dinero **fiat**.
-        - El dinero moderno es por decreto  y no por consenso.
-            - **Fiat** viene del latín y significa por decreto: es elegido y establecido por ley
+    - Fino al 1971 si usava la moneta rappresentativa: mezzo di scambio e riserva di valore.
+    - Ci stiamo allontanando da hard money verso un mondo basato sul debito
+        - Richard Nixon, ha eliminato la libera convertibilità dell'oro in denaro
+        - Passiamo all'esperimento attuale, che è denaro **fiat**.
+        - La moneta moderna è per decreto e non per consenso.
+            - **Fiat** deriva dal latino e significa per decreto: è scelto e stabilito dalla legge
             
 
-> “Aquello que funcionó ayer, no necesariamente funcionará hoy.” Jordan Peterson
+> “Ciò che ha funzionato ieri non funzionerà necessariamente oggi.” Jordan Peterson
 
 
-**Los Bancos Centrales**
+**Le Banche centrali**
 
-- **El objetivo y función del Banco Central:**
-    - Controla la política monetaria del país con el fin de garantizar estabilidad
-    - Su función: Ser el banquero de los bancos.
-    - Su trabajo principal: manipular la oferta del dinero en circulación
-        - **Controlar la inflación y maximizar el empleo a con políticas económicas y financieras**
-    - El Banco Central de los EEUU se llama La Reserva Federal.
+- **Obiettivo e funzione della Banca Centrale:**
+    - Controlla la politica monetaria del paese al fine di garantire la stabilità
+    - La sua funzione: essere il banchiere delle banche.
+    - Il loro compito principale: gestire l'offerta di denaro in circolazione
+        - **Controllare l'inflazione e massimizzare l'occupazione con politiche economiche e finanziarie**
+    - La banca centrale degli Stati Uniti si chiama Federal Reserve.
     
-    - ¿Quién define y quién se beneficia de estos objetivos?
-        - Los grandes bancos -pueden influenciar las políticas federales, e incluso globales.
-    - Cómo  altera la oferta monetaria la Reserva Federal?
-        - A través del sistema bancario **de reserva fraccionaria**,
-        - Los Bancos en EEUU sólo mantienen un 10% de sus depósitos en sus reservas .
-        - La banca de reserva fraccionaria resulta en un m**ultiplicador bancario**
-        - Más de dos personas usan el mismo dinero a la vez en la economía de un país .
+    - Chi stabilisce e chi beneficia di questi obiettivi?
+        - Le grandi banche possono influenzare le politiche federali e persino globali.
+    - In che modo la Federal Reserve modifica l'offerta di moneta?
+        - Attraverso il sistema bancario della **riserva frazionaria**,
+        - Le banche negli Stati Uniti mantengono solo il 10% dei loro depositi nelle loro riserve.
+        - La riserva frazionaria bancaria si traduce in un **moltiplicatore bancario**
+        - Più di due persone usano contemporaneamente gli stessi soldi nell'economia di un paese.
             
            
-            💡 Los bancos tienen la obligación de mantener un cierto porcentaje de todos los depósitos en el banco.Reducir ese porcentaje significa que puede circular más dinero, y aumentarlo significa que circula menos dinero.
+            💡 Le banche sono tenute a mantenere una certa percentuale di tutti i depositi in banca. Ridurre tale percentuale significa che può circolare più denaro e aumentarla significa che circola meno denaro.
             
            
             
         
-    - ¿Qué problemas puede provocar la banca de **reserva fraccionaria?**
-        - Los bancos «piden prestado y prestan a largo plazo».
-            - El retiro de depósitos excede las reservas de efectivo.
-            - Los bancos incurren grandes pérdidas
-            - En los peores de los casos se produce una corrida bancaria.
-        - Los cambios en las tasas de interés o el costo del capital afectan el riesgo.
-            - + dinero en circulación…préstamos más baratos y menos exigentes.
+    - Quali problemi può causare il **sistema bancario a riserva frazionaria?**
+        - Le banche "prendono in prestito e prestano a lungo termine".
+            - I prelievi sui depositi superano le riserve di contante.
+            - Le banche subiscono enormi perdite
+            - Nei casi peggiori si verifica una corsa agli sportelli.
+        - Le variazioni dei tassi di interesse o del costo del capitale influiscono sul rischio.
+            - + denaro in circolazione…prestiti più convenienti e meno esigenti.
         
-    - Operaciones de mercado abierto (para aumentar o disminuir el dinero en circulación)
-        - El gobierno compra o vende títulos monetarios (deuda de alta liquidez).
-            - Si quieren aumentarlo: compran bonos de la tesorería.
-            - Si quieren disminuirlo: venden bonos de la tesorería
+    - Operazioni di mercato libero (per aumentare o diminuire il denaro in circolazione)
+        - Il governo acquista o vende titoli monetari (debito ad alta liquidità).
+            - Se vogliono aumentarlo: comprano buoni del tesoro.
+            - Se vogliono diminuirlo: vendono buoni del tesoro
     
 
-# Actividad Reserva Fraccionaria
+# Attività di riserva frazionaria
 
-Siga las instrucciones del maestro
+Segui le istruzioni dell'insegnante
 
 
-# Clase #*3*
+# Lezione #*3*
 
-## Los Efectos **del Dinero Fiat y la Centralización**
+## Gli effetti **del denaro fiat e della centralizzazione**
 
-## Actividad de clase - ¡Subasta!
+## Attività di classe - Asta!
 
-Siga las instrucciones del maestro para la siguiente actividad.
+Segui le indicazioni dell'insegnante per l'attività successiva.
 
-### Inflación
+### Inflazione
 
-De manera introductoria, analizaremos el siguiente video sobre qué es la inflación:
+In modo introduttivo, analizzeremo il seguente video su cosa sia l'inflazione:
 
 https://youtu.be/gkDQGribCfc
 
-Recurso:*Causas de la Inflación*, Video,Banco de la República, Colombia
+Risorsa:*Cause dell'inflazione*, Video, Banco de la República, Colombia
 
-- **Definición**:
-    - Originalmente el término se usaba para indicar:
-        - la pérdida de valor de una moneda,
-        - la devaluación de su poder adquisitivo provocada por el aumento de su oferta.
-    - Esta perdida de valor normalmente produce, en términos de dicha moneda:
-        - un aumento general y sostenido en el precio de todos los bienes y servicios
-    - El término “inflación” pasó a utilizarse también para indicar el aumento de precios
-        - independientemente de la causa.
+- **Definizione**:
+    - Originariamente il termine era usato per indicare:
+        - la perdita di valore di una moneta,
+        - la svalutazione del suo potere d'acquisto causata dall'aumento della sua offerta.
+    - Tale perdita di valore produce normalmente, in termini di detta moneta:
+        - un aumento generale e sostenuto del prezzo di tutti i beni e servizi
+    - Il termine "inflazione" venne utilizzato anche per indicare l'aumento dei prezzi
+        - indipendentemente dalla causa.
     
-     **Porqué nos importa?**
+     **Perché ci interessa?**
     
-    - Cuando más dinero persigue la misma cantidad de bienes:
-        - los precios suben.
-    - Si los precios de los productos aumentan más rápido que los sueldos y salarios:
-        - las personas se empobrecen. 
+    - Quando più denaro persegue la stessa quantità di beni:
+        - i prezzi salgono.
+    - Se i prezzi dei prodotti aumentano più velocemente dei salari e degli stipendi:
+        - le persone diventano più povere.
         
-        **McDonald’s en 1970:**
+        **McDonald’s nel 1970:**
     
   
     
-        **McDonald’s en el 2022:**
+        **McDonald’s nel 2022:**
     
     
     
 
-**¿Que nos enseñan los economistas modernos?**
+**Cosa ci insegnano gli economisti moderni?**
 
-- Necesitamos estimular la inflación para poder administrar eficazmente una nación.
-- Si no incentivamos el gasto y la inversión (a través de la devaluación de la moneda):
-    - arriesgamos a una menor demanda,
-    - desatando una producción disminuida y
-    - llevando en el peor caso a una economía estancada.
-    - Todo esto implica que es ****difícil, imposible o hasta no recommendable ahorrar.
-- La situación actual nos incentiva a gastar. Es una teoría contraproducente.
-    - No pensamos en un futuro más allá que un par de días, semanas o meses
-    - Deberíamos poder prepararnos para el futuro de nuestros nietos
-    - La inflación simplemente no nos permite tener disciplina financiera.
-- Nuestras decisiones tienen consecuencias.
-    - Esto se conoce como el **“costo de oportunidad”**
+- Dobbiamo stimolare l'inflazione per gestire efficacemente una nazione.
+- Se non incoraggiamo la spesa e gli investimenti (attraverso la svalutazione della valuta):
+    - rischiamo una domanda inferiore,
+    - innescando una diminuzione della produzione e
+    - portando nel peggiore dei casi a un'economia stagnante.
+    - Tutto ciò implica che è **** difficile, impossibile o addirittura sconsigliato risparmiare.
+- La situazione attuale ci incoraggia a spendere. È una teoria controproducente.
+    - Non pensiamo a un futuro oltre un paio di giorni, settimane o mesi
+    - Dovremmo essere in grado di preparare il futuro dei nostri nipoti
+    - L'inflazione semplicemente non ci consente di avere una disciplina finanziaria.
+- Le nostre decisioni hanno delle conseguenze.
+    - Questo è noto come il **"costo opportunità"**
     
-    - La inflación fomenta una **Preferencia Temporal Alta,** lo que significa que preferimos  $100 hoy en vez de $200 en dos años.
+    - L'inflazione incoraggia una **preferenza temporale elevata**, il che significa che preferiamo $100 oggi invece di $200 tra due anni.
     
   
-    - Nuestro objetivo debería ser crear una **preferencia temporal baja.**
+    - Il nostro obiettivo dovrebbe essere quello di creare una **preferenza temporale bassa.**
     
    
     
-    Vemos las siguientes tres razones por las que ocurre inflación:
+    Vediamo i seguenti tre motivi per cui si verifica l'inflazione:
     
     https://youtu.be/_DpyCXNiY7E
     
-    Recurso: *Causas de la Inflación,* Video, Banco de la República, Colombia
+    Risorsa: *Cause dell'Inflazione,* Video, Banco de la República, Colombia
     
-    1. **Inflación de costos o de oferta**
-    - Aumenta el precio de los insumos
-        - Causas:
-            - Regulaciones gubernamentales, guerras, sequías, dificultades en la cadena de suministro y otras situaciones.
-            - Alza en las tazas de impuestos incrementan el costo de las materias primas
-            - Los trabajos especializados se vuelven más costosos
-                - falta de habilidades o recursos en una sociedad
-            - Las nuevas tecnologías suelen ser muy caras
-                - con el tiempo disminuyen el costo de los productos.
-    1. **Inflación de demanda**
-        1. La oferta de bienes no alcanza a cubrir la demanda
-        2. Debido a una reducción de impuestos o reducción en las tasas de intereses en los préstamos) 
-            - se crea un aumento en el ingreso disponible...
-            - empieza a circular en el mercado el exceso…
-            - se compite por conseguir los mismos bienes con más dinero…
-                - esto hace subir los precios...
-        - eventualmente aumenta la oferta, y luego los precios vuelven a bajar.
+    1. **Inflazione dei costi o dell'offerta**
+    - Aumenta il prezzo dei fattori di produzione
+        - Cause:
+            - Regolamenti governativi, guerre, siccità, difficoltà nella catena di approvvigionamento e altre situazioni.
+            - L'aumento delle aliquote fiscali aumenta il costo delle materie prime
+            - I lavori specializzati diventano più costosi
+                - mancanza di competenze o risorse in una società
+            - Le nuove tecnologie sono spesso molto costose
+                - nel tempo il costo dei prodotti diminuisce.
+    1. **Inflazione della domanda**
+        1. L'offerta di beni non è sufficiente a coprire la domanda
+        2. A causa di una riduzione delle imposte o della riduzione dei tassi di interesse sui prestiti
+            - crea un aumento del reddito disponibile...
+            - L'eccesso comincia a circolare nel mercato...
+            - Si gareggia per ottenere gli stessi beni con più soldi...
+                - Questo fa salire i prezzi...
+        - alla fine l'offerta aumenta e quindi i prezzi tornano a scendere.
     
-    1. **Inflación por políticas gubernamentales**
-    - El gobierno financia el déficit con emisión
-        - ¿Son auténticos los trabajos/proyectos que se crean a través de la inflación?
-        - ¿Por qué es importante para los gobiernos que la gente compre cosas con su dinero?
-        - ¿Que tipos de bienes compramos como sociedad cuando existe mas dinero en la economía? Son bienes esenciales para vivir?
-        - Qué sucede cuando las tasas de impuestos suben con más  velocidad que el incremento en los salarios en una economía?
+    1. **Inflazione dovuta alle politiche del governo**
+    - Il governo finanzia il disavanzo con l'emissione
+        - I posti di lavoro/progetti creati dall'inflazione sono autentici?
+        - Perché è importante per i governi che le persone comprino le cose con i loro soldi?
+        - Quali tipi di beni acquistiamo come società quando c'è più denaro nell'economia? Sono beni essenziali per vivere?
+        - Cosa succede quando le aliquote fiscali aumentano più velocemente dell'aumento dei salari in un'economia?
     
-    - La inflación significa que el trabajo que hiciste hace un tiempo tiene menor valor que  el de hoy.
-        - El año pasado te pagaron $10; compraste 10 almuerzos a $1 cada uno.
-        - Decidiste guardarlos.
-        - Hoy hay :
-            - más dinero en la economía circulando
-            - más gente queriendo comprar almuerzos
-            - la misma cantidad de almuerzos a la venta
-            - el precio sube a $2 por almuerzo.
-        - Sólo podrás comprar 5 almuerzos con los $10 dólares que ahorraste.
-        - En teoría, esto no tiene sentido. Si pones 8 horas de trabajo, esa realidad no cambia aunque hayan pasado 10 años. Esa energía debería poder quedarse contigo.
-        - Podríamos decir que la inflación es un tipo de robo de valor.
+    - L'inflazione comporta che il lavoro che hai fatto qualche tempo fa vale meno di quello di oggi.
+        - L'anno scorso ti hanno pagato $ 10; hai comprato 10 pranzi per $ 1 ciascuno.
+        - Hai deciso di tenerli.
+        - Oggi c'è:
+            - più denaro circolante nell'economia
+            - più persone che vogliono comprare pranzi
+            - lo stesso numero di pranzi in vendita
+            - il prezzo sale a $ 2 per il pranzo.
+        - Potrai acquistare solo 5 pranzi con i $ 10 che hai risparmiato.
+        - In teoria, questo non ha senso. Se impieghi 8 ore di lavoro, quella realtà non cambia anche se sono passati 10 anni. Quell'energia dovrebbe essere in grado di rimanere con te.
+        - Potremmo dire che l'inflazione è un tipo di furto di ricchezza.
         
 
-En el siguiente gráfico podemos ver la perdida de valor del dolar Americano. 
+Nel grafico seguente possiamo vedere la perdita di valore del dollaro americano.
 
 
-Recurso: 
+Risorsa:
 
 *Declining purchasing power of the US dollar strengthens Bitcoin,* https://cryptopotato.com/is-there-a-pattern-between-usd-dow-jones-and-bitcoin/, Toju Ometoruwa
 
-- **Inflación a traves del tiempo**
-    - La inflación entre 1970 y 2020 fue mucho mayor que la del período de 50 años anterior, 1920 a 1970.
-    - Que pasará si seguimos en la misma trayectoria?
-    - Quien tuvo un castigo económico mayor, la generación de tus abuelos o la de tus padres?
+- **inflazione nel corso del tempo**
+    - L'inflazione tra il 1970 e il 2020 è stata molto più alta di quella del precedente periodo di 50 anni, dal 1920 al 1970.
+    - Cosa succederà se continuiamo sulla stessa traiettoria?
+    - Chi ha avuto una sofferenza economica maggiore, la generazione dei tuoi nonni o quella dei tuoi genitori?
     
-    - $1 de 1920 a 1970:
+    - $ 1 dal 1920 al 1970:
         
        
-    - $1 de 1970 a 2020:
+    - $ 1 dal 1970 al 2020:
             
 
  
 
-Crees que los salarios subieron a la par de los precios? 
+Pensi che i salari siano aumentati insieme ai prezzi?
 
 
-Dicho desde otro punto de vista, lo que hoy (2022) compramos con $100, nos hubiera costado aproximadamente $7 en 1920. 
+Detto da un altro punto di vista, quello che compriamo oggi (2022) con $100, ci sarebbe costato circa $7 nel 1920.
 
-La inflación causa pérdida en el p**oder adquisitivo:** 
+L'inflazione causa la perdita del **potere d'acquisto:** 
 
-- los aumentos en los salarios son menores que los aumentos en los precios de la comida
-- los individuos se ven obligados a reducir su consumo
-- se disminuye la capacidad de compra.
+- gli aumenti dei salari sono inferiori agli aumenti dei prezzi dei generi alimentari
+- gli individui sono costretti a ridurre i propri consumi
+- il potere d'acquisto è ridotto.
 
-Para mayor visibilidad y análisis de otros periodos puedes ir aquí:
+Per una maggiore visibilità e analisi di altri periodi potete andare qui:
 
 https://www.wolframalpha.com/input?i=100+1970+usd+in+2020
 
 
-### Vigilancia
+### Sorveglianza
 
-Los gobiernos imponen regulaciones con el fin de encontrar y atrapar personas que lavan dinero o hacen otro tipo de transacciones ilegales. 
+I governi impongono regolamenti per trovare e catturare persone che riciclano denaro o effettuano altri tipi di transazioni illegali.
 
-- La vigilancia es un arma de doble filo.
-- Cuanto más fraude ocurra, más vigilancia por parte del Estado y compañías privadas
-    - invaden nuestra privacidad gracias al progreso tecnológico
-    - controlan nuestros movimientos en las redes sociales y económicas
-    - Intercambio de datos personales a cambio del disfrute de ciertos servicios.
-- Consecuencias:
-    - estafas digitales, acoso en línea, extorsión, usurpación de identidad y otros problemas que ponen en peligro la privacidad y la seguridad de los usuarios.
-    - Nuestras compras con tarjetas se registran, analizan y se vigilan
-        - a menos que compremos bienes y servicios en efectivo
-- Si alguien consigue tu contraseña de tu banca en internet, o hackea los servidores centralizados, tendría acceso a toda la información.
+- La sorveglianza è un'arma a doppio taglio.
+- Più frodi si verificano, maggiore è la sorveglianza da parte dello Stato e delle aziende private
+    - invadono la nostra privacy grazie al progresso tecnologico
+    - controllano i nostri movimenti nelle reti sociali ed economiche
+    - Scambio di dati personali in cambio della fruizione di determinati servizi.
+- Conseguenze:
+    - truffe digitali, molestie online, estorsioni, furto di identità e altri problemi che mettono in pericolo la privacy e la sicurezza degli utenti.
+    - I nostri acquisti con carta vengono registrati, analizzati e monitorati
+        - a meno che non acquistiamo beni e servizi in contanti
+- Se qualcuno ottiene la tua password dal tuo internet banking o hackera i server centralizzati, ottiene accesso a tutte le informazioni.
 
-💡 Necesitamos un dinero que resguarde nuestra privacidad y no comparta toda nuestra información personal con gobiernos y empresas privadas.
+💡 Abbiamo bisogno di denaro che protegga la nostra privacy e non condivida tutte le nostre informazioni personali con governi e aziende private.
 
 
 
-¿Cómo nos vigilan en internet?
+Come ci monitorano su Internet?
 https://youtu.be/-sWgOuFIaws
 
-### Restricción
+### Restrizioni
 
-- Es que es difícil y costoso mover dinero entre naciones.
-- Los gobiernos controlan los intercambios de divisas, aunque se haga entre dos personas conocidas.
+- È difficile e costoso spostare denaro tra nazioni.
+- I governi controllano tutti gli scambi di valuta.
 
-Aquí hay una lista de políticas y formas en que esto puede suceder:
+Ecco un elenco di politiche e modi in cui ciò può accadere:
 
-- **Políticas gubernamentales**
-    - Control de Capitales: Se restringe la cantidad de dinero que sus ciudadanos pueden transferir, cambiar o llevar al extranjero.
-        - Ejemplos:
-            - Argentina, Rusia, Indonesia, Cuba y China
-            - El ciudadano promedio de China, solo puede convertir hasta $ 50.000 de renminbi (aprox. $8.000 USD) cada año.
+- **Politiche di governo**
+    - Controllo del capitale: la quantità di denaro che i suoi cittadini possono trasferire, modificare o portare all'estero è limitata.
+        - Esempi:
+            - Argentina, Russia, Indonesia, Cuba e Cina
+            - Il cittadino cinese medio può convertire solo fino a $ 50.000 Renminbi (circa $ 8.000 USD) ogni anno.
     
-    > “*La única solución que hemos encontrado en Cuba es Bitcoin. Estamos ahora mismo en las mismas igualdades, la misma posibilidad de competir con cualquier otro país, porque tenemos acceso pleno, libre, sin sanciones ni prohibiciones a esa tecnología que nos permite crear, crecer y conectar.”*
-    > 
+    > “*L'unica soluzione che abbiamo trovato a Cuba è Bitcoin. In questo momento ci troviamo nelle stesse pari opportunità, nella stessa possibilità di competere con qualsiasi altro paese, perché abbiamo pieno, libero accesso, senza sanzioni o divieti, a questa tecnologia che ci permette di creare, crescere e connetterci.”*
+    >
     
-       *Eric García Cruz, emprendedor cubano y entusiasta de Bitcoin.*
+       *Eric García Cruz, Imprenditore cubano e appassionato di Bitcoin.*
     
-- **Políticas bancarias**
-    - Los bancos tienen límites sobre la cantidad de efectivo que se puede retirar de una cuenta, o tienen un máximo que se puede transferir.
-    - La mayoría de estas transacciones tienen comisiones
-        - Grecia, tras la crisis de 2015, sus ciudadanos solo podían retirar $60 euros al día,
-            - este es un claro recordatorio de quién realmente controla tu dinero.
-        - En El Salvador, la remesas representan el 23% de su producto interno bruto (PIB).
-            - En el 2020 fueron casi $6 mil millones de dólares. Alrededor del 60% de ese dinero proviene de empresas de remesas y el 38% de instituciones bancarias.
-            - Empresas como Western Union tienen tarifas elevadas,
-                - especialmente para montos inferiores a $1000 USD.
-- **Comisiones o cargos**
+- **Politiche bancarie**
+    - Le banche hanno limiti sulla quantità di denaro che può essere prelevata da un conto o hanno un limite massimo che può essere trasferito.
+    - La maggior parte di queste transazioni prevede commissioni
+        - In Grecia, dopo la crisi del 2015, i suoi cittadini potevano ritirare solo 60 euro al giorno,
+            - questo è un duro promemoria di chi controlla davvero i tuoi soldi.
+        - In El Salvador, l'attività di rimessa di denaro rappresentano il 23% del suo prodotto interno lordo (PIL).
+            - Nel 2020 erano di quasi $ 6 miliardi di dollari. Circa il 60% di quel denaro proviene da società di rimesse e il 38% da istituti bancari.
+            - Aziende come Western Union hanno commissioni elevate,
+                - soprattutto per importi inferiori a $ 1000 USD.
+- **Commissioni o spese**
     
-    Solo enriquecen a las instituciones bancarias e
+    Arricchiscono solo istituti bancari e
     
-    Incrementan la brecha entre ricos y pobres
+    Aumentano il divario tra ricchi e poveri
     
-    - Para montos pequeños, como de diez dólares,
-        - las comisiones pueden llegar a ser  hasta de más de tres dólares, o el 33%.
-    - Para cien dólares,
-        - las tarifas oscilan entre el 12% y el 15%.
+    - Per piccole somme, come dieci dollari,
+        - le commissioni possono superare i tre dollari o il 33%.
+    - per cento dollari,
+        - le tariffe vanno dal 12% al 15%.
     
-- **Horario**
+- **Orario**
     
-    Para enviar/recibir una remesa:
+    Per inviare/ricevere una rimessa:
     
-    - tanto el remitente como el destinatario deben acudir a la sucursal más cercana
-        - durante horario laboral, por supuesto
-- **Seguridad**
+    - sia il mittente che il destinatario devono recarsi presso la filiale più vicina
+        - ovviamente durante gli orari di apertura
+- **Sicurezza**
     
-    Acudir a las oficinas de Western Union representa riesgos adicionales, 
+    Andare negli uffici Western Union rappresenta rischi aggiuntivi, 
     
-    - las personas deben llevar su dinero en efectivo,
-        - aumentando las posibilidades de ser robados.
-    - Si los servidores centralizados fallan (lo que pasa frecuentemente),
-        - se podrían negar el acceso a los fondos de cualquier cliente.
+    - le persone devono portare i loro soldi in contanti,
+        - aumentando le possibilità di essere derubato.
+    - Se i server centralizzati non sono funzionanti (cosa che accade di frequente),
+        - l'accesso ai fondi di qualsiasi cliente potrebbe essere negato.
     
 
-### Centralización vs. Decentralización
+### Centralizzazione vs. Decentralizzazione
 
-La centralización de las economías modernas produce:
+La centralizzazione delle economie moderne produce:
 
-- censura, abuso de poder, corrupción, desigualdad de oportunidades, desigualdad de riqueza, y fuentes únicas de fallos.
+- censura, abuso di potere, corruzione, disparità di opportunità, disparità di ricchezza e singoli punti di vulnerabilità.
 
-Los bancos operan por medio de  servidores centralizados, 
+Le banche operano attraverso server centralizzati,
 
-- tienen acceso todas las actividades financieras de sus usuarios.
+- Hanno accesso a tutte le attività finanziarie dei loro utenti.
 
-Qué saben los bancos de sus clientes?
+Cosa sanno le banche dei loro clienti?
 
-- cuánto te pagan,
-- en qué gastas tu dinero,
-- a quién le mandas dinero
-- y todo lo relacionado con tu cuenta bancaria.
+- quanto ti pagano,
+- In cosa spendi i tuoi soldi,
+- a chi invii i soldi
+- e tutto ciò che riguarda il tuo conto bancario.
 
-**Características de un sistema centralizado**
-1. Tienes que confiar que la organización centralizada mantendrá tus datos seguros
-2. Tienen completo control del sistema y de tus datos
-3. Si los servidores principales se ven comprometidos, tus datos están en riesgo. 
+**Caratteristiche di un sistema centralizzato**
+1. Devi fidarti che l'organizzazione centralizzata manterrà i tuoi dati al sicuro
+2. Hanno il controllo completo del sistema e dei tuoi dati
+3. Se i server principali sono compromessi, i tuoi dati sono a rischio.
 
-Las divisas digitales de los bancos centrales son la continuación del sistema actual pero de forma digital. Es decir: mutables, censurables, cerradas, centralizadas, exclusivas, y vigilantes.
+Le valute digitali della banca centrale sono la continuazione del sistema attuale ma in forma digitale. Vale a dire: mutevole, censurabile, chiuso, centralizzato, esclusivo e sorvegliato.
 
-**Cómo contrarrestamos estos fenómenos, causados por malas políticas gubernamentales?**
+**Come contrastare questi fenomeni, causati da cattive politiche di governo?**
 
 
-- **Características de un sistema descentralizado.** Se describe cómo un sistema de **igual a igual** o de P2P porque:
-    1. Las personas no tienen que identificarse para interactuar y estar interconectados entre sí a través de internet. 
-    2. Cada quien es responsable de su propio dispositivo pero presta y comparte sus recursos.
-    3. Si hay un ataque a la red, los hackers tendrían que tener control de la mayoría de computadores — esto es casi imposible.
-    4. En caso de que hubiera un error en un servidor, el resto no se vería afectado.
-    5. Logra una sociedad más justa -quita el control a las corporaciones poderosas.
+- **Caratteristiche di un sistema decentralizzato.** È descritto come un sistema **peer-to-peer** o P2P perché:
+    1. Le persone non devono identificarsi per interagire ma solo essere interconnesse tra loro attraverso Internet.
+    2. Ognuno è responsabile del proprio dispositivo ma presta e condivide le proprie risorse.
+    3. Se c'è un attacco di rete, gli hacker dovrebbero ottenere il controllo della maggior parte dei computer: questo è quasi impossibile.
+    4. Nel caso in cui ci fosse un errore in un server, il resto non ne risentirebbe.
+    5. Garantisce una società più giusta: sottrae il controllo a potenti corporazioni.
 
-### **Conclusión**
+### **Conclusione**
 
-Discusión en clase: Cuatro fenómenos globales que suceden hoy, gracias a la centralización:
+Discussione in classe: Quattro fenomeni globali che accadono oggi, grazie alla centralizzazione:
 
-- - La pérdida de poder adquisitivo
-- - La restricción de la transferencia de valor
-- - La pérdida de privacidad
-- - Centralización financiera
+- - La perdita del potere d'acquisto
+- - La restrizione del trasferimento di valore
+- - Perdita di privacy
+- - Centralizzazione finanziaria
 
-Preguntémonos de nuevo, ¿habrá solución?
+Domandiamoci ancora, c'è una soluzione?
