@@ -544,81 +544,81 @@ Ecco un elenco di politiche e modi in cui ciò può accadere:
     
 - **Politiche bancarie**
     - Le banche hanno limiti sulla quantità di denaro che può essere prelevata da un conto o hanno un limite massimo che può essere trasferito.
-    - La mayoría de estas transacciones tienen comisiones
-        - Grecia, tras la crisis de 2015, sus ciudadanos solo podían retirar $60 euros al día,
-            - este es un claro recordatorio de quién realmente controla tu dinero.
-        - En El Salvador, la remesas representan el 23% de su producto interno bruto (PIB).
-            - En el 2020 fueron casi $6 mil millones de dólares. Alrededor del 60% de ese dinero proviene de empresas de remesas y el 38% de instituciones bancarias.
-            - Empresas como Western Union tienen tarifas elevadas,
-                - especialmente para montos inferiores a $1000 USD.
-- **Comisiones o cargos**
+    - La maggior parte di queste transazioni prevede commissioni
+        - In Grecia, dopo la crisi del 2015, i suoi cittadini potevano ritirare solo 60 euro al giorno,
+            - questo è un duro promemoria di chi controlla davvero i tuoi soldi.
+        - In El Salvador, l'attività di rimessa di denaro rappresentano il 23% del suo prodotto interno lordo (PIL).
+            - Nel 2020 erano di quasi $ 6 miliardi di dollari. Circa il 60% di quel denaro proviene da società di rimesse e il 38% da istituti bancari.
+            - Aziende come Western Union hanno commissioni elevate,
+                - soprattutto per importi inferiori a $ 1000 USD.
+- **Commissioni o spese**
     
-    Solo enriquecen a las instituciones bancarias e
+    Arricchiscono solo istituti bancari e
     
-    Incrementan la brecha entre ricos y pobres
+    Aumentano il divario tra ricchi e poveri
     
-    - Para montos pequeños, como de diez dólares,
-        - las comisiones pueden llegar a ser  hasta de más de tres dólares, o el 33%.
-    - Para cien dólares,
-        - las tarifas oscilan entre el 12% y el 15%.
+    - Per piccole somme, come dieci dollari,
+        - le commissioni possono superare i tre dollari o il 33%.
+    - per cento dollari,
+        - le tariffe vanno dal 12% al 15%.
     
-- **Horario**
+- **Orario**
     
-    Para enviar/recibir una remesa:
+    Per inviare/ricevere una rimessa:
     
-    - tanto el remitente como el destinatario deben acudir a la sucursal más cercana
-        - durante horario laboral, por supuesto
-- **Seguridad**
+    - sia il mittente che il destinatario devono recarsi presso la filiale più vicina
+        - ovviamente durante gli orari di apertura
+- **Sicurezza**
     
-    Acudir a las oficinas de Western Union representa riesgos adicionales, 
+    Andare negli uffici Western Union rappresenta rischi aggiuntivi, 
     
-    - las personas deben llevar su dinero en efectivo,
-        - aumentando las posibilidades de ser robados.
-    - Si los servidores centralizados fallan (lo que pasa frecuentemente),
-        - se podrían negar el acceso a los fondos de cualquier cliente.
+    - le persone devono portare i loro soldi in contanti,
+        - aumentando le possibilità di essere derubato.
+    - Se i server centralizzati non sono funzionanti (cosa che accade di frequente),
+        - l'accesso ai fondi di qualsiasi cliente potrebbe essere negato.
     
 
-### Centralización vs. Decentralización
+### Centralizzazione vs. Decentralizzazione
 
-La centralización de las economías modernas produce:
+La centralizzazione delle economie moderne produce:
 
-- censura, abuso de poder, corrupción, desigualdad de oportunidades, desigualdad de riqueza, y fuentes únicas de fallos.
+- censura, abuso di potere, corruzione, disparità di opportunità, disparità di ricchezza e singoli punti di vulnerabilità.
 
-Los bancos operan por medio de  servidores centralizados, 
+Le banche operano attraverso server centralizzati,
 
-- tienen acceso todas las actividades financieras de sus usuarios.
+- Hanno accesso a tutte le attività finanziarie dei loro utenti.
 
-Qué saben los bancos de sus clientes?
+Cosa sanno le banche dei loro clienti?
 
-- cuánto te pagan,
-- en qué gastas tu dinero,
-- a quién le mandas dinero
-- y todo lo relacionado con tu cuenta bancaria.
+- quanto ti pagano,
+- In cosa spendi i tuoi soldi,
+- a chi invii i soldi
+- e tutto ciò che riguarda il tuo conto bancario.
 
-**Características de un sistema centralizado**
-1. Tienes que confiar que la organización centralizada mantendrá tus datos seguros
-2. Tienen completo control del sistema y de tus datos
-3. Si los servidores principales se ven comprometidos, tus datos están en riesgo. 
+**Caratteristiche di un sistema centralizzato**
+1. Devi fidarti che l'organizzazione centralizzata manterrà i tuoi dati al sicuro
+2. Hanno il controllo completo del sistema e dei tuoi dati
+3. Se i server principali sono compromessi, i tuoi dati sono a rischio.
 
-Las divisas digitales de los bancos centrales son la continuación del sistema actual pero de forma digital. Es decir: mutables, censurables, cerradas, centralizadas, exclusivas, y vigilantes.
+Le valute digitali della banca centrale sono la continuazione del sistema attuale ma in forma digitale. Vale a dire: mutevole, censurabile, chiuso, centralizzato, esclusivo e sorvegliato.
 
-**Cómo contrarrestamos estos fenómenos, causados por malas políticas gubernamentales?**
+**Come contrastare questi fenomeni, causati da cattive politiche di governo?**
 
 
-- **Características de un sistema descentralizado.** Se describe cómo un sistema de **igual a igual** o de P2P porque:
-    1. Las personas no tienen que identificarse para interactuar y estar interconectados entre sí a través de internet. 
-    2. Cada quien es responsable de su propio dispositivo pero presta y comparte sus recursos.
-    3. Si hay un ataque a la red, los hackers tendrían que tener control de la mayoría de computadores — esto es casi imposible.
-    4. En caso de que hubiera un error en un servidor, el resto no se vería afectado.
-    5. Logra una sociedad más justa -quita el control a las corporaciones poderosas.
+- **Caratteristiche di un sistema decentralizzato.** È descritto come un sistema **peer-to-peer** o P2P perché:
+    1. Le persone non devono identificarsi per interagire ma solo essere interconnesse tra loro attraverso Internet.
+    2. Ognuno è responsabile del proprio dispositivo ma presta e condivide le proprie risorse.
+    3. Se c'è un attacco di rete, gli hacker dovrebbero ottenere il controllo della maggior parte dei computer: questo è quasi impossibile.
+    4. Nel caso in cui ci fosse un errore in un server, il resto non ne risentirebbe.
+    5. Garantisce una società più giusta: sottrae il controllo a potenti corporazioni.
 
-### **Conclusión**
+### **Conclusione**
 
-Discusión en clase: Cuatro fenómenos globales que suceden hoy, gracias a la centralización:
+Discussione in classe: Quattro fenomeni globali che accadono oggi, grazie alla centralizzazione:
 
-- - La pérdida de poder adquisitivo
-- - La restricción de la transferencia de valor
-- - La pérdida de privacidad
-- - Centralización financiera
+- - La perdita del potere d'acquisto
+- - La restrizione del trasferimento di valore
+- - Perdita di privacy
+- - Centralizzazione finanziaria
 
-Preguntémonos de nuevo, ¿habrá solución?
+Domandiamoci ancora, c'è una soluzione?
