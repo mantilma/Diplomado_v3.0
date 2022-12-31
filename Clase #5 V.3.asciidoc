@@ -26,27 +26,27 @@
 
 - Non si deve acquistare 1 bitcoin intero; possiamo acquistare tutti i Sat che vogliamo.
 
-> ‘Se lo aggiungi a poco a poco e lo fai spesso, presto diventerà molto.” Hesíodo
+> ‘Se lo aggiungi poco a poco e lo fai spesso, presto diventerà molto.” Hesíodo
 > 
 
 ### Come viene tenuto in custodia **bitcoin?**
 
 Quando i Sats vengono acquistati su un sito web,
 
-- lo más probable es que los acrediten a un “monedero”  (o una billetera) virtual
-    - Similar a recibir un crédito en una cuenta bancaria cuando se transfiere dinero a ella
-- Puede parecer que la persona es dueña de su bitcoin,
-    - pero en realidad, el dinero está en posesión de un tercero.
+- molto probabilmente li accrediteranno su un conto virtuale
+    - Simile a ricevere un credito su un conto bancario quando il denaro viene trasferito su di esso
+- Potrebbe sembrare che la persona possieda i suoi bitcoin,
+    - ma in realtà i bitcoin sono in possesso di terzi.
 
-Por lo tanto,
+Dunque,
 
-- Es importante entender los riesgos de invertir en bitcoin y comenzar por:
-    - conocer las mejores formas de custodiar bitcoin en el mercado
-    - Descubrir lo que es un “monedero”
-        - Cual ofrece la mejor seguridad
-        - Cómo escoger el más adecuado para los requisitos de cada quién
-    - Analizar las ventajas y desventajas de los monederos que seleccionemos
-        - Comprender que no existe un monedero ideal que satisfaga todas las necesidades
+- È importante comprendere i rischi dell'investimento in bitcoin ed iniziare a:
+    - conoscere i modi migliori per mantenere i bitcoin sul mercato
+    - Scoprire cos'è un "portafoglio" o wallet
+        - Quale offre la migliore sicurezza?
+        - Come scegliere il più adatto alle esigenze di ogni persona
+    - Analizzare i vantaggi e gli svantaggi dei portafogli che scegliamo di utilizzare
+        - Comprendere che non esiste un portafoglio ideale che soddisfi tutte le esigenze
     
 
 ## **Tipo de monederos & lightning**
