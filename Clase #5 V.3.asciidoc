@@ -1,37 +1,37 @@
 # Acquisto, Custodia e Trasferimento di bitcoin
 
-### Rampas de Entrada y Salida
+### Punti di entrata ed uscita
 
-- El primer paso para obtener bitcoin es comprarlo. Existen diversas alternativas:
-    - casas de intercambio, brokers, cajeros BTM’s, compañías fintech, tarjetas de regalo, etc.
-- Se intercambia dinero convencional (euros, dólares, etc.) por su equivalente en bitcoin.
-- Los servicios que proporcionan estos servicios son "rampas de acceso"
-- Los gobiernos pueden regular las rampas de entrada y salida
-    - Podrían prohibir que los bancos envíen dinero a/desde un intercambio de bitcoins.
-        - Lo cual afectaría nuestra capacidad de comprar y vender bitcoins pero,
-            - sería imposible **impedir enviar/recibir bitcoin.**
+- Il primo passo per ottenere bitcoin è acquistarlo. Ci sono diverse alternative:
+    - exchanges, brokers, ATM, società fintech, carte regalo, ecc.
+- Il denaro convenzionale (euro, dollari, ecc.) viene scambiato con il suo equivalente in bitcoin.
+- I servizi che questi servizi forniscono sono "punti di accesso"
+- I governi possono regolamentare i punti di ingresso e di uscita
+    - Potrebbero vietare alle banche di inviare denaro a/da un exchange di bitcoin.
+        - Il che limiterebbe la nostra capacità di acquistare e vendere bitcoin ma,
+            - è impossibile **impedire l'invio/la ricezione di bitcoin.**
 
-## Tengo suficiente dinero para comprar bitcoin?
+## Ho abbastanza soldi per comprare bitcoin?
 
-- BTC es la unidad común de la moneda bitcoin.
-- Puede utilizarse el símbolo ₿ igual que se utiliza USD  o $ para referirnos a bitcoin
-- bitcoin tiene un valor equivalente a todas las divisas del mundo en cualquier momento.
-- Ejemplo: 1 BTC = US$21,464, y 1₿= $95,288,229 COP (Pesos Colombianos) en este instante
-- Bitcoin es mucho más divisible que $1USD, $1USD=100 centavos. No existe 1/2 centavo. o 1/10 de centavo.
-- Un **Satoshi** (o Sat para abreviar), es la denominación más baja en la moneda bitcoin
-- 1 BTC = 100,000,000 sats ≈ 0.0003 USD (hoy)
-- Esto quiere decir que un bitcoin se puede dividir en cien millones de unidades.
+- BTC è l'unità comune della moneta bitcoin.
+- Il simbolo ₿ può essere utilizzato nello stesso modo in cui USD o $ vengono utilizzati per riferirsi a bitcoin
+- bitcoin ha un controvalore equivalente in ogni valuta del mondo in un dato momento.
+- Esempio: 1 BTC = US $ 21.464 e 1 ₿ = $ 95.288.229 COP (pesi colombiani) in questo istante
+- Bitcoin è molto più divisibile di $ 1 USD, $ 1 USD = 100 centesimi. Non esiste una quantità come 1/2 centesimo. o 1/10 di centesimo.
+- Un **Satoshi** (o Sat in breve), è la denominazione più bassa nella valuta bitcoin
+- 1 BTC = 100,000,000 sats ≈ 0.0003 USD (oggi)
+- Ciò significa che un bitcoin può essere diviso in cento milioni di unità.
 
-**Sesgo de unidad:**   Falsa creencia **….**
+**Bias unitario**   Falsa credenza **….**
 
-- No se tiene que comprar 1 bitcoin entero; podemos comprar cuantos Sats queramos.
+- Non si deve acquistare 1 bitcoin intero; possiamo acquistare tutti i Sat che vogliamo.
 
-> ‘Si lo añades poco a lo poco y lo haces así con frecuencia, pronto llegará a ser mucho.” Hesíodo
+> ‘Se lo aggiungi a poco a poco e lo fai spesso, presto diventerà molto.” Hesíodo
 > 
 
-### Cómo se **custodia bitcoin?**
+### Come viene tenuto in custodia **bitcoin?**
 
-Cuando se compran Sats en un sitio web, 
+Quando i Sats vengono acquistati su un sito web,
 
 - lo más probable es que los acrediten a un “monedero”  (o una billetera) virtual
     - Similar a recibir un crédito en una cuenta bancaria cuando se transfiere dinero a ella
