@@ -49,97 +49,97 @@ Dunque,
         - Comprendere che non esiste un portafoglio ideale che soddisfi tutte le esigenze
     
 
-## **Tipo de monederos & lightning**
+## **Tipi di portafogli & lightning**
 
-### Quién controla mi bitcoin?
+### Chi controlla il mio bitcoin?
 
-- **Monederos auto-custodiales**:
+- **Portafogli con auto-custodia**:
 
-Beneficios:
+Benefici:
 
-- Es la única forma de convertirse en el dueño absoluto del bitcoin que se ha comprado
-- No es necesario pedir permiso para usar el servicio.
-- No hay un proceso de aprobación de cuentas.
-- Cualquier persona del mundo puede descargar la aplicación y usarla de inmediato.
-    - Es como tener el dinero guardado en casa en lugar de confiárselo al banco
-        - La autocustodia de nuestro bitcoin es muy recomendable para evitar robos.
-- Ninguna corporación o gobierno tiene control o autoridad sobre las transacciones
-- Ningún tercero puede confiscar arbitrariamente lo que está en autocustodia.
-    - En momentos de estrés,  tenemos la seguridad que nuestro bitcoin está a salvo.
+- È l'unico modo per diventare il proprietario assoluto del bitcoin che è stato acquistato
+- Non è necessario chiedere il permesso per utilizzare il servizio.
+- Non esiste un processo di approvazione dell'account.
+- Chiunque nel mondo può scaricare l'app e usarla subito.
+    - È come tenere i soldi a casa invece di affidarli alla banca
+        - L'autocustodia dei nostri bitcoin è altamente raccomandata per evitare furti.
+- Nessuna società o governo ha il controllo o l'autorità sulle transazioni
+- Nessun soggetto terzo può confiscare arbitrariamente ciò che è in autocustodia.
+    - In tempi di stress, siamo sicuri che il nostro bitcoin sia al sicuro.
 
-Riesgos:
+Rischi:
 
-- No hay manera de recuperar los fondos en caso de perder las “claves privadas”.
-- Menos acceso a servicio al cliente
-- La responsabilidad no está distribuida
+- Non c'è modo di recuperare i fondi in caso di smarrimento delle “chiavi private”.
+- Non esiste un servizio clienti
+- La responsabilità non è distribuita
 
-- **Monederos custodiales (un tercero guarda tu bitcoin)**:
-    - Los fondos (las claves privadas) están bajo el control del proveedor del monedero
-    - Beneficio: si pierdes u olvidas el acceso a tu cuenta, se recupera el dinero fácilmente
-    - Riesgo: siempre conectados al internet, lo que los hace más vulnerables.
+- **Portafogli di custodia (una terza parte custodisce il tuo bitcoin)**:
+    - I fondi (chiavi private) sono sotto il controllo del fornitore del servizio di custodia
+    - Vantaggio: se perdi o dimentichi l'accesso al tuo conto, il denaro viene facilmente recuperato
+    - Rischio: sempre connessi a Internet, il che li rende più vulnerabili.
 
 
-## Cual es el monedero mas conveniente?
+## Qual è il portafoglio più conveniente?
 
-- **Monederos fríos**
+- **Cold Wallets (Portafogli "freddi")**
 
 **Hardware**: 
 
-- Monederos “no conectados”, ya que, como su nombre lo indica, no requieren internet.
-- Los monederos más seguros en existencia.
-- Ideal para almacenar grandes cantidades de bitcoin
-- Sus claves se almacenan en un dispositivo de hardware. [Ejemplo: Coldcard MK3.]
-- La pérdida del monedero sin copia de seguridad resulta en fondos irrecuperables
+- Portafogli "non connessi", poiché, come suggerisce il nome, non richiedono Internet.
+- I portafogli più sicuri esistenti.
+- Ideale per conservare grandi quantità di bitcoin
+- Le tue chiavi sono memorizzate su un dispositivo hardware. [Esempio: Coldcard MK3.]
+- La perdita del portafoglio senza backup si traduce in fondi irrecuperabili
 
-**Monederos de papel**: 
+**Paper Wallets (Portafogli Cartacei)**: 
 
-- Las claves privadas se copian en un papel como forma de protección.
-- Una de las formas más seguras pero extremadamente ineficiente de almacenar BTC,
-- Es necesario copiar una nueva clave privada cada vez que se realice una transacción
+- Le chiavi private vengono copiate su carta come forma di protezione.
+- Uno dei modi più sicuri ma estremamente inefficiente per conservare BTC,
+- È necessario copiare una nuova chiave privata ogni volta che viene effettuata una transazione
 
-**Monederos calientes (software)**:
-    - Conectadas al internet
-    - Se puede instalar y/o acceder a través de una aplicación en el móvil o vía web.
+**Hot Wallets (Portafogli Software)**:
+    - connessi ad Internet
+    - Possono essere installati e/o accessibili tramite un'applicazione mobile o via web.
         
-**Monederos móvil**
+** Mobile Wallets**
         
-        - Portable y conveniente; ideal cuando se hacen transacciones cara a cara
-        - Los mercados de aplicaciones los podrían eliminar sin preaviso
-        - Si el dispositivo se daña o se pierde, puede ser difícil recuperar los fondos
-        - Ideales para usar con códigos QR
+        - Portatili e convenienti; ideale quando si effettuano transazioni di persona
+        - I vari App store potrebbero rimuoverli senza preavviso
+        - Se il dispositivo è danneggiato o smarrito, può essere difficile recuperare i fondi
+        - Ideali per l'uso con i codici QR
         
-**Monederos de escritorio**
+**Desktop Wallets**
         
-        - Los usuarios pueden tener control completo sobre los fondos
-        - Algunos ofrecen soporte a monederos fríos
-        - Difícil de utilizar códigos QR al realizar transacciones
-        - Susceptible a los virus que roban bitcoins
+        - Gli utenti possono avere il controllo completo sui fondi
+        - Alcuni offrono supporto per cold wallets
+        - Difficile utilizzare i codici QR durante le transazioni
+        - Suscettibili ai virus informatici che rubano bitcoin
 
-**Arquitectura de los monederos de Bitcoin**
+**Architettura dei portafogli Bitcoin**
     
  
 
-### Como envio/recibo satoshis?
+### Come invio/ricevo satoshi?
 
-**En-cadena (*on-chain,*** en inglés): 
+**On-chain: 
 
-- A través de monederos conectadas a la red “principal".
-- Esta es una forma muy segura pero muy lenta-hasta 10 min. para confirmar la transacción
-- Las comisiones de cada transacción son proporcionales su tamaño digital,  no a su monto.
-    - Si envía un valor de 1 $USD en cadena, y se paga $ 1 en tarifas, esto representa  el 100%
-    - Si envía 10,000 $USD en cadena, y se paga $ 1 en tarifas, esto representa el 0.01%.
+- Attraverso portafogli collegati alla rete "principale".
+- Questo è un modo molto sicuro ma molto lento, fino a 10 min. per confermare la transazione
+- Le commissioni di ogni transazione sono proporzionali alla sua dimensione digitale, non al suo importo.
+    - Se invii un valore di $ 1 USD on-chain e $ 1 viene pagato in commissioni, questo rappresenta il 100%
+    - Se invii $ 10.000 sulla catena e $ 1 viene pagato in commissioni, questo rappresenta lo 0,01%.
 
 **Lightning Network (off-chain)**: 
 
-- Una solución de "capa 2"-permite enviar y recibir bitcoin
-    - pagando tarifas muy bajas o sin tarifas y
-    - de manera excepcionalmente rápida.
-- Se utilizan en países donde:
-    - las políticas y regulaciones locales fomentan la adopción masiva y
-    - se requiere una solución de transacción rápida, privadas, económica y eficiente.
+- Una soluzione di "livello 2": consente di inviare e ricevere bitcoin
+    - pagando commissioni molto basse o nulle e
+    - in modo eccezionalmente rapido.
+- Sono utilizzati nei paesi in cui:
+    - le politiche e le normative locali incoraggiano l'adozione di massa e
+    - è richiesta una soluzione di transazione veloce, privata, economica ed efficiente.
     
 
-# **El Ciclo de una Transacción (on-chain)**
+# **Il ciclo di una transazione (on-chain)**
 
 ## Que es una transacción de Bitcoin?
 
