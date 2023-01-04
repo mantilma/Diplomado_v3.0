@@ -141,26 +141,26 @@ Rischi:
 
 # **Il ciclo di una transazione (on-chain)**
 
-## Que es una transacción de Bitcoin?
+## Cos'è una transazione Bitcoin?
 
-Lo que se envía y se guarda a través del protocolo Bitcioin es bitcoin, no son pesos ni dólares. 
+Ciò che viene inviato e salvato attraverso il protocollo Bitcoin è bitcoin, non sono pesos, dollari o euro.
 
-- A esta transferencia de dinero es lo que se le llama una transacción.
-- Un traspaso de valor entre dos monederos, el cual queda grabado en la blockchain (Bitcoin).
+- Questo trasferimento di denaro è chiamato transazione.
+- Un trasferimento di valore tra due portafogli, che viene registrato nella blockchain (Bitcoin).
 
 
 
-Cuando una nueva transacción ingresa a la red, 
+Quando una nuova transazione entra nella rete,
 
-- debe pasar un proceso de verificación para ser aceptada por los nodos
-    - Las transacciones válidas
-        - se transmiten de una computadora a otra hasta que todas tengan copia.
-        - Aproximadamente cada diez minutos se agrupan miles de transacciones,
-        - y se crea un nuevo bloque, a través de un proceso llamado minería.
-        - Las nuevas transacciones quedan grabadas en el bloque para siempre,
-        - será imposible modificarlas, borrarlas o agregarles información.
-    - Las transacciones inválidas
-        - simplemente se rechazan y no se propagan por la red
+- deve superare un processo di verifica per essere accettato dai nodi
+    - Le transazioni valide
+        - vengono trasmesse da un nodo all'altro fino a quando tutti ne hanno una copia.
+        - Circa ogni dieci minuti vengono raggruppate migliaia di transazioni,
+        - e viene creato un nuovo blocco, attraverso un processo chiamato mining.
+        - Le nuove transazioni vengono registrate nel blocco per sempre,
+        - sarà impossibile modificarle, cancellarle o aggiungervi informazioni.
+    - Le transazioni non valide
+        - vengono semplicemente respinte e non si propagano sulla rete
 
 ## Puentes y paradas para realizar transacciones y guardar BTC
 
