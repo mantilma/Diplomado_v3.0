@@ -162,79 +162,79 @@ Quando una nuova transazione entra nella rete,
     - Le transazioni non valide
         - vengono semplicemente respinte e non si propagano sulla rete
 
-## Puentes y paradas para realizar transacciones y guardar BTC
+## Modi per realizzare transazioni e custodire BTC
 
-Una transacción a través de un monedero se asemeja al siguiente proceso:
+Una transazione tramite un portafoglio è simile al seguente processo:
 
-- Imaginemos como si todo el bitcoin en existencia estuviese guardado cajas de seguridad,
-    - todas con diferente cantidad de BTC, pero completamente transparentes.
-    - Cualquiera pudiese ver cuanto bitcoin hay en cada caja y el historial de cómo llegó allí
+- Immaginiamo come se tutti i bitcoin esistenti fossero custoditi in cassette di sicurezza,
+    - tutte con diverse quantità di BTC, ma completamente trasparenti.
+    - Chiunque può vedere quanti bitcoin ci sono in ogni scatola e la storia di come sono arrivati lì
 
 
-- Cada caja tiene una **dirección** perteneciente a un sólo dueño,
-- Esta está protegida con un candado de seguridad, el cual necesita dos llaves diferentes
-- Una de las llaves (**la llave privada**) **abre** el candado y **da acceso al BTC adentro**,
-- La otra llave (**la llave pública**) **cierra** el candado y **protege el BTC**
-- Cada participante en la red **guarda** sus **llaves privadas** en lugares muy seguros
-- Si una caja tiene bitcoin, el dueño en cualquier momento puede abrir su caja y:
-    - trasladar cualquier cantidad de fondos deseada otra caja diferente
-    - pero antes, tomando en cuenta que existen miles y miles de cajas,
-        - necesita una dirección exacta, para garatizar que se va a depositar el BTC  a la caja correcta.
+- Ogni cassetta ha un **indirizzo** appartenente ad un unico proprietario,
+- Questa è protetta da un lucchetto di sicurezza, che richiede due differenti chiavi.
+- Una delle chiavi (**la chiave privata**) **apre** il lucchetto e **dà accesso ai BTC all'interno**,
+- L'altra chiave (**la chiave pubblica**) **chiude** il lucchetto e **protegge i BTC**
+- Ogni partecipante alla rete **conserva** le proprie **chiavi private** in luoghi molto sicuri
+- Se una scatola contiene bitcoin, il proprietario in qualsiasi momento può aprire la sua scatola e:
+    - trasferire qualsiasi importo desiderato di fondi in una cassetta diversa
+    - ma prima, tenendo conto che ci sono migliaia e migliaia di scatole,
+        - ha bisogno di un indirizzo corretto, per garantire che i BTC vengano depositati nella cassetta desiderata.
     
 
     
-    - Por último, cerrar el candado de caja fuerte con la llave pública del recipiente
-        - para que nadie, fuera del destinatario, tenga acceso a dicho bitcoin
-- En el futuro, la caja sólo se podrá abrir con la llave privada de quién recibió el BTC.
+    - Infine, chiudere il lucchetto della cassetta con la chiave pubblica del destinatario
+        - in modo che nessuno, al di fuori del destinatario, abbia accesso ai bitcoin
+- In futuro, la cassetta potrà essere aperta solo con la chiave privata della persona che ha ricevuto i BTC.
 
 
-## **Cómo funciona una transacción paso a paso?**
+## **Come funziona una transazione passo a passo?**
 
-El éxito de transferir dinero en una red descentralizada solo se logró bajo la premisa que cada transacción es única y reconocible.   
+Il successo del trasferimento di denaro in una rete decentralizzata si raggiunge solo con la premessa che ogni transazione è unica e riconoscibile. 
 
 
 
-Supongamos que Marc va a enviar 0.5 bitcoin a su hermano Roby. Ambos tienen monederos.
+Supponiamo che Marco invierà 0,5 bitcoin a suo fratello Roberto. Entrambi hanno dei wallet.
 
-- Es necesario crear una transacción que lleve un **identificador único e irrepetible**.
-    - Este identificador es la **huella digital** de cada transacción
-    - Esto es así para evitar que dos transacciones pasen por ser idénticas,
-    - y el proceso de verificación sea sencillo.
-        - Para que esto suceda de manera segura pero eficiente,
-            - se requiere cifrar, descifrar, firmar y verificar cada transacción.
+- È necessario creare una transazione che porti un **identificativo unico e irripetibile**.
+    - Questo identificatore è l'**impronta digitale** di ogni transazione
+    - Questo per evitare che due transazioni passino per identiche,
+    - ed il processo di verifica sia semplice.
+        - Affinché questo avvenga in modo sicuro ma efficiente,
+            - è necessario crittografare, decrittografare, firmare e verificare ogni transazione.
 
-A. **Cifrar**: Marc tiene que enviar el Bitcoin a través de un canal inseguro sin que nadie lo intercepte. 
+A. **Crittografare**: Marco deve inviare il Bitcoin attraverso un canale non sicuro senza che nessuno lo intercetti. 
 
-B. **Descifrar**: Roby tiene que recibir el dinero, asegurarse que nadie más tenga acceso a él y poder usarlo.
+B. **Decrittografare**: Roberto deve ricevere il denaro, assicurarsi che nessun altro abbia accesso ad esso ed essere in grado di usarlo.
 
-C. **Firmar**: Marc tiene que comprobarle a Roby que el dinero que envió si le pertenecía a el originalmente y que está mandando la cantidad correcta.
+C. **Firmare**: Marco deve verificare a Roberto che il denaro che ha inviato in origine apparteneva a lui e che invia l'importo corretto.
 
-D. **Verificar**: Los usuarios en la red tienen que verificar que Marc si tenía ese dinero en su cuenta para gastar, lo tienen que deducir de la cuenta de Marc, y agregarlo a la cuenta de Roby. 
+D. **Verificare**: Gli utenti della rete devono verificare che Marco disponeva di quei soldi sul suo conto da spendere, li devono poi detrarre dal conto di Marco, e aggiungerli al conto di Roberto.
 
-**Miremos como sucede:**
+**Vediamo come accade:**
 
-1. Marc abre su monedero en su celular y le pide la dirección de envío a Roby,  
-2. Roby se la comparte (en forma de código QR, texto, correo electrónico u otros métodos), 
-3. En esta transacción, Marc escanea el código QR y lo vincula a la cantidad que desea enviar
-    - agregando una comisión pequeña como incentivo para que los **mineros** la seleccionen,
-4. con un click en un botón, se verifica si Marc tiene suficiente fondos en su monedero 
-5. El monedero de Marc **firma** la transacción **** con su clave privada, 
-    - su bitcoin se vuelve disponible para Roby
-6. La transacción se transmite a través de la red a los **nodos** para ser ver si es aprobada
-    - Después de ser verificada, permanece en un área de espera
-7. Los **nodos mineros** seleccionan miles de transacciones y rechazan las inválidas 
-    - Las agregan sus nuevos “bloques candidatos”, los cuales no han sido aceptados
-    - Comprimen toda la información y cada uno crea un identificador de bloque.
-8. Comienza una competencia entre **nodos (**similar a una rifa entre identificadores de bloque)
-    - para ver a quién es el próximo en agregar su bloque a la cadena de bloques
-9. El bloque ganador contiene la transacción de Marc-Roby y lo propaga a otros nodos
-10. Los nodos verifican el identificador del bloque ganador y lo agregan a la cadena de bloques
-    - Todas las transacciones en dicho bloque quedan **confirmadas** en la cadena de bloques
-    - no habrá forma de modificar o borrar. Quedará registrado ****para siempre en su lugar.
-11. Roby se convierte en el propietario acreditado de ese **bitcoin**  
-    - Habrá recibido sus 0.5 BTC en aproximadamente 10 minutos
-    - Marc lo verá  restado del balance de su **monedero**
-12. La transacción habrá terminado con éxito.
+1. Marco apre il wallet sul cellulare e chiede a Roberto l'indirizzo di spedizione, 
+2. Roberto lo condivide (sotto forma di codice QR, testo, email o altri metodi),
+3. In questa transazione, Marco scansiona il codice QR e lo collega all'importo che desidera inviare
+    - aggiungendo una piccola commissione come incentivo per i **minatori** a selezionarlo,
+4. con un clic, viene verificato se Marco ha abbastanza fondi nel suo portafoglio
+5. il wallet di Marco **firma** la transazione**** con la sua chiave privata,
+    - il suo bitcoin diventa disponibile per Roberto
+6. la transazione viene trasmessa attraverso la rete ai **nodi** per vedere se è approvata
+    - Dopo essere stata verificata, rimane in un'area di attesa
+7. I **nodi minatori** selezionano migliaia di transazioni e rifiutano quelle non valide
+    - le transazioni valide vengono aggiunte ai "blocchi delle transazioni candidate", che non sono state ancora accettate
+    - consolidano tutte le informazioni e ognuno crea un blocco identificatore.
+8. inizia una competizione tra **nodi (**simile ad una lotteria)
+    - per vedere chi è il prossimo ad aggiungere un blocco alla blockchain
+9. il blocco del minatore vincente contiene la transazione Marco-Roberto e la propaga ad altri nodi
+10. I nodi verificano l'identificatore del blocco vincente e lo aggiungono alla blockchain
+    - Tutte le transazioni in quel blocco diventano **confermate** nella blockchain
+    - non ci sarà più modo di modificarlo o eliminarlo. Sarà registrato **** per sempre.
+11. Roberto diventa il proprietario di quei **bitcoin**
+    - In circa 10 minuti avrà ricevuto i suoi 0,5 BTC
+    - Marco lo vedrà sottratto dal saldo del suo **wallet**
+12. La transazione sarà terminata con successo.
 
 ## UTXO-“Monedas no Gastadas” o “Unspent Transaction Output”
 
