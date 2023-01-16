@@ -1,4 +1,4 @@
-# Bitcoin cómo Depósito de Valor y cómo Red de Pagos
+# Bitcoin come riserva di valore e come rete di pagamento
 
 - **El doble gasto:** 
 Cuando alguien envía la misma “moneda” dos veces.
