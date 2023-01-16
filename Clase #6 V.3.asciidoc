@@ -1,50 +1,49 @@
 # Bitcoin come riserva di valore e come rete di pagamento
 
-- **El doble gasto:** 
-Cuando alguien envía la misma “moneda” dos veces.
-- EJEMPLO
+- **La doppia spesa:** 
+Quando qualcuno invia la stessa "moneta" due volte.
+- ESEMPIO
 
-    - Digamos que Sarah les debe a Bill y a Tom 0.2 BTC, pero tiene exactamente 0.2 BTC en su billetera. Ella crea dos transacciones simultáneas en las cuales le manda 0.2 BTC a Bill y también 0.2 BTC a Tom. Es como si hubiera escrito un correo electrónico en el que declara su amor y se lo hubiese mandado simultáneamente a dos personas.
+- Diciamo che Sarah deve a Bill e Tom 0,2 BTC, ma possiede esattamente 0,2 BTC nel portafoglio. Crea due transazioni simultanee in cui invia 0,2 BTC a Bill e anche 0,2 BTC a Tom. È come se avesse scritto una mail dichiarando il suo amore e l'avesse inviata a due persone contemporaneamente. 
     
-    
-    - ¡Las dos transacciones no van a ser confirmadas por la red! Eso sería un ejemplo de un doble gasto. Pero si tenemos un sistema en el que ningún computador está a cargo, ¿cómo se hace para decidir cuál transacción se rechaza y cuál queda escrita permanentemente en la cadena? Bitcoin usa un proceso llamado **minería**.
+    - Le due transazioni non saranno confermate dalla rete! Questo sarebbe un esempio di doppia spesa. Ma se abbiamo un sistema in cui nessun computer è responsabile, come si fa a decidere quale transazione viene rifiutata e quale viene scritta in modo permanente nella blockchain? Bitcoin utilizza un processo chiamato **mining**.
 
-## **El problema del doble gasto**
+## **Il problema della doppia spesa**
 
-Antes de entrar en detalle, contemplemos lo siguiente: 
+Prima di entrare nel dettaglio, consideriamo quanto segue:
 
-*Bitcoin es dinero digital*.  Esto significa que a diferencia del dinero convencional, 
+*Bitcoin è denaro digitale*. Ciò significa che, a differenza del denaro convenzionale,
 
-- No puede duplicarse como otro tipo de archivos digitales (fotos, videos, etc.),
-    - replicado ,falsificado y/o enviado a múltiples personas simultáneamente,
-    - o facturado como un cobro doble a través de una tarjeta de crédito.
+- Non può essere duplicato come altri tipi di file digitali (foto, video, ecc.),
+    - replicato, falsificato e/o inviato a più persone contemporaneamente,
+    - o fatturato come doppio addebito tramite carta di credito.
 
-*Que beneficios trae esta característica de bitcoin?* Expliquemos con un ejemplo.
+*Quali vantaggi porta questa funzionalità del Bitcoin?* Spieghiamolo con un esempio.
 
-- Es común que las personas almacenen sus recibos y/o mantengan un registro de sus gastos
-- Periódicamente comparan sus cuentas con los saldos bancarios
-- y verifican que no haya ninguna discrepancia de gastos.
+- È comune per le persone conservare le proprie ricevute e/o tenere un registro delle proprie spese
+- Confrontano periodicamente i loro conti con i saldi bancari
+- e verificano che non ci siano delle discrepanze.
 
-Por ejemplo:
+Per esempio:
 
-- Alguien puede darse cuenta que un restaurante cobró su tarjeta de crédito dos veces;
-- Hay dos retiros de $5.08 el 01/26/22. Le han facturado doble por el mismo almuerzo
-- Probablemente va o llama al banco para tratar de revertir uno de los pagos,
-- En el mejor caso, si el banco acepta su disputa, recuperará su dinero en unos meses.
-- En el peor, el restaurante se opone a devolver el dinero alegando que hubo 2 compras.
+- Qualcuno potrebbe rendersi conto che un ristorante ha addebitato due volte la propria carta di credito;
+- Ci sono due prelievi di 5,08 $ il 26/01/22. Gli è stata addebitata due volte la stessa spesa per il pranzo
+- Contatta la banca per cercare di cancellare uno dei due pagamenti,
+- Nel caso migliore, se la banca accetta la sua contestazione, riavrà i soldi in pochi mesi.
+- Nel caso peggiore, il ristorante si oppone alla restituzione del denaro, sostenendo che ci sono stati 2 acquisti.
 
-Sigamos explorando ejemplos del día a día para ilustrar la idea del “doble gasto”
+Continuiamo ad esplorare esempi quotidiani per illustrare l'idea di "doppia spesa"
 
-Día #1:
+Giorno #1:
 
-- Digamos que Raquel pide un almuerzo en McDonalds por 10 USD.
-- Paga en efectivo con dos billetes  de 5 USD.
-- El pago queda confirmado instantáneamente
-    - ambas partes han presenciado físicamente el trámite
-        - y ha sido un intercambio sencillo.
-- Simple, una hamburguesa a cambio del dinero.
+- Diciamo che Raquel ordina un pranzo da McDonald's per 10$.
+- Paga in contanti con due banconote da 5$.
+- Il pagamento è confermato all'istante
+    - entrambe le parti hanno assistito fisicamente alla transazione.
+        - ed è stato uno scambio facile.
+- Semplicemente, un hamburger in cambio dei soldi.
 
-Día #2: 
+Giorno #2:
 
 - Raquel pide el mismo almuerzo y tiene dos billetes de 5 USD de nuevo,
 - pero uno es original y otro falso (una copia exacta).  Los entrega como forma de pago.
