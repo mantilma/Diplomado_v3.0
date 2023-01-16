@@ -236,47 +236,47 @@ D. **Verificare**: Gli utenti della rete devono verificare che Marco disponeva d
     - Marco lo vedrà sottratto dal saldo del suo **wallet**
 12. La transazione sarà terminata con successo.
 
-## UTXO-“Monedas no Gastadas” o “Unspent Transaction Output”
+## UTXO-“Monete non spese” o “Unspent Transaction Output”
 
-Las transacciones son simplemente **entradas** y **salidas** de bitcoin de un monedero a otro
+Le transazioni sono semplicemente **input** e **output** di bitcoin da un portafoglio all'altro
 
-- Todo bitcoin que todavía no se haya gastado se considera “**UTXO**”, **monedas no consumidas**
-- El **estado actual** de la cadena de bloques es la base de datos **UTXO**.
-- Las **entradas** se refieren al dinero que se usa para **generar una transacción**
-- Las **salidas** indican generalmente dos puntos a los que se **dirige la transacción**:
-    - Una salida va a la persona a la que se realiza el pago
-- Cuando un usuario desbloquea su UTXO con su clave privada para enviarle a otro,
-    - su saldo puede estar en peligro, ya que su caja de seguridad está abierta.
-    - Por este motivo, es recomendable siempre mandar cualquier saldo a un monedero nuevo
-- Si el monedero original tiene un saldo:
-    - la otra salida se dirige a una dirección nueva creada para recibir el cambio
-        - convirtiendo esta cantidad en una entrada nueva UTXO
-- Para los nodos en la red, es fácil llegar a un consenso ya que:
-    - todos mantienen una copia de la misma base de datos
-    - pueden comprobar los saldos de cada una de las direcciones.
+- Qualsiasi bitcoin che non è stato ancora speso è considerato "**UTXO**", **monete non consumate o spese**
+- Lo **stato attuale** della blockchain è il database delle **UTXO**.
+- Gli **input** si riferiscono al denaro utilizzato per **generare una transazione**
+- Gli **output** generalmente indicano due indirizzi a cui la transazione è **inviata**:
+    - Un output va alla persona a cui viene effettuato il pagamento
+- Quando un utente sblocca il suo UTXO con la sua chiave privata da inviare a un altro,
+    - il suo saldo potrebbe essere in pericolo, poiché la sua "cassetta di sicurezza" è aperta.
+    - Per questo motivo è sempre consigliabile inviare l'eventuale saldo ad un nuovo wallet
+- Se il portafoglio originale ha un saldo:
+    - l'altro output va a un nuovo indirizzo creato per ricevere il resto
+        - convertendo questa quantità in un nuovo input UTXO
+- Per i nodi della rete è facile raggiungere un consenso poiché:
+    - tutti mantengono una copia dello stesso database
+    - possono verificare i saldi di ciascun indirizzo.
 
-## La confirmación de una transacción
+## Conferma di una transazione
 
-- Para autorizar y **enviar** cualquier **salida** de bitcoin de un monedero,
-    - se debe **firmar** la transacción con la **clave privada**.
-    - Este paso es necesario para probar que uno es el propietario de sus fondos.
-- Para **recibir** una **entrada** a un monedero,
-    - un usuario debe haber compartido su **dirección** con el emisario.
-- La transferencia se **CONFIRMA** cuando,
-    - Bitcoin **ha apuntado** la cantidad de bitcoin que se depositó  **a la nueva dirección**
-    - y la **ha restado** del monedero **de quien lo envió**.
+- Per autorizzare ed **inviare** qualsiasi bitcoin da un portafoglio,
+    - la transazione deve essere **firmata** con la **chiave privata**.
+    - Questo passaggio è necessario per dimostrare la proprietà dei fondi.
+- Per **ricevere** bitcoin in un portafoglio,
+    - un utente deve aver condiviso il proprio **indirizzo** con il mittente.
+- Il trasferimento è **CONFERMATO** quando,
+    - Bitcoin **ha registrato** la quantità di bitcoin depositati **nel nuovo indirizzo**
+    - e li ha **sottratti** dal wallet **del mittente**.
 
-Visualicemos cómo se **confirma** una transacción:
+Visualizziamo come viene **confermata** una transazione:
 
-- Las cajas amarillas representan UTXO y
-- las cajas grises representan monederos en los que ya no hay bitcoin (completamente vacías).
-- Diagrama #1:
-    - El nodo confirma que si había suficiente bitcoin apuntando a la dirección original  (0.5 BTC en el monedero de Marc) para ejecutar la transacción
-    - Cuando se confirma la transacción, se ha repartido cierta cantidad de bitcoin a dos direcciones diferentes.
-    - Algunas cajas ahora tienen más bitcoin (la de Roby), y la original, menos….o nada.
+- Le cassette gialle rappresentano UTXO e
+- le cassette grigie rappresentano portafogli in cui non ci sono bitcoin (completamente vuoti).
+- Diagramma #1:
+    - Il nodo conferma che c'erano sufficienti bitcoin che puntavano all'indirizzo originale (0,5 BTC nel portafoglio di Marco) per eseguire la transazione
+    - Quando la transazione viene confermata, una certa quantità di bitcoin è stata inviata a due indirizzi diversi.
+    - Alcune cassette ora hanno più bitcoin (quella di Roberto), e quella originale (quella di Marco), meno...o niente.
  
 
-Después de haber confirmado la transferencia, la blockchain solo se encargará de monitorear los monederos que recibieron dinero, el de 1.5BTC, y el de 0.5BTC. 
+Dopo aver confermato il trasferimento, la blockchain si occuperà solo di monitorare i wallet che hanno ricevuto denaro, quello da 1.5BTC e quello da 0.5BTC.
 
-- Este es ahora el bitcoin no gastado o el UTXO.
+- Questo è ora il bitcoin non speso o UTXO.
 
