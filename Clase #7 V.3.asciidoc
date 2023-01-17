@@ -178,64 +178,64 @@ Una struttura dati suddivisa in più layer di hash che permette di verificare,
     
     
 
-# La Minería
+# Mining
 
-Ahora volvamos al proceso de Bitcoin:
+Ora torniamo al processo Bitcoin:
 
-- Los mineros tienen libertad de escoger transacciones para incluir en su próximo bloque.
-    - seleccionan y agrupan nuevas transacciones verificadas a un nuevo “bloque candidato”
+- I minatori sono liberi di scegliere le transazioni da includere nel blocco successivo.
+    - selezionano e raggruppano nuove transazioni verificate in un nuovo "blocco candidato"
 
-C*uales transacciones deben escoger para su “bloque candidato”?*
+*Quali transazioni dovresti scegliere per il tuo “blocco candidato”?*
 
-- Eligen aquellas con mayores incentivos monetarios y que ocupen menos memoria.
-    - Los depositantes agregan comisiones (o propinas) para incentivar a los mineros
-    - Adicionalmente, los mineros están motivados a trabajar honradamente.
-- Entre más transacciones hayan en la mempool, más congestionada la red.
-    - Los incentivos monetarios generalmente son mayores cuando hay mucho tráfico
-- Durante mucho tráfico, los mineros eligen transacciones que tienen comisiones más altas.
-    - Una vez el tráfico haya disminuido-se agregan aquellas con menores incentivos.
+- Scelgono quelle con maggiori incentivi monetari e che occupano meno memoria.
+    - I depositanti aggiungono commissioni (fees) per incentivare i minatori
+    - Inoltre, i minatori sono motivati ​​a lavorare onestamente.
+- Più transazioni ci sono nel mempool, più congestionata è la rete.
+    - Gli incentivi monetari sono generalmente più alti quando c'è molto traffico
+- Durante il traffico elevato, i minatori scelgono transazioni con commissioni più elevate.
+    - Una volta diminuito il traffico, si aggiungono quelle con incentivi inferiori.
 
-*En qué consiste cada bloque candidato?*
+*In cosa consiste ogni blocco candidato?*
 
-- El tamaño de un bloque es de aproximadamente 2.5 MB
-- Cada bloque tiene capacidad para unas pocas miles de transacciones como máximo,
-    - por lo tanto, es importante elegir eficientemente
-- Incluye un encabezado de bloque
-- Este encabezado de bloque se somete a la función hash
-    - SHA256(**encabezado**)=RESULTADO;
+- La dimensione di un blocco è di circa 2,5 MB
+- Ogni blocco può contenere al massimo qualche migliaio di transazioni,
+    - pertanto, è importante scegliere in modo efficiente
+- Include un'intestazione di blocco
+- Questa intestazione di blocco è l'input  della funzione di hash
+    - SHA256(**intestazione**)=RISULTATO;
 
-*Para qué se usa este RESULTADO* ?
+*A cosa serve questo RISULTATO*?
 
-- El objetivo es producir un identificador válido para un nuevo bloque
-    - que encaje perfectamente detrás del último bloque en la cadena existente,
-- Para esto, un minero debe producir el “hash ganador”
-    - el cual será deberá ser por debajo de un “valor objetivo” específico.
-- Siempre y cuando el RESULTADO sea mayor que el hash deseado,
-    - el minero ajusta un **nonce** y vuelve a intentarlo.
-- Los mineros repiten esto varios miles de veces por segundo.
-    - con la finalidad de ganar la recompensa del bloque.
-        - y crear una “huella digital” o un hash único de dicho bloque
-    - El proceso requiere cambiar el nonce miles y miles de veces,
-        - generando muchísimos posibles RESULTADOS
-        - hasta lograr el “hash ganador” antes que cualquier otro minero.
-    - Muy similar a nuestro ejemplo inicial de lanzar el dado muchas veces,
-        - hasta que un minero logra ganar con un RESULTADO debajo de el objetivo.
+- L'obiettivo è produrre un identificatore valido per un nuovo blocco
+    - che si adatti perfettamente all'ultimo blocco della catena esistente.
+- a tal scopo, un minatore deve produrre "l'hash vincente"
+    - che deve essere inferiore a uno specifico “valore obiettivo”.
+- Finché il RISULTATO è maggiore dell'hash desiderato,
+    - il minatore imposta un **nonce** e riprova.
+- I minatori ripetono tutto ciò migliaia di volte al secondo.
+    - al fine di guadagnare la ricompensa del blocco.
+        - e creare una "impronta digitale" o un hash univoco di detto blocco
+    - Il processo richiede di cambiare il nonce migliaia e migliaia di volte,
+        - generando molti possibili RISULTATI
+        - fino a raggiungere l'"hash vincente" prima di qualsiasi altro minatore.
+    - Molto simile al nostro esempio iniziale di tirare il dado molte volte,
+        - finché un minatore non riesce a vincere con un RISULTATO inferiore al target.
         
-- Esto significa que cualquier nodo minero en la red puede extraer un nuevo bloque,
-    - pero necesita gastar energía para poder hacerlo.
+- Ciò significa che qualsiasi nodo di mining nella rete può estrarre un nuovo blocco,
+    - ma deve spendere energia per poterlo fare.
 
-*Qué pasa cuando se encuentra el “hash ganador”?*
+*Cosa succede quando viene trovato l'"hash vincente"?*
 
-- Un minero afortunado, finalmente produce el hash ganador,
-- Transmite su éxito a toda la red.
-    - Ese **hash** se convierte en el **“hash del bloque” o su identificador único**
-- Para el resto de los mineros, la confirmación de la validez del bloque es un proceso simple.
-    - Sólo se debe asegurar que todas las transacciones sigan siendo validas,
-    - y que el hash del bloque sea menor que el “valor objetivo”.
-- Al ser confirmado el bloque, los otros nodos lo agregarán a la cadena existente
-    - Todas las transacciones contenidas en dicho bloque quedarán permanentemente grabadas en la cadena de bloques
-- El proceso se repetirá aproximadamente cada 10 minutos
-    - los mineros comenzarán a intentar extraer un nuevo bloque encima.
+- Un minatore fortunato alla fine produce l'hash vincente,
+- Trasmette il ​​suo risultato all'intera rete.
+    - Quell'**hash** diventa l'**"hash del blocco" o il suo identificatore univoco**
+- Per il resto dei minatori, la conferma della validità del blocco è un processo semplice.
+    - devono assicurarsi che tutte le transazioni rimangano valide.
+    - e che l'hash del blocco sia inferiore al "valore target".
+- Quando il blocco viene confermato, gli altri nodi lo aggiungeranno alla catena esistente
+    - Tutte le transazioni contenute in tale blocco saranno registrate in modo permanente nella blockchain.
+- Il processo si ripeterà ogni 10 minuti circa.
+    - i minatori inizieranno a provare a estrarre un nuovo blocco sopra di esso.
     
  
 
