@@ -124,7 +124,7 @@ SHA256(DaliaP)=
 
 25cad1ff3deb7bc5ba54ccf1f0fe8e8ff4a17f58826847b8cae2ddbd6cd6ab77
 
-SHA256(Ciao, mi chiamo Dalia. Vengo da Medellin, Colombia)=
+SHA256((Hola, me llamo Dalia. Soy de Medellín, Colombia.)=
 
 619010e5ab4877ef398e82a277e7134529a5ff1875f7671ff0177c7ab0302423
 
@@ -136,44 +136,44 @@ https://hashgenerator.de/
 
 https://emn178.github.io/online-tools/sha256.html
 
-Primero, qué pasa cuando ingresas el hash 256 de Dalia? Compáralo con el que está escrito aquí. 
+Innanzitutto, cosa succede quando inserisci l'hash 256 di Dalia? Confrontalo con quello scritto qui.
 
-Te das cuenta que aunque el resultado es aleatorio, 
+Puoi osservare che sebbene il risultato sia casuale,
 
-- el resultado de una entrada en particular siempre será el mismo.
-    - Si en vez de nombre, apellido y fecha de nacimiento, nos identificáramos con un número así, no habría el problema de tener dos “María” o dos “José” en clase.
+- il risultato di un particolare input sarà sempre lo stesso.
+    - Se al posto di nome, cognome e data di nascita ci identificassimo con un numero come questo, non ci sarebbe il problema di avere due "María" o due "José" in classe.
 
-Cual es el hash de tu nombre? Tu nombre y apellido? 
+Qual è l'hash del tuo nome? Il tuo nome completo?
 
-Qué pasa si cambias una letra a tu nombre? Hubieras podido predecir este hash?
+Cosa succede se modifichi una lettera del tuo nome? Avresti potuto prevedere questo hash?
 
-***Qué es un “nonce”?  (Number used once)***
+***Cos'è un "nonce"?***
 
-- Simplemente es un número usado una vez.
-- Los “nonce” son muy útiles para la minería ya que uno de los mayores objetivos es encontrar resultados de los SHA256(**Entrada**) que satisfagan ciertas condiciones predeterminadas.
+- È semplicemente un numero usato una volta.
+- I nonce sono molto utili per il mining poiché uno degli obiettivi principali è trovare risultati da SHA256(**Input**) che soddisfino determinate condizioni predeterminate.
 
-Supongamos que el **objetivo** es encontrar un hash que **inicie con el número “cero”** 
+Supponiamo che l'**obiettivo** sia trovare un hash che **inizia con il numero "zero"**
 
-- cambiándole solo el último dígito a SHA(Dalia**P**).  El **nonce** cambiaría la “P” :
+- cambiando solo l'ultima cifra in SHA(Dalia**P**). Il **nonce** cambierebbe la "P":
 
 SHA(Dalia**1**)= c2cb88c9aec429a7fe9194351e748247f668241ff75c708b43ea83ecd730268f
 
 SHA(Dalia**2**)=17df2ae3b1dec56c7bde0cf8b161f24329d351e08cb797adbd76af46401dadf3
 
-…..estuvimos de buenas y sólo  necesitamos intentar ocho veces para lograr nuestro objetivo:
+…..siamo fortunati che abbiamo solo bisogno di provare otto volte per raggiungere il nostro obiettivo:
 
 SHA(Dalia**8**)=**0**93d4ddb855114f49f3b775803529ed1cbd5598b5995c327091552bab5672658
 
- ***Qué es un Árbol de Merkle?***
+ ***Cos'è un albero Merkle?***
 
-Una estructura de datos dividida en varias capas de hashes que permite verificar, 
+Una struttura dati suddivisa in più layer di hash che permette di verificare,
 
-- de forma rápida y eficaz, la información de todas las transacciones.
-- Como un árbol invertido, en la que se parte desde las hojas
-    - y se escala progresivamente a través de las ramas hasta llegar al **nodo raíz**
-        - identificador principal que permitieverificar el conjunto de datos como un todo.
-- Su raíz única final, que contiene toda la información de todas las transacciones,
-    - se denomina **Merkle Root o Raíz de Merkle Root**
+- in modo rapido ed efficiente, le informazioni di tutte le transazioni.
+- Come un albero capovolto, che si dirama dalle foglie
+    - e scala progressivamente attraverso i rami fino a raggiungere il **nodo radice**
+        - identificatore primario che consente la verifica del set di dati nel suo insieme.
+- La sua radice univoca finale, che contiene tutte le informazioni di tutte le transazioni,
+    - si chiama **Merkle Root o Radice di Merkle Root**
         
     
     
