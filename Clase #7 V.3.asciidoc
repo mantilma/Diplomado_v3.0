@@ -17,61 +17,61 @@ Provano ad essere i primi a risolvere problemi computazionali matematici e crear
     - le commissioni incluse nelle transazioni presenti in detto blocco.
     
 
-Una diferencia clave entre los **nodos completos** y los **nodos** **mineros**: 
+Una differenza fondamentale tra i **nodi completi** e i nodi di **mining**:
 
-- Los nodos mineros pueden proponer nuevos bloques a la red Bitcoin
-    - Tratan de resolver rompecabezas criptográficos en un proceso llamado "**minería**".
-        - Deben demostrar que es son los que han realizado el trabajo requerido
-            - Por lo tanto, pueden recibir **recompensas** por los bloques
-- Los nodos completos no pueden proponer bloques nuevos
-    - Por lo tanto, **no** pueden recibir recompensas
+- I nodi di mining possono proporre nuovi blocchi alla rete Bitcoin
+    - Cercano di risolvere enigmi crittografici in un processo chiamato "**mining**".
+        - Devono dimostrare di essere quelli che hanno eseguito il lavoro richiesto
+            - Quindi, possono ricevere **ricompense** per i blocchi
+- I nodi completi non possono proporre nuovi blocchi
+    - Pertanto, **non possono** ricevere ricompense
     
 
-### Cómo es la competencia matemática entre mineros?
+### Com'è la competizione matematica tra minatori?
 
-De nuevo volvamos a una analogía: 
+Ancora una volta torniamo ad un'analogia:
 
-- Cada minero tiene un dado especial que tiene marcados los números 1 hasta el 1000, es decir, tiene 1000 caras.
-- Los mineros se alistan para entrar a una competencia, con el incentivo de ganar un poco más de  6.25 bitcoin en los próximos 10 minutos.,
-- Bitcoin escoge un número objetivo  del 1-1000 y lo publica para que todos lo vean en la red. Digamos que escoge el #8. Empieza la competencia.
-- El objetivo es caer en un número  menor a 8.
-    - Algunos mineros tienen ventajas y una probabilidad mayor de ganar: Porqué?
-        - Tienen más poder adquisitivo y han comprado más de un dado.
-        - Otros lanzan a una velocidad mayor que otros.
-- Comienza la competencia:
-    - Los mineros empiezan a lanzar su dado cientos de veces pero esto requiere de mucho trabajo. Se les cansa la mano.
-    - Un minero afortunado alza la mano y dice “gane!”.
-    - Todos los otros mineros paran de lanzar sus dados y miran la mesa en la que están jugando.
-    - De esta manera, todos pueden verificar si está diciendo la verdad.
-    - Si la mayoría, por consenso está de acuerdo que el minero es el ganador, se le da su recompensa.
-    - Comienzan de nuevo.
-- Si entran más mineros a la próxima competencia, Bitcoin reduce el número objetivo de modo que siempre se demore aproximadamente 10 minutos para que alguien gane.
+- Ogni minatore ha un dado speciale che dispone dei numeri da 1 a 1000, cioè ha 1000 facce.
+- I minatori si preparano a partecipare a una competizione, con l'incentivo a vincere poco più di 6,25 bitcoin nei prossimi 10 minuti.
+- Bitcoin sceglie un numero target da 1 a 1000 e lo pubblica affinché tutti possano vederlo sulla rete. Supponiamo che scelga #8. La competizione inizia.
+- L'obiettivo dei minatori è tirare il dado e ottenere un numero inferiore a 8.
+    - Alcuni minatori hanno vantaggi e una maggiore probabilità di vincita: perché?
+        - Hanno più potere d'acquisto e hanno comprato più di un dado.
+        - Altri lanciano dadi a una velocità maggiore rispetto ad altri.
+- La competizione inizia:
+    - I minatori iniziano a tirare i dadi centinaia di volte, ma questo richiede molto lavoro. La loro mano si stanca.
+    - Un minatore fortunato alza la mano e dice "ho vinto!".
+    - Tutti gli altri minatori smettono di tirare i dadi e guardano il tavolo su cui stanno giocando.
+    - In questo modo tutti possono verificare se sta dicendo la verità.
+    - Se la maggioranza, per consenso, concorda sul fatto che il minatore è il vincitore, gli viene data la sua ricompensa.
+    - Ricominciano.
+- Se più minatori partecipano alla prossima competizione, Bitcoin riduce il numero target in modo che ci vogliano sempre circa 10 minuti prima che qualcuno vinca.
 
-## Un pequeño desvió -para entender la importancia de los *hashes*
+## Una piccola deviazione - per capire l'importanza degli *hash*
 
-## *Qué es una función?*
+## *Cos'è una funzione?*
 
-- Es como una máquina transformadora:
-    - se introduce algo, se modifica mediante unas reglas estrictas,  y surge otra completamente diferente.  Es decir:
-    - Se suministra el dato de entrada, **x**, o los datos que uno ingresa,
-    - Se le aplican operaciones matemáticas (suma, resta, multiplicación, etc.) predefinidas,
-    - El resultado es una *salida*, **f(x),y.**
+- Immaginiamola come una macchina che trasforma qualcosa in qualcos'altro:
+    - qualcosa viene introdotto, modificato da regole ferree, e ne emerge qualcos'altro completamente diverso. Vale a dire:
+    - Vengono forniti i dati di input, **x**, o i dati che si immettono,
+    - Ad essi vengono applicate operazioni matematiche predefinite (addizione, sottrazione, moltiplicazione, ecc.),
+    - Il risultato è un *output*, **f(x),y.**
 
 
-Ejemplo:  f(x)=3x+4 me dice: 
+Esempio:  f(x)=3x+4 mi dice: 
 
-- multiplique el dato de entrada (x) por 3, súmele 4 y obtenga la *salida* f(x), o y.
-- Cual sería la respuesta de f(2)? Es decir, cual es el resultado de y cuando x=2?
-- Ahora, cual es la pregunta aquí?  f(x)=15. Buscamos encontrar la entrada o la salida? Es posible encontrar el valor? Veamos….          f(x)=3x+4=15.      3x+4=15….        x=?
+- moltiplica l'input (x) per 3, aggiungi 4 e ottieni l'*output* f(x), o y.
+- Quale sarebbe la risposta di f(2)? Cioè, qual è il risultato di y quando x=2?
+- Ora, qual è la domanda qui? f(x)=15. Cerchiamo di trovare l'input o l'output? È possibile trovare il valore? Vediamo….         f(x)=3x+4=15.      3x+4=15….        x=?
 
-Algunas funciones son unidireccionales. 
+Alcune funzioni sono unidirezionali.
 
-- Tienen la propiedad de ser fáciles de calcular pero difíciles de invertir.
-- Aunque sepamos el **resultado**, no podremos *descifrar* los datos de *entrada*.
+- Hanno la proprietà di essere facili da calcolare ma...
+- Anche se conosciamo il **risultato**, non saremo in grado di *decifrare* i dati di *input*.
 
-Si odias las matemáticas, vamos a formular una analogía que te ayudará  a entender. 
+Se odi la matematica, formuliamo un'analogia che ti aiuterà a capire.
 
-Vamos a hacer un jugo de frutas rojas. 
+Faremo un succo di frutta rossa.
 
 - Estos son los datos de *entrada: (t=taza)*
     - 1 t agua, 3 cubos de hielo, 18  frambuesas, 8 fresas, 15 t moras y 1/5 de t azúcar.
