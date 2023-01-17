@@ -73,42 +73,42 @@ Se odi la matematica, formuliamo un'analogia che ti aiuterà a capire.
 
 Faremo un succo di frutta rossa.
 
-- Estos son los datos de *entrada: (t=taza)*
-    - 1 t agua, 3 cubos de hielo, 18  frambuesas, 8 fresas, 15 t moras y 1/5 de t azúcar.
-- La *operación de la función:*
-    - Lo mezclamos todo junto en la licuadora .
-- Dato de *salida  **resultado**:*
-    - Resulta un jugo delicioso.
+- Questi sono i *dati di input: (t=tazza)*
+    - 1 t di acqua, 3 cubetti di ghiaccio, 18 lamponi, 8 fragole, 15 t di more e 1/5 t di zucchero.
+- L'*operazione della funzione:*
+    - Frulliamo il tutto nel frullatore.
+- *Dati di output **risultato**:*
+    - un succo di frutta delizioso.
 
-Es casi imposible que otra persona descifre cuales son sus ingredientes y porciones exactas.
+È quasi impossibile per un'altra persona capire quali siano gli ingredienti e le porzioni esatte.
 
-- Esto es lo que significa una función unidireccional.
-- El jugo no se puede convertir de nuevo en sus datos de entrada.
+- Questo è ciò che significa una funzione unidirezionale.
+- Il succo non può essere riconvertito nei dati di input.
 
-## ***Que es un hash?***
+## ***Cos'è un hash?***
 
-**Bitcoin** usa criptografía-una rama de matemáticas
+**Bitcoin** utilizza la crittografia, una branca della matematica
 
-- Su proceso de entradas y salidas es muy parecido .
-- Una función **hash** criptográfica:
-    - es una operación criptográfica que toma cualquier cantidad de datos,
-    - Y devuelve un valor hash, de identificadores
-    - **únicos** e **irrepetibles**, ****determinísticos**** y **caóticos**
+- Il loro processo di input e output è molto simile.
+- Una funzione **hash** crittografica:
+    - è un'operazione crittografica che prende qualsiasi quantità di dati,
+    - Y restituisce un valore hash, di identificatori
+    - **unici** e **irripetibili**, ****deterministici**** e **caotici**
 
 
-- No existen restricciones en los datos de entrada,
-    - el *hash* siempre resulta en la misma longitud de caracteres
-    - El hash también se considera como una huella digital de los datos de entrada
+- Non ci sono restrizioni sui dati di input,
+    - il volore di *hash* risulta sempre della stessa lunghezza di caratteri
+    - L'hash è anche considerato come un'impronta digitale dei dati di input.
     
     
-💡 **Determinístico:** las mismas entradas o iniciales producirán invariablemente las mismas salidas o resultados. 
+💡 **Determinístico:** gli stessi input produrranno invariabilmente gli stessi output o risultati.
 
-💡 **Caótico:** una entrada ligeramente diferente producirá una salida completamente diferente y no relacionada.
+💡 **Caotico:** un input leggermente diverso produrrà un output completamente diverso e non correlato.
     
     
     
 
-***Qué es SHA 256?***
+***Che cos'è SHA256?***
 
 - La función hash particular que usa Bitcoin se llama SHA256.
 - Su **resultado** o **hash** siempre es Hexadecimal (números entre 0 y 9 y letras entre A y F).
