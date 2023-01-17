@@ -1,20 +1,20 @@
-# Los Mineros y l**a Minería de Bitcoin**
+# I Minatori ed il **Bitcoin Mining**
 
-### Los **nodos mineros**
+### I **nodi minatori**
 
-Se esfuerzan por ser los primeros en resolver problemas matemáticos y crear nuevos bloques
+Provano ad essere i primi a risolvere problemi computazionali matematici e creare nuovi blocchi
 
-- con el objetivo de ganar recompensas monetarias
-- y la condición de demostrar que han trabajado por ello,
-    - y por lo tanto, ayudado a mantener la red segura.
-- Los mineros siempre ejecutan un nodo completo, pero también:
-    - empaquetan las transacciones válidas en grupos, creando y proponiendo bloques
-    - a través de un mecanismo que le da seguridad a la red llamado **Proof of Work, PoW**
-        - (de ahí el nombre "**prueba de trabajo**", en inglés proof-of-work).
-        - Es necesaria para la seguridad, lo que previene el fraude y permite la confianza.
-- La recompensa de cada bloque consiste en:
-    - Nuevo BTC fabricado por el software de Bitcoin,  y en adición,
-    - las comisiones incluidas por las transacciones incluidas en dicho bloque.
+- con l'obiettivo di guadagnare ricompense in denaro
+- dimostrando di aver compiuto un lavoro,
+    - e quindi, contribuendo a mantenere la rete sicura.
+- I minatori eseguono sempre un nodo completo, ma anche:
+    - aggregano transazioni valide in gruppi, creando e proponendo blocchi
+    - attraverso un meccanismo che dà sicurezza alla rete chiamato **Proof of Work, PoW**
+        - (da qui il nome "**prova di lavoro**", in inglese proof-of-work).
+        - È necessario per la sicurezza, che previene le frodi e consente la fiducia.
+- La ricompensa di ogni blocco è composta da:
+    - Nuovi BTC creati dal software Bitcoin e, inoltre,
+    - le commissioni incluse nelle transazioni presenti in detto blocco.
     
 
 Una diferencia clave entre los **nodos completos** y los **nodos** **mineros**: 
