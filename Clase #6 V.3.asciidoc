@@ -91,132 +91,132 @@ Qui https://dailyblockchain.github.io/  si può visualizzare quanto velocemente 
  
 
 
-- Los nodos deben decidir si las transacciones son válidas o no
-    - Si son aceptadas,
-        - esperan que un minero la seleccione y las adicione en el siguiente bloque
-            - eventualmente se graban **permanentemente** en la base de datos compartida,
-    - De lo contrario, se pueden rechazar si :
-        - existe un conflicto con otra transacción,
-        - si no hay suficientes fondos para transferir o
-        - si la firma no es válida y no puede comprobar que se puede gastar dicho BTC,
-    - Algunas transacciones simplemente se quedan en el área de espera
-        - por hasta 72 horas, hasta que por fin se rechazan
-            - ya que no agregan un incentivo monetario suficientemente atractivo
+- I nodi devono decidere se le transazioni sono valide o meno
+    - Se vengono accettate,
+        - aspettano che un minatore le selezioni e le aggiungano nel blocco successivo
+            - Alla fine sono permanentemente salvate nel database condiviso.
+    - Altrimenti, possono essere rifiutate se:
+        - c'è un conflitto con un'altra transazione,
+        - se non ci sono fondi sufficienti per il trasferimento o
+        - se la firma non è valida e non si può verificare che detti BTC possano essere spesi,
+    - Alcune transazioni rimangono nel Mempool
+        - per un massimo di 72 ore, fino al rifiuto definitivo
+            - poiché non aggiungono un incentivo monetario sufficientemente allettante per i minatori
 
-La mempool proporciona una capa adicional de seguridad y resistencia contra *ataques DDoS.*  
+Il mempool fornisce un ulteriore livello di sicurezza e resistenza contro gli *attacchi DDoS.*
 
-- cuando una red se inunda con transacciones minúsculas,
-    - provocando una congestión inmanejable.
+- Gli attacchi DDoS si verificano quando una rete è invasa da minuscole transazioni
+    - causando una congestione ingestibile.
 
-## Actividad-Transacciones Verificadas pero no Confirmadas
+## Attività: transazioni verificate ma non confermate
 
 https://bits.monospace.live/
 
 https://chainflyer.bitflyer.jp/
 
-A continuación podemos ver una transacción real sin confirmar:
+Di seguito possiamo vedere una transazione reale non ancora confermata:
 
-- Un identificador único ( la huella digital de la transacción),
-- el espacio de memoria que ocupa,
-- la comisión que se paga
-- el monto de la transferencia
+- Un identificatore univoco (l'impronta digitale della transazione),
+- lo spazio di memoria che occupa,
+- la commissione pagata
+- l'importo del trasferimento
     
     TxID: a434948b2de9de18398294f84e42436ec59fb86faf34a21052bd640a97cd94b7d
     ___input	⟶. ___outputs
-    Size: _____ vbytes (Espacio de memoria que ocupa)
-    Fee rate: 27.01 sats/vbyte (Rata de Comisión/ vbyte actual)
-    Fee: ______sats (Comisión de la transacción)
-    Total value: ₿ _______ ≈ $ ______USD (Valor total de la transacción)
+    Size: _____ vbytes (lo spazio di memoria che occupa)
+    Fee rate: 27.01 sats/vbyte (Commissione/ vbyte corrente)
+    Fee: ______sats (Costo della transazione)
+    Total value: ₿ _______ ≈ $ ______USD (Valore totale della transazione)
     
 
-Podríamos analizar otra u otras transacciones? 
+Potremmo analizzare altre transazioni?
 
-- Es de mayor o menor monto?
-- Los participantes pagaron una comisión más alta o más baja?
-- Cual transacción será más probable encontrar en el siguiente bloque? Porqué?
-- Qué querrá decir cuando un bloque se cae hacia el abismo?
-- Que quiere decir cuando se confirma una transacción?…. Próxima clase
+- L'ammontare è più grande o più piccolo?
+- I partecipanti hanno pagato una commissione più alta o più bassa?
+- Quale transazione si troverà molto probabilmente nel blocco successivo? Come mai?
+- Cosa significa quando un blocco cade nell'oblio?
+- Cosa significa quando una transazione è confermata?…. Prossima lezione
 
-## **La Red de Bitcoin (On-Chain)**
+## **La Rete Bitcoin (On-Chain)**
 
-- Está compuesta por los nodos de Bitcoin…
-    - Aquellos equipos computacionales que se adhieren a un sistema de reglas (Bitcoin Core).
-        - Se comunican entre sí a través del ciberespacio convirtiéndolos en una red.
-            - Cada uno de los cuales ejecuta su propia versión del software Bitcoin.
-
-
-Desde estos puntos de conexión se puede crear, enviar, y recibir información (i.e. transacciones)
-
-- Existen diferentes tipos de nodos; cada uno ejerce un papel diferente en la red
-
-## Nodos Completos
-
-- Ejecutan el software de bitcoin
-
-Tienen autonomía de tomar sus propias decisiones, sin embargo, a través del consenso,
-
-- toman las mismas decisiones, convirtiéndolos en una red descentralizada confiable y segura
-- Los nodos completos tienen tres funciones:
-    1. **Compartir información (a sus nodos vecinos)**
+- È composto da nodi Bitcoin...
+    - ovvero un insieme di computers che aderiscono ad un sistema di regole (software noto come Bitcoin core).
+        - Comunicano tra loro attraverso il cyberspazio rendendoli una rete.
+            - Ogni nodo esegue la propria versione del software Bitcoin.
 
 
-- [ ]  Hay dos tipos de transacciones que comparten los nodos:
-    1. *Transacciones frescas*: 
-    - Estas van directamente a la mempool**.**
-    - Los nodos se encargan de verificar o rechazar estas transacciones.
-        - Se basan en el historial de la blockchain y el conjunto de reglas del software
-    - Retransmiten las transacciones válidas a sus nodos vecinos
-        - Nadie quiere recibir transacciones defectuosas o maliciosas
+Da questi punti di connessione è possibile creare, inviare e ricevere informazioni (ovvero transazioni)
 
-b. *Transacciones confirmadas*: 
+- Esistono diversi tipi di nodi; ognuno gioca un ruolo diverso nella rete
 
-- transacciones que han sido "**confirmadas**" y escritas en un bloque.
-- Estas se agrupan y forman los bloques; no se comparten individualmente.
+## Nodi completi
+
+- Eseguono il software del bitcoin
+
+Hanno autonomia nel prendere le proprie decisioni, tuttavia, attraverso il consenso,
+
+- prendono le stesse decisioni, rendendole una rete decentralizzata affidabile e sicura
+- I nodi completi hanno tre funzioni:
+    1. **Condividere le informazioni (con i loro nodi vicini)**
 
 
-1. **Guardar una copia de las transacciones confirmadas.** 
-- Mantienen una copia completa de todos los bloques en la cadena de bloque,
-- Cada **confirmación** reduce exponencialmente *e*l riesgo de que la transacción sea revertida .
+- [ ]  Esistono due tipi di transazioni condivise dai nodi:
+    a. *Transazioni recenti*:
+    - Queste vanno direttamente nel mempool**.**
+    - I nodi sono incaricati di verificarle e quindi accettare o rifiutare queste transazioni.
+        - Si basano sulla storia della blockchain e sul set di regole del software
+    - Trasmettono le transazioni valide ai loro nodi vicini
+        - Nessuno vuole ricevere transazioni errate
 
-https://mempool.space/ (Los bloques morados -debajo están todas las transacciones)
+b. *Transazioni confermate*:
 
-1. **Validar los bloques y llegar a un consenso con los otros nodos.** 
-- Todos los nodos participantes deben aceptar unánimemente la información que contiene un bloque entero antes de incluirlo en la cadena de bloques.
-- Una copia de la cadena de bloques para su custodia y la comparte con otros nodos.
+- transazioni che sono state "**confermate**" e scritte in un blocco.
+- Queste sono raggruppate e formano i blocchi; non sono condivise individualmente.
 
-El estatus de sus transacciones frescas y confirmadas se pueden localizar en la red. Cómo ?
 
-- Los exploradores de bloques son una ventana a todas las transacciones cadena de bloques
-- Permiten comprobar el saldo de cada dirección, ver los detalles de cada transacción y más
+2. **Conservare una copia delle transazioni confermate.**
+- Hanno una copia completa di tutti i blocchi della blockchain,
+- Ogni **conferma** riduce esponenzialmente *il rischio che la transazione venga annullata.
 
-**Actividad**:    
+https://mempool.space/ (I blocchi viola - sotto ci sono tutte le transazioni!)
 
-Exploremos uno de ellos:
+3. **Convalidare i blocchi e raggiungere un consenso con gli altri nodi.** 
+- Tutti i nodi partecipanti devono accettare all'unanimità le informazioni contenute in un intero blocco prima che sia incluso nella blockchain.
+- Conservano una copia della blockchain condividendola con gli altri nodi.
+
+Lo stato delle transazioni nuove e confermate può essere trovato sul web. Come?
+
+- I block explorer sono una finestra su tutte le transazioni.
+- Consentono di controllare il saldo di ogni indirizzo, visualizzare i dettagli di ogni transazione e altro ancora
+
+**Attività**:    
+
+Esploriamone uno:
 
 https://www.blockchain.com/explorer?view=btc
 
-Vamos al link de Bitcoin donde podemos observar: 
+Andiamo al link indicato dove possiamo osservare diversi proprietà delle transazioni.
 
-- el monto total que se transmite,
-- cuantas entradas y salidas hay
-- el tamaño (o la memoria que ocupa en el bloque),
-- el ID de una transacción aleatoria
-- el estado de la transacción y,
-- si la transacción ya ha sido confirmada, muestra el número total de confirmaciones.
+- l'importo totale trasferito,
+- quanti input ed output ci sono
+- la dimensione (o la memoria che occupa nel blocco),
+- l'ID di una transazione
+- lo stato della transazione e,
+- se la transazione è già stata confermata, mostra il numero totale di conferme.
 
--Latest Transactions= Últimas Transacciones
+-Latest Transactions= Ultime transazioni
 
--Latest Blocks=Últimos Bloques
+-Latest Blocks=Ultimi Blocchi
 
-Qué información reconoces? Cual te sorprende? Cuál es el valor de la última  transacción? Podemos ver si ya está confirmada?
+Quali informazioni riconosci? Cosa ti sorprende? Qual è il valore dell'ultima transazione? Possiamo vedere se è già confermata?
 
-- no todos los usuarios tienen suficiente espacio en su disco duro para convertirse en uno
-    - de ser ese el caso, simplemente se puede descargar un monedero
-        - y realizar transferencias o guardar BTC a largo plazo
+- non tutti gli utenti hanno abbastanza spazio sul proprio disco rigido per diventare un nodo completo
+    - in tal caso, puoi semplicemente scaricare un portafoglio (wallet)
+        - ed effettuare trasferimenti o custodire BTC a lungo termine
 
 ### Software -**Bitcoin Core**:
 
-Software original creado por Satoshi Nakamoto-
+Software originale creato da Satoshi Nakamoto-
 
 - Diseñado para conectarse a otras personas que ejecutan el mismo programa,
     - creando una red de computadoras que se comunican entre sí.
