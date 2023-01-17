@@ -4,7 +4,7 @@
 Quando qualcuno invia la stessa "moneta" due volte.
 - ESEMPIO
 
-- Diciamo che Sarah deve a Bill e Tom 0,2 BTC, ma possiede esattamente 0,2 BTC nel portafoglio. Crea due transazioni simultanee in cui invia 0,2 BTC a Bill e anche 0,2 BTC a Tom. È come se avesse scritto una mail dichiarando il suo amore e l'avesse inviata a due persone contemporaneamente. 
+- Supponiamo che Sarah deve a Bill e Tom 0,2 BTC, ma possiede esattamente 0,2 BTC nel portafoglio. Crea due transazioni simultanee in cui invia 0,2 BTC a Bill e anche 0,2 BTC a Tom. È come se avesse scritto una mail dichiarando il suo amore e l'avesse inviata a due persone contemporaneamente. 
     
     - Le due transazioni non saranno confermate dalla rete! Questo sarebbe un esempio di doppia spesa. Ma se abbiamo un sistema in cui nessun computer è responsabile, come si fa a decidere quale transazione viene rifiutata e quale viene scritta in modo permanente nella blockchain? Bitcoin utilizza un processo chiamato **mining**.
 
@@ -16,12 +16,12 @@ Prima di entrare nel dettaglio, consideriamo quanto segue:
 
 - Non può essere duplicato come altri tipi di file digitali (foto, video, ecc.),
     - replicato, falsificato e/o inviato a più persone contemporaneamente,
-    - o fatturato come doppio addebito tramite carta di credito.
+    - o fatturato con doppio addebito come può accadere tramite carta di credito.
 
 *Quali vantaggi porta questa funzionalità del Bitcoin?* Spieghiamolo con un esempio.
 
 - È comune per le persone conservare le proprie ricevute e/o tenere un registro delle proprie spese
-- Confrontano periodicamente i loro conti con i saldi bancari
+- Esse confrontano periodicamente i loro conti con i saldi bancari
 - e verificano che non ci siano delle discrepanze.
 
 Per esempio:
@@ -32,62 +32,62 @@ Per esempio:
 - Nel caso migliore, se la banca accetta la sua contestazione, riavrà i soldi in pochi mesi.
 - Nel caso peggiore, il ristorante si oppone alla restituzione del denaro, sostenendo che ci sono stati 2 acquisti.
 
-Continuiamo ad esplorare esempi quotidiani per illustrare l'idea di "doppia spesa"
+Continuiamo ad esplorare esempi quotidiani per illustrare il concetto di "doppia spesa"
 
 Giorno #1:
 
-- Diciamo che Raquel ordina un pranzo da McDonald's per 10$.
+- Supponiamo che Raquel ordina un pranzo da McDonald's per 10$.
 - Paga in contanti con due banconote da 5$.
 - Il pagamento è confermato all'istante
-    - entrambe le parti hanno assistito fisicamente alla transazione.
+    - entrambe le parti hanno partecipato in presenza fisica alla transazione.
         - ed è stato uno scambio facile.
 - Semplicemente, un hamburger in cambio dei soldi.
 
 Giorno #2:
 
-- Raquel pide el mismo almuerzo y tiene dos billetes de 5 USD de nuevo,
-- pero uno es original y otro falso (una copia exacta).  Los entrega como forma de pago.
-- Siendo los números de serie idénticos:
-    - el cajero fácilmente podría ver que uno es falso,
-    - o simplemente aceptarle el pago como el día anterior.
-- El cajero, estando en una jornada ajetreada, acepta el pago sin mirar los billetes
+- Raquel ordina lo stesso pranzo e ha di nuovo due banconote da 5 dollari,
+- ma una è originale e l'altra è falsificata (una copia esatta). Consegna le due banconote come forma di pagamento.
+- Le banconote hanno lo stesso numero di serie:
+    - il cassiere potrebbe facilmente vedere che una banconata è falsificata,
+    - oppure, non accorgendosene, accettare il pagamento come accaduto il giorno prima.
+- Il cassiere, avendo passato una giornata intensa di lavoro, accetta il pagamento senza controllare le banconote
 
-Día #3 (Raquel estuvo de buenas, pero le da miedo volver a McDonalds) 
+Giorno #3 (A Raquel è andata bene, ma ha paura di tornare nuovamente al McDonalds) 
 
-- Ahora, va a tratar de replicar su bitcoin como replicó su billete en McDonalds.
-- Ella le debe 0.2BTC tanto a Jaime como a Pepe, pero sólo tiene 0.2 BTC en su monedero.
-- Raquel abre su monedero en su teléfono y en el de su mamá con su frase semilla.
-- Desde su teléfono manda 0.2 BTC a Jaime
-- Desde el teléfono su mamá manda 0.2 BTC a Pepe
-- Se asegura de mandar las dos transacciones exactamente al mismo tiempo.
-- Dos nodos diferentes reciben las dos transacciones
-    - Recordemos que Raquel tenía sólo 0.2 BTC en su monedero para gastar.
+- Ora proverà a duplicare il suo bitcoin come ha fatto con la banconata utilizzata al McDonalds.
+- Lei deve 0.2BTC sia a Jaime che a Pepe, ma ha solo 0,2 BTC nel suo wallet.
+- Raquel apre il suo wallet installato sia nel suo smartphone che in quello di sua madre con il seed di recupero
+- Dal suo smartphone invia 0,2 BTC a Jaime
+- Dallo smartphone di sua madre invia 0,2 BTC a Pepe
+- Si assicura di inviare le due transazioni esattamente nello stesso momento.
+- Due nodi diversi ricevono le due transazioni
+    - Ricordiamo che Raquel aveva solo 0,2 BTC da spendere nel suo wallet.
 
-- ¡Los nodos de la red se dan cuenta y una de las dos transacciones se rechaza!
-- Pero cómo?  Si tenemos un sistema en el que ningún computador está a cargo, ¿cómo se hace para decidir cuál transacción se rechaza y cuál queda escrita inalteradamente en la cadena de bloques?
+- I nodi di rete se ne accorgono ed una delle due transazioni viene rifiutata!
+- In che modo? Se abbiamo un sistema in cui nessun computer è al comando, come si decide quale transazione rifiutare e quale lasciare inalterata sulla blockchain?
 
-- Para lograr esto, Satoshi Nakamoto logró encontrar un mecanismo exitoso que  :
-    - revisa si una transacción es válida o no,
-    - de manera consensuada entre todos los participantes en la red,
-    - antes de agregarla en la cadena de bloques
-- Una solución ingeniosa a problemas como los mencionados anteriormente
+- Per raggiungere questo obiettivo, Satoshi Nakamoto è riuscito a trovare un meccanismo che:
+    - controlla se una transazione è valida o meno,
+    - in maniera consensuale tra tutti i partecipanti alla rete,
+    - prima di aggiungerla alla blockchain
+- Una soluzione brillante ai problemi sopra menzionati
 
-*Cómo funciona?*
+*Come funziona?*
 
-## Grupo de memoria o mempool
+## Gruppo/Pool di memoria o mempool
 
-- Antes de que cualquier transacción se pueda  ejecutar y fijar en un bloque,
-    - entrará a un área de espera llamada “mempool” (grupo de memoria).
+- Prima che qualsiasi transazione possa essere eseguita e inserita in un blocco,
+    - entrerà in un'area di attesa chiamata "mempool" (pool di memoria).
 
-**¿***Qué es y que sucede con las transacciones que entran aquí?*
+*****Che cos'è e cosa succede alle transazioni nel pool di memoria?*
 
-- Un sitio donde existen miles de transacciones verificadas pero no confirmadas
-- No  existe una Mempool global; cada uno de los nodos debe:
-    - verificar la validez de las transacciones antes de incluirlas en su Mempool
-    - propagar transacciones verificadas a los nodos vecinos
-    - rechazar transacciones inválidas
+- Un'area dove ci sono migliaia di transazioni verificate ma non ancora confermate
+- Non esiste un Mempool globale; ciascuno dei nodi deve:
+    - verificare la validità delle transazioni prima di includerle nel loro mempool
+    - propagare le transazioni verificate ai nodi vicini
+    - rifiutare le transazioni non valide
 
-Aquí https://dailyblockchain.github.io/  se puede observar cómo se dispersan rápidamente las transacciones válidas de nodo a nodo.
+Qui https://dailyblockchain.github.io/  si può visualizzare quanto velocemente le transazioni valide vengono propagate da un nodo all'altro.
  
 
 
