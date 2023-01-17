@@ -218,33 +218,33 @@ Quali informazioni riconosci? Cosa ti sorprende? Qual è il valore dell'ultima t
 
 Software originale creato da Satoshi Nakamoto-
 
-- Diseñado para conectarse a otras personas que ejecutan el mismo programa,
-    - creando una red de computadoras que se comunican entre sí.
-- Su propósito es que al descargarlo, todos trabajen con el mismo conjunto de reglas
-    - para validar transacciones
-    - y contribuir con la seguridad y la descentralización del sistema
-- Quien lo ejecute, puede instalarlo como cualquier otro programa de computador
-    - descarga y crea una copia adicional de la cadena entera de bloques,
-    - puede ayudar a transmitir transacciones a otras computadoras.
-- Siempre y cuando haya acceso a internet, no se necesita ningún permiso para:
-    - descargarlo y/o utilizarlo libremente
-    - transferir bitcoin a otro monedero o recibir de alguien más,
-    - verificar de forma demostrable la emisión de la oferta,
-    - conocer el historial de transacciones y los propietarios de cada bitcoin.
+- Progettato per connettersi ad altre persone che eseguono lo stesso programma,
+    - creando una rete di computer che comunicano tra loro.
+- Il suo scopo è che con la sua esecuzione tutti lavorino con lo stesso insieme di regole
+    - per convalidare le transazioni
+    - e contribuire alla sicurezza e alla decentralizzazione del sistema
+- Chiunque lo esegua può installarlo come un qualsiasi altro programma per computer
+    - scarica e crea una copia aggiuntiva dell'intera catena di blocchi,
+    - può aiutare a trasmettere transazioni ad altri computer.
+- Finché è disponibile l'accesso a Internet, non è necessaria alcuna autorizzazione per:
+    - scaricarlo e/o utilizzarlo liberamente
+    - trasferire bitcoin su un altro portafoglio o riceverne da qualcun altro,
+    - verificare in modo dimostrabile l'emissione di nuovi bitcoin
+    - conoscere la storia delle transazioni ed i proprietari di ogni bitcoin.
     
 
-💡 **Código fuente abierto:** Cualquier persona puede ver, **proponer cambios**, **modificar** y distribuir como mejor le parezca. Es comparable a ir a un restaurante y tener acceso a las recetas de tus comidas favoritas (el código)… pero luego puedes hacerlas y agregar o quitar cualquier ingrediente que desees y perfeccionarlas.
+💡 **Codice aperto (Open Source):** chiunque può visualizzarlo, **proporre cambiamenti**, **modificarlo** e distribuirlo come meglio crede. È paragonabile ad andare in un ristorante ed avere accesso alle ricette dei tuoi cibi preferiti (il codice)... ma poi puoi prepararli e aggiungere o rimuovere gli ingredienti che vuoi e perfezionarli.
 
 
-- Decenas de expertos en software y criptografía, trabajan en su mantenimiento y mejora.
-- Quien propone una actualización en el software,
-    - requiere el consenso de la mayoría de los para implementarla
+- Decine di esperti di software e crittografia lavorano alla sua manutenzione e miglioramento.
+- Chi propone un aggiornamento nel software,
+    - deve richiedere il consenso della maggioranza degli sviluppatori per implementarlo
 
 ### **“Lightning Network” (Off-Chain):**
 
-## **Cuál es la diferencia entre la Capa 1  o Capas Base y la Capa 2?**
+## **Qual è la differenza tra Layer 1 o Base Layer e Layer 2?**
 
-¿Qué haces con una carretera segura pero congestionada? Simple: conectas una carretera para descargar el tráfico. Esta es exactamente la diferencia entre las redes blockchain de Capa 1 y Capa 2.
+¿Cosa fare quando si ha una strada sicura ma congestionata? Semplice: colleghiamo una nuova strada per diminuire il traffico. Questa è esattamente la differenza tra Layer 1 e Layer 2.
 
 - Muchas piezas tecnológicas importantes de Bitcoin e incluso muchas transacciones no ocurren dentro de la "cadena de bloques"
 - **Bitcoin** es revolucionario ya que es  la ***capa base*** del internet descentralizado, pero,
