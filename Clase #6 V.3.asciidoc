@@ -246,99 +246,98 @@ Software originale creato da Satoshi Nakamoto-
 
 ¿Cosa fare quando si ha una strada sicura ma congestionata? Semplice: colleghiamo una nuova strada per diminuire il traffico. Questa è esattamente la differenza tra Layer 1 e Layer 2.
 
-- Muchas piezas tecnológicas importantes de Bitcoin e incluso muchas transacciones no ocurren dentro de la "cadena de bloques"
-- **Bitcoin** es revolucionario ya que es  la ***capa base*** del internet descentralizado, pero,
-    - tiene un problema fundamental de escalabilidad.
-    - Las transacciones de Bitcoin pueden ser lentas y caras.
-        - Se argumenta que bitcoin no se puede usar como medio de pago
-            - por ser lento y caro en micro pagos.
-                - Existen transacciones de US$1 o US$2 que terminan costando más de US$5 cuando se usa la red principal.
-                - Visa procesa hasta 65.000 transacciones por segundo,
-                    - mientras que la red Bitcoin solo puede manejar 7 tps.
+- Molti aspetti importanti della tecnologia Bitcoin e persino molte transazioni non avvengono nella blockchain
+- **Bitcoin** è rivoluzionario in quanto è il ***layer di base*** di Internet decentralizzato, ma,
+    - presenta un problema di scalabilità.
+    - Le transazioni Bitcoin possono essere lente e costose.
+        - Si sostiene che il bitcoin non possa essere utilizzato come mezzo di pagamento
+            - per essere lento e costoso nei micro pagamenti.
+                - Ci sono transazioni da 1$ o 2$ che finiscono per costare più di 5$ quando si utilizza la rete principale.
+                - Visa elabora fino a 65.000 transazioni al secondo,
+                    - mentre la rete Bitcoin può gestire solo 7 tps (transazioni per secondo).
 
-Ahí es donde la magia de las *soluciones de **capa dos*,** como **Lightning**, ha venido al rescate.
+È qui che la magia delle soluzioni di *livello due*,** come **Lightning**, vengono in soccorso.
 
-- Con Lightning Network, Bitcoin tiene el potencial de ser la moneda de la era digital…
-    - rápida, inmutable y descentralizada.
+- Con Lightning Network, Bitcoin ha il potenziale per essere la valuta dell'era digitale...
+    - veloce, immutabile e decentralizzata.
 
 https://youtu.be/lD8WQbS8-T8
 
-- **Lightning**, es un conjunto de reglas (contratos inteligentes), construido encima de Bitcoin,
-    - que permite transacciones instantáneas,
-    - de alto volumen y
-    - desconectadas de la red principal.
-    - No es necesario registrar todas las transacciones en la red,
-    - sino en una red alterna más eficiente.
-    - Brinda toda la seguridad de Bitcoin sin algunos de sus inconvenientes
-        - pero con diferentes tipos de compensaciones
-    - Ofrece más privacidad.
-    - Lightning aborda los problemas de escalabilidad de Bitcoin.
+- **Lightning**, è un insieme di regole (contratti intelligenti), costruite sul Bitcoin
+    - che consentono transazioni istantanee,
+    - di alto volume e
+    - scollegate dalla rete principale.
+    - Non è necessario registrare tutte le transazioni sulla rete,
+    - ma in una rete alternativa più efficiente.
+    - Fornisce tutta la sicurezza di Bitcoin senza alcuni dei suoi inconvenienti
+    - Offre maggiore privacy.
+    - Lightning risolve i problemi di scalabilità di Bitcoin.
 
 
 
-**Analogía:**
+**Analogia:**
 
-- Un huésped se registra en un hotel; de anticipado le piden su tarjeta de crédito
-    - para cubrir los cargos de habitación y tarifas imprevistas de la estadía.
-- Es más eficiente y menos costoso que cargar la tarjeta cada vez que incurre en un gasto.
-- El hotel lleva un registro de todos los gastos de el cliente.
-    - Existe una farmacia y una peluquería independientes dentro del hotel
-        - El huésped compra productos, usa servicios y firma la deuda a su habitación.
-        - El hotel cobra una comisión por intermediar el pago entre el huésped y el negocio.
-- Si el huésped tiene algún problema o una queja,
-    - se le descuenta la cantidad necesaria de su cuenta
-- La tarjeta sólo se carga después de la estadía
-    - cuando el huésped haya verificado que los cargos y el saldo sean correctos.
+- Un ospite effettua il check-in in un hotel; in anticipo gli chiedono la carta di credito
+    - per coprire le spese della camera e le spese accessorie per il soggiorno.
+- È più efficiente e meno costoso che utilizzare la carta ogni volta che si spende.
+- L'hotel tiene un registro di tutte le spese del cliente.
+    - C'è una farmacia indipendente e un parrucchiere all'interno dell'hotel
+        - L'ospite acquista prodotti, usufruisce di servizi e  addebita le spese alla sua camera.
+        - L'hotel addebita una commissione per l'intermediazione del pagamento tra l'ospite e i negozi.
+- Se l'ospite ha un problema o un reclamo,
+    - l'importo necessario viene detratto dal suo conto
+- La carta viene addebitata solo dopo il soggiorno
+    - quando l'ospite ha verificato che gli addebiti e il saldo sono corretti.
 
-**Lightning Network** funciona de manera similar pero diferente. Cómo  así?
+**Lightning Network** funziona in modo simile all'analogia. In che modo?
 
-- La analogía es precisa con la exclusión de la necesidad de confianza
-    - Este es un malentendido muy común de LN: no es un sistema de crédito.
-        - Las transacciones de LN no son pagarés:
-            - son transacciones de Bitcoin válidas que mueven UTXO reales
-- En lugar de darle a alguien una tarjeta de crédito y dejar una cuenta abierta,
-    - dos nodos pueden abrir un **canal de pago, o** una ruta de transferencia
-    - Las partes pueden realizar tantas transacciones  veces como lo deseen,
-        - manteniendo su saldo siempre actualizado.
-    - Cuanto más grande un canal,
-        - mayor la cantidad de bitcoin que se puede transferir en ambas direcciones
-    - Se puede construir rutas con todos aquellos con los que se hacen transacciones.
-    - Cuantos más canales,
-        - más conexiones y mejores atajos para llegar a ciertos destinos.
-    - Si existe una ruta directa,
-        - todo es sencillo y se hace una transaccion segun el tamaño del canal.
-    - Si la conexión es a través de un tercero (un puente),
-        - se debe pagar un peaje por pasar
-    - Para abrir un canal nuevo, ambos nodos pagan un fee pequeño a los mineros
-        - No se necesita actualizar y verificar cada transacción en la red,
-            - Esto sería costoso y tomaría mucho tiempo.
-        - Por el contrario, se aprueba cada movimiento con ambas firmas digitales
-    - Cuando cualquiera de las partes decide cerrar el canal,
-        - puede transmitir unilateralmente la última transacción a la red Bitcoin.
+- L'analogia è accurata ad esclusione del bisogno di fiducia.
+    - Questo è un fraintendimento molto comune di LN: non è un sistema di credito.
+        - Le transazioni LN non sono cambiali:
+            - sono transazioni Bitcoin valide che spostano UTXO reali
+- Invece di dare a qualcuno una carta di credito e lasciare un conto aperto,
+    - due nodi possono aprire un **canale di pagamento** o un percorso di trasferimento
+    - Le parti possono effettuare transazioni tutte le volte che lo desiderano,
+        - mantenendo il saldo tra loro sempre aggiornato.
+    - Più grande è un canale,
+        - maggiore è la quantità di bitcoin che può essere trasferita in entrambe le direzioni
+    - I canali possono essere aperti con tutti coloro con cui vengono effettuate transazioni.
+    - Più canali aperti,
+        - più collegamenti e connessioni, migliori percorsi per raggiungere determinate destinazioni.
+    - Se c'è un collegamento diretto,
+        - Tutto è semplice e una transazione viene effettuata in base alle dimensioni del canale.
+    - Se la connessione avviene tramite una terza parte (bridge/ponte),
+        - è necessario pagare un "pedaggio" per passare
+    - Per aprire un nuovo canale, entrambi i nodi pagano una piccola commissione ai minatori.
+        - Non c'è bisogno di aggiornare e verificare ogni transazione sulla rete,
+            - Questo sarebbe costoso e richiederebbe tempo.
+        - Al contrario, ogni movimento è approvato con entrambe le firme digitali
+    - Quando una delle parti decide di chiudere il canale,
+        - può trasmettere unilateralmente l'ultima transazione alla rete Bitcoin.
 
-Mira una visualización:
+Guarda una visualizzazione:
 
 https://lnrouter.app/graph/zero-base-fee
 
-- Si A tiene un canal abierto con B y B tiene un canal abierto con C, A puede enviar BTC a C a través de B sin necesidad de confiar o conocer a B.
+- Se A ha un canale aperto con B e B ha un canale aperto con C, A può inviare BTC a C tramite B senza bisogno di fidarsi o conoscere B.
 
-Actividad:
+Attività:
 
-Miremos un simulador:
+Diamo un'occhiata ad un simulatore:
 https://www.robtex.com/lnemulator.html?conf=A5-5B,B5-5C&send=A2C
 
-- El uso de Lightning es tan barato y rápido como el envío de un correo electrónico
-    - con el beneficio adicional de la naturaleza segura y sin confianza de Bitcoin.
-        - Sólo las dos personas que mantienen dinero en un canal abierto saben
-            - cuánto, qué tan a menudo y cuándo se mueve ese dinero.
+- Usare Lightning è economico e veloce come inviare un'e-mail
+    - con l'ulteriore vantaggio della natura sicura e affidabile di Bitcoin.
+        - Solo le persone coinvolte nell'apertura di un canale conoscono 
+            - quanto e quando i soldi si muovono.
 
 
 
-- En comparación, si se hacen 3 transacciones “en cadena”, es decir,
-    - se quedan en la  capa base,
-        - hubieran sido mucho más lentas y caras.
-- Cada una de estas transacciones tendría que involucrar a todos los participantes de la red
-    - Se podría visualizar de la siguiente manera:
+- In confronto, se 3 transazioni vengono effettuate "on chain", ovvero,
+    - rimangono sul layer 1 di base,
+        - sarebbero state molto più lente e più costose.
+- Ognuna di queste transazioni dovrebbe coinvolgere tutti i partecipanti alla rete.
+    - Si potrebbe visualizzare come segue:
     
    
 
