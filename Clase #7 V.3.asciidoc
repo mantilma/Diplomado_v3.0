@@ -110,11 +110,11 @@ Faremo un succo di frutta rossa.
 
 ***Che cos'è SHA256?***
 
-- La función hash particular que usa Bitcoin se llama SHA256.
-- Su **resultado** o **hash** siempre es Hexadecimal (números entre 0 y 9 y letras entre A y F).
-- SHA256(entrada)=hash
+- La particolare funzione hash utilizzata da Bitcoin si chiama SHA256.
+- Il suo **risultato** o **hash** è sempre esadecimale (numeri compresi tra 0 e 9 e lettere comprese tra A e F).
+- SHA256(input)=hash
 
-Vamos a crear **hashes**. Veamos los siguientes ejemplos:  
+Calcoliamo alcuni **hash**. Vediamo i seguenti esempi:
 
 SHA256(Dalia)=
 
@@ -124,13 +124,13 @@ SHA256(DaliaP)=
 
 25cad1ff3deb7bc5ba54ccf1f0fe8e8ff4a17f58826847b8cae2ddbd6cd6ab77
 
-SHA256(Hola, me llamo Dalia. Soy de Medellín, Colombia.)=
+SHA256(Ciao, mi chiamo Dalia. Vengo da Medellin, Colombia)=
 
 619010e5ab4877ef398e82a277e7134529a5ff1875f7671ff0177c7ab0302423
 
-### Actividad:
+### Attività:
 
-Cómo crear un hash? En los siguientes sitio web podremos practicarlo:
+Come creare un hash? Nei seguenti siti web possiamo farlo:
 
 https://hashgenerator.de/ 
 
