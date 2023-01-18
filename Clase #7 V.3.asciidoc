@@ -239,41 +239,41 @@ Ora torniamo al processo Bitcoin:
     
  
 
-*Y como se gana la recompensa el minero que ha encontrado el valor objetivo?*
+*E come riceve la ricompensa il minatore (miner) che ha trovato il valore target corretto?*
 
-- Todos los bloques candidatos crean una primera transacción que incluye una recompensa:
-    - Contiene una cantidad de bitcoin nuevo que va a ser liberado cuando se cree el bloque
-        - y la totalidad de las comisiones que generan las transacciones seleccionadas
-- Solamente el minero ganador puede cobrar dicha recompensa.
-    - Por su gran esfuerzo computacional: **PoW, o Prueba de Trabajo**
-        - PoW ha sido un método exitoso porque:
-            - encontrar el **hash** es extremadamente difícil, pero verificarlo es sencillo.
-- A esta transacción se le llama **coinbase** (**monedabase**)
-    - y es la primera en cada bloque de la blockchain.
+- Tutti i blocchi candidati creano una prima transazione che include una ricompensa:
+    - Contiene una quantità di nuovi bitcoin che verranno rilasciati alla creazione del blocco
+        - e tutte le commissioni incluse nelle transazioni selezionate
+- Solo il minatore vincente può riscuotere tale ricompensa.
+    - Per il suo grande sforzo computazionale: **PoW, o Proof of Work**
+        - PoW è un metodo funzionante perché:
+            - trovare l'**hash** è estremamente difficile, ma verificarlo è facile.
+- Questa transazione si chiama **coinbase** (**moneta di base**)
+    - ed è la prima in ogni blocco della blockchain.
 
-## ****No Confíes, Verifica…. Que quiere decir?****
+## ****Non fidarti, verifica... Cosa significa?****
 
-- Las transacciones obtienen una confirmación cuando son incluidas en un bloque y luego tras la confirmación de cada bloque posterior.
-- Para que dicho bloque se incluya en la cadena de bloques, se debe enlazar correctamente debajo de el último bloque creado en la red.
-- Una confirmación **en la blockchain, indica que “la transacción ha sido procesada y validada por la red y es muy poco probable que se revierta”.
-- Se recomienda esperar un mínimo de 6 confirmaciones para asegurarse de que los fondos fueron transferidos.
-- Bitcoin es conocida como la **blockchain** más segura y veraz que existe.
+- Le transazioni ricevono una conferma quando vengono incluse in un blocco e poi dopo la conferma di ogni blocco successivo.
+- Affinché tale blocco sia incluso nella blockchain, deve essere correttamente collegato a partire dell'ultimo blocco creato sulla rete.
+- Una sola conferma ** sulla blockchain indica che "la transazione è stata processata e convalidata dalla rete ed è molto improbabile che venga annullata".
+- Si consiglia di attendere un minimo di 6 conferme per assicurarsi che i fondi siano stati trasferiti.
+- Bitcoin rappresenta la **blockchain** più sicura e veritiera mai creata.
     
  
     
 
-## El Hash del Bloque**:**
+## L'hash del blocco**:**
 
-- Cada bloque hace referencia a un bloque anterior,
-    - a través del campo ‘bloque anterior’(**previous hash**) en la **cabecera del bloque**.
-- La secuencia de los hashes que unen cada bloque al previo
-    - crea una cadena que se remonta hasta el el primer bloque jamás creado,
-        - conocido como el bloque génesis.
-- Cualquier modificación  mínima a cualquier transacción cambiará el hash del bloque,
-    - y lo desligará del bloque anterior.
-- Si un hacker trata de alterar hasta una coma de una transacción,
-    - se creará una cascada de fallas en la verificación de bloques posteriores.
-- Esto se debe a que cada bloque tiene información sobre el anterior.
+- Ogni blocco fa riferimento a un blocco precedente,
+    - attraverso il campo 'blocco precedente' (**previous hash**) nell'**intestazione del blocco** (block header).
+- La sequenza di hash che collegano ogni blocco a quello precedente
+    - crea una catena che percorsa a ritroso porta al primo blocco mai creato.
+        - conosciuto come il blocco genesi.
+- Qualsiasi modifica minore a qualsiasi transazione cambierà l'hash del blocco,
+    - e lo scollegherà dal blocco precedente.
+- Se un hacker cerca di alterare anche solo una virgola di una transazione,
+    - si creerà una successione di fallimenti nella verifica dei blocchi successivi.
+- Questo perché ogni blocco contiene informazioni riguardo a quello precedente.
 
 
 Los bloques se componen de una cabecera de bloque y sus transacciones. 
