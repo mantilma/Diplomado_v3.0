@@ -1,120 +1,120 @@
-# Los Mineros y l**a Minería de Bitcoin**
+# I Minatori ed il **Bitcoin Mining**
 
-### Los **nodos mineros**
+### I **nodi minatori**
 
-Se esfuerzan por ser los primeros en resolver problemas matemáticos y crear nuevos bloques
+Provano ad essere i primi a risolvere problemi computazionali matematici e creare nuovi blocchi
 
-- con el objetivo de ganar recompensas monetarias
-- y la condición de demostrar que han trabajado por ello,
-    - y por lo tanto, ayudado a mantener la red segura.
-- Los mineros siempre ejecutan un nodo completo, pero también:
-    - empaquetan las transacciones válidas en grupos, creando y proponiendo bloques
-    - a través de un mecanismo que le da seguridad a la red llamado **Proof of Work, PoW**
-        - (de ahí el nombre "**prueba de trabajo**", en inglés proof-of-work).
-        - Es necesaria para la seguridad, lo que previene el fraude y permite la confianza.
-- La recompensa de cada bloque consiste en:
-    - Nuevo BTC fabricado por el software de Bitcoin,  y en adición,
-    - las comisiones incluidas por las transacciones incluidas en dicho bloque.
+- con l'obiettivo di guadagnare ricompense in denaro
+- dimostrando di aver compiuto un lavoro,
+    - e quindi, contribuendo a mantenere la rete sicura.
+- I minatori eseguono sempre un nodo completo, ma anche:
+    - aggregano transazioni valide in gruppi, creando e proponendo blocchi
+    - attraverso un meccanismo che dà sicurezza alla rete chiamato **Proof of Work, PoW**
+        - (da qui il nome "**prova di lavoro**", in inglese proof-of-work).
+        - È necessario per la sicurezza, che previene le frodi e consente la fiducia.
+- La ricompensa di ogni blocco è composta da:
+    - Nuovi BTC creati dal software Bitcoin e, inoltre,
+    - le commissioni incluse nelle transazioni presenti in detto blocco.
     
 
-Una diferencia clave entre los **nodos completos** y los **nodos** **mineros**: 
+Una differenza fondamentale tra i **nodi completi** e i nodi di **mining**:
 
-- Los nodos mineros pueden proponer nuevos bloques a la red Bitcoin
-    - Tratan de resolver rompecabezas criptográficos en un proceso llamado "**minería**".
-        - Deben demostrar que es son los que han realizado el trabajo requerido
-            - Por lo tanto, pueden recibir **recompensas** por los bloques
-- Los nodos completos no pueden proponer bloques nuevos
-    - Por lo tanto, **no** pueden recibir recompensas
+- I nodi di mining possono proporre nuovi blocchi alla rete Bitcoin
+    - Cercano di risolvere enigmi crittografici in un processo chiamato "**mining**".
+        - Devono dimostrare di essere quelli che hanno eseguito il lavoro richiesto
+            - Quindi, possono ricevere **ricompense** per i blocchi
+- I nodi completi non possono proporre nuovi blocchi
+    - Pertanto, **non possono** ricevere ricompense
     
 
-### Cómo es la competencia matemática entre mineros?
+### Com'è la competizione matematica tra minatori?
 
-De nuevo volvamos a una analogía: 
+Ancora una volta torniamo ad un'analogia:
 
-- Cada minero tiene un dado especial que tiene marcados los números 1 hasta el 1000, es decir, tiene 1000 caras.
-- Los mineros se alistan para entrar a una competencia, con el incentivo de ganar un poco más de  6.25 bitcoin en los próximos 10 minutos.,
-- Bitcoin escoge un número objetivo  del 1-1000 y lo publica para que todos lo vean en la red. Digamos que escoge el #8. Empieza la competencia.
-- El objetivo es caer en un número  menor a 8.
-    - Algunos mineros tienen ventajas y una probabilidad mayor de ganar: Porqué?
-        - Tienen más poder adquisitivo y han comprado más de un dado.
-        - Otros lanzan a una velocidad mayor que otros.
-- Comienza la competencia:
-    - Los mineros empiezan a lanzar su dado cientos de veces pero esto requiere de mucho trabajo. Se les cansa la mano.
-    - Un minero afortunado alza la mano y dice “gane!”.
-    - Todos los otros mineros paran de lanzar sus dados y miran la mesa en la que están jugando.
-    - De esta manera, todos pueden verificar si está diciendo la verdad.
-    - Si la mayoría, por consenso está de acuerdo que el minero es el ganador, se le da su recompensa.
-    - Comienzan de nuevo.
-- Si entran más mineros a la próxima competencia, Bitcoin reduce el número objetivo de modo que siempre se demore aproximadamente 10 minutos para que alguien gane.
+- Ogni minatore ha un dado speciale che dispone dei numeri da 1 a 1000, cioè ha 1000 facce.
+- I minatori si preparano a partecipare a una competizione, con l'incentivo a vincere poco più di 6,25 bitcoin nei prossimi 10 minuti.
+- Bitcoin sceglie un numero target da 1 a 1000 e lo pubblica affinché tutti possano vederlo sulla rete. Supponiamo che scelga #8. La competizione inizia.
+- L'obiettivo dei minatori è tirare il dado e ottenere un numero inferiore a 8.
+    - Alcuni minatori hanno vantaggi e una maggiore probabilità di vincita: perché?
+        - Hanno più potere d'acquisto e hanno comprato più di un dado.
+        - Altri lanciano dadi a una velocità maggiore rispetto ad altri.
+- La competizione inizia:
+    - I minatori iniziano a tirare i dadi centinaia di volte, ma questo richiede molto lavoro. La loro mano si stanca.
+    - Un minatore fortunato alza la mano e dice "ho vinto!".
+    - Tutti gli altri minatori smettono di tirare i dadi e guardano il tavolo su cui stanno giocando.
+    - In questo modo tutti possono verificare se sta dicendo la verità.
+    - Se la maggioranza, per consenso, concorda sul fatto che il minatore è il vincitore, gli viene data la sua ricompensa.
+    - Ricominciano.
+- Se più minatori partecipano alla prossima competizione, Bitcoin riduce il numero target in modo che ci vogliano sempre circa 10 minuti prima che qualcuno vinca.
 
-## Un pequeño desvió -para entender la importancia de los *hashes*
+## Una piccola deviazione - per capire l'importanza degli *hash*
 
-## *Qué es una función?*
+## *Cos'è una funzione?*
 
-- Es como una máquina transformadora:
-    - se introduce algo, se modifica mediante unas reglas estrictas,  y surge otra completamente diferente.  Es decir:
-    - Se suministra el dato de entrada, **x**, o los datos que uno ingresa,
-    - Se le aplican operaciones matemáticas (suma, resta, multiplicación, etc.) predefinidas,
-    - El resultado es una *salida*, **f(x),y.**
-
-
-Ejemplo:  f(x)=3x+4 me dice: 
-
-- multiplique el dato de entrada (x) por 3, súmele 4 y obtenga la *salida* f(x), o y.
-- Cual sería la respuesta de f(2)? Es decir, cual es el resultado de y cuando x=2?
-- Ahora, cual es la pregunta aquí?  f(x)=15. Buscamos encontrar la entrada o la salida? Es posible encontrar el valor? Veamos….          f(x)=3x+4=15.      3x+4=15….        x=?
-
-Algunas funciones son unidireccionales. 
-
-- Tienen la propiedad de ser fáciles de calcular pero difíciles de invertir.
-- Aunque sepamos el **resultado**, no podremos *descifrar* los datos de *entrada*.
-
-Si odias las matemáticas, vamos a formular una analogía que te ayudará  a entender. 
-
-Vamos a hacer un jugo de frutas rojas. 
-
-- Estos son los datos de *entrada: (t=taza)*
-    - 1 t agua, 3 cubos de hielo, 18  frambuesas, 8 fresas, 15 t moras y 1/5 de t azúcar.
-- La *operación de la función:*
-    - Lo mezclamos todo junto en la licuadora .
-- Dato de *salida  **resultado**:*
-    - Resulta un jugo delicioso.
-
-Es casi imposible que otra persona descifre cuales son sus ingredientes y porciones exactas.
-
-- Esto es lo que significa una función unidireccional.
-- El jugo no se puede convertir de nuevo en sus datos de entrada.
-
-## ***Que es un hash?***
-
-**Bitcoin** usa criptografía-una rama de matemáticas
-
-- Su proceso de entradas y salidas es muy parecido .
-- Una función **hash** criptográfica:
-    - es una operación criptográfica que toma cualquier cantidad de datos,
-    - Y devuelve un valor hash, de identificadores
-    - **únicos** e **irrepetibles**, ****determinísticos**** y **caóticos**
+- Immaginiamola come una macchina che trasforma qualcosa in qualcos'altro:
+    - qualcosa viene introdotto, modificato da regole ferree, e ne emerge qualcos'altro completamente diverso. Vale a dire:
+    - Vengono forniti i dati di input, **x**, o i dati che si immettono,
+    - Ad essi vengono applicate operazioni matematiche predefinite (addizione, sottrazione, moltiplicazione, ecc.),
+    - Il risultato è un *output*, **f(x),y.**
 
 
-- No existen restricciones en los datos de entrada,
-    - el *hash* siempre resulta en la misma longitud de caracteres
-    - El hash también se considera como una huella digital de los datos de entrada
+Esempio:  f(x)=3x+4 mi dice: 
+
+- moltiplica l'input (x) per 3, aggiungi 4 e ottieni l'*output* f(x), o y.
+- Quale sarebbe la risposta di f(2)? Cioè, qual è il risultato di y quando x=2?
+- Ora, qual è la domanda qui? f(x)=15. Cerchiamo di trovare l'input o l'output? È possibile trovare il valore? Vediamo….         f(x)=3x+4=15.      3x+4=15….        x=?
+
+Alcune funzioni sono unidirezionali.
+
+- Hanno la proprietà di essere facili da calcolare ma...
+- Anche se conosciamo il **risultato**, non saremo in grado di *decifrare* i dati di *input*.
+
+Se odi la matematica, formuliamo un'analogia che ti aiuterà a capire.
+
+Faremo un succo di frutta rossa.
+
+- Questi sono i *dati di input: (t=tazza)*
+    - 1 t di acqua, 3 cubetti di ghiaccio, 18 lamponi, 8 fragole, 15 t di more e 1/5 t di zucchero.
+- L'*operazione della funzione:*
+    - Frulliamo il tutto nel frullatore.
+- *Dati di output **risultato**:*
+    - un succo di frutta delizioso.
+
+È quasi impossibile per un'altra persona capire quali siano gli ingredienti e le porzioni esatte.
+
+- Questo è ciò che significa una funzione unidirezionale.
+- Il succo non può essere riconvertito nei dati di input.
+
+## ***Cos'è un hash?***
+
+**Bitcoin** utilizza la crittografia, una branca della matematica
+
+- Il loro processo di input e output è molto simile.
+- Una funzione **hash** crittografica:
+    - è un'operazione crittografica che prende qualsiasi quantità di dati,
+    - Y restituisce un valore hash, di identificatori
+    - **unici** e **irripetibili**, ****deterministici**** e **caotici**
+
+
+- Non ci sono restrizioni sui dati di input,
+    - il volore di *hash* risulta sempre della stessa lunghezza di caratteri
+    - L'hash è anche considerato come un'impronta digitale dei dati di input.
     
     
-💡 **Determinístico:** las mismas entradas o iniciales producirán invariablemente las mismas salidas o resultados. 
+💡 **Determinístico:** gli stessi input produrranno invariabilmente gli stessi output o risultati.
 
-💡 **Caótico:** una entrada ligeramente diferente producirá una salida completamente diferente y no relacionada.
+💡 **Caotico:** un input leggermente diverso produrrà un output completamente diverso e non correlato.
     
     
     
 
-***Qué es SHA 256?***
+***Che cos'è SHA256?***
 
-- La función hash particular que usa Bitcoin se llama SHA256.
-- Su **resultado** o **hash** siempre es Hexadecimal (números entre 0 y 9 y letras entre A y F).
-- SHA256(entrada)=hash
+- La particolare funzione hash utilizzata da Bitcoin si chiama SHA256.
+- Il suo **risultato** o **hash** è sempre esadecimale (numeri compresi tra 0 e 9 e lettere comprese tra A e F).
+- SHA256(input)=hash
 
-Vamos a crear **hashes**. Veamos los siguientes ejemplos:  
+Calcoliamo alcuni **hash**. Vediamo i seguenti esempi:
 
 SHA256(Dalia)=
 
@@ -124,204 +124,204 @@ SHA256(DaliaP)=
 
 25cad1ff3deb7bc5ba54ccf1f0fe8e8ff4a17f58826847b8cae2ddbd6cd6ab77
 
-SHA256(Hola, me llamo Dalia. Soy de Medellín, Colombia.)=
+SHA256((Hola, me llamo Dalia. Soy de Medellín, Colombia.)=
 
 619010e5ab4877ef398e82a277e7134529a5ff1875f7671ff0177c7ab0302423
 
-### Actividad:
+### Attività:
 
-Cómo crear un hash? En los siguientes sitio web podremos practicarlo:
+Come creare un hash? Nei seguenti siti web possiamo farlo:
 
 https://hashgenerator.de/ 
 
 https://emn178.github.io/online-tools/sha256.html
 
-Primero, qué pasa cuando ingresas el hash 256 de Dalia? Compáralo con el que está escrito aquí. 
+Innanzitutto, cosa succede quando inserisci l'hash 256 di Dalia? Confrontalo con quello scritto qui.
 
-Te das cuenta que aunque el resultado es aleatorio, 
+Puoi osservare che sebbene il risultato sia casuale,
 
-- el resultado de una entrada en particular siempre será el mismo.
-    - Si en vez de nombre, apellido y fecha de nacimiento, nos identificáramos con un número así, no habría el problema de tener dos “María” o dos “José” en clase.
+- il risultato di un particolare input sarà sempre lo stesso.
+    - Se al posto di nome, cognome e data di nascita ci identificassimo con un numero come questo, non ci sarebbe il problema di avere due "María" o due "José" in classe.
 
-Cual es el hash de tu nombre? Tu nombre y apellido? 
+Qual è l'hash del tuo nome? Il tuo nome completo?
 
-Qué pasa si cambias una letra a tu nombre? Hubieras podido predecir este hash?
+Cosa succede se modifichi una lettera del tuo nome? Avresti potuto prevedere questo hash?
 
-***Qué es un “nonce”?  (Number used once)***
+***Cos'è un "nonce"?***
 
-- Simplemente es un número usado una vez.
-- Los “nonce” son muy útiles para la minería ya que uno de los mayores objetivos es encontrar resultados de los SHA256(**Entrada**) que satisfagan ciertas condiciones predeterminadas.
+- È semplicemente un numero usato una volta.
+- I nonce sono molto utili per il mining poiché uno degli obiettivi principali è trovare risultati da SHA256(**Input**) che soddisfino determinate condizioni predeterminate.
 
-Supongamos que el **objetivo** es encontrar un hash que **inicie con el número “cero”** 
+Supponiamo che l'**obiettivo** sia trovare un hash che **inizia con il numero "zero"**
 
-- cambiándole solo el último dígito a SHA(Dalia**P**).  El **nonce** cambiaría la “P” :
+- cambiando solo l'ultima cifra in SHA(Dalia**P**). Il **nonce** cambierebbe la "P":
 
 SHA(Dalia**1**)= c2cb88c9aec429a7fe9194351e748247f668241ff75c708b43ea83ecd730268f
 
 SHA(Dalia**2**)=17df2ae3b1dec56c7bde0cf8b161f24329d351e08cb797adbd76af46401dadf3
 
-…..estuvimos de buenas y sólo  necesitamos intentar ocho veces para lograr nuestro objetivo:
+…..siamo fortunati che abbiamo solo bisogno di provare otto volte per raggiungere il nostro obiettivo:
 
 SHA(Dalia**8**)=**0**93d4ddb855114f49f3b775803529ed1cbd5598b5995c327091552bab5672658
 
- ***Qué es un Árbol de Merkle?***
+ ***Cos'è un albero Merkle?***
 
-Una estructura de datos dividida en varias capas de hashes que permite verificar, 
+Una struttura dati suddivisa in più layer di hash che permette di verificare,
 
-- de forma rápida y eficaz, la información de todas las transacciones.
-- Como un árbol invertido, en la que se parte desde las hojas
-    - y se escala progresivamente a través de las ramas hasta llegar al **nodo raíz**
-        - identificador principal que permitieverificar el conjunto de datos como un todo.
-- Su raíz única final, que contiene toda la información de todas las transacciones,
-    - se denomina **Merkle Root o Raíz de Merkle Root**
+- in modo rapido ed efficiente, le informazioni di tutte le transazioni.
+- Come un albero capovolto, che si dirama dalle foglie
+    - e scala progressivamente attraverso i rami fino a raggiungere il **nodo radice**
+        - identificatore primario che consente la verifica del set di dati nel suo insieme.
+- La sua radice univoca finale, che contiene tutte le informazioni di tutte le transazioni,
+    - si chiama **Merkle Root o Radice di Merkle Root**
         
     
     
 
-# La Minería
+# Mining
 
-Ahora volvamos al proceso de Bitcoin:
+Ora torniamo al processo Bitcoin:
 
-- Los mineros tienen libertad de escoger transacciones para incluir en su próximo bloque.
-    - seleccionan y agrupan nuevas transacciones verificadas a un nuevo “bloque candidato”
+- I minatori sono liberi di scegliere le transazioni da includere nel blocco successivo.
+    - selezionano e raggruppano nuove transazioni verificate in un nuovo "blocco candidato"
 
-C*uales transacciones deben escoger para su “bloque candidato”?*
+*Quali transazioni dovresti scegliere per il tuo “blocco candidato”?*
 
-- Eligen aquellas con mayores incentivos monetarios y que ocupen menos memoria.
-    - Los depositantes agregan comisiones (o propinas) para incentivar a los mineros
-    - Adicionalmente, los mineros están motivados a trabajar honradamente.
-- Entre más transacciones hayan en la mempool, más congestionada la red.
-    - Los incentivos monetarios generalmente son mayores cuando hay mucho tráfico
-- Durante mucho tráfico, los mineros eligen transacciones que tienen comisiones más altas.
-    - Una vez el tráfico haya disminuido-se agregan aquellas con menores incentivos.
+- Scelgono quelle con maggiori incentivi monetari e che occupano meno memoria.
+    - I depositanti aggiungono commissioni (fees) per incentivare i minatori
+    - Inoltre, i minatori sono motivati ​​a lavorare onestamente.
+- Più transazioni ci sono nel mempool, più congestionata è la rete.
+    - Gli incentivi monetari sono generalmente più alti quando c'è molto traffico
+- Durante il traffico elevato, i minatori scelgono transazioni con commissioni più elevate.
+    - Una volta diminuito il traffico, si aggiungono quelle con incentivi inferiori.
 
-*En qué consiste cada bloque candidato?*
+*In cosa consiste ogni blocco candidato?*
 
-- El tamaño de un bloque es de aproximadamente 2.5 MB
-- Cada bloque tiene capacidad para unas pocas miles de transacciones como máximo,
-    - por lo tanto, es importante elegir eficientemente
-- Incluye un encabezado de bloque
-- Este encabezado de bloque se somete a la función hash
-    - SHA256(**encabezado**)=RESULTADO;
+- La dimensione di un blocco è di circa 2,5 MB
+- Ogni blocco può contenere al massimo qualche migliaio di transazioni,
+    - pertanto, è importante scegliere in modo efficiente
+- Include un'intestazione di blocco
+- Questa intestazione di blocco è l'input  della funzione di hash
+    - SHA256(**intestazione**)=RISULTATO;
 
-*Para qué se usa este RESULTADO* ?
+*A cosa serve questo RISULTATO*?
 
-- El objetivo es producir un identificador válido para un nuevo bloque
-    - que encaje perfectamente detrás del último bloque en la cadena existente,
-- Para esto, un minero debe producir el “hash ganador”
-    - el cual será deberá ser por debajo de un “valor objetivo” específico.
-- Siempre y cuando el RESULTADO sea mayor que el hash deseado,
-    - el minero ajusta un **nonce** y vuelve a intentarlo.
-- Los mineros repiten esto varios miles de veces por segundo.
-    - con la finalidad de ganar la recompensa del bloque.
-        - y crear una “huella digital” o un hash único de dicho bloque
-    - El proceso requiere cambiar el nonce miles y miles de veces,
-        - generando muchísimos posibles RESULTADOS
-        - hasta lograr el “hash ganador” antes que cualquier otro minero.
-    - Muy similar a nuestro ejemplo inicial de lanzar el dado muchas veces,
-        - hasta que un minero logra ganar con un RESULTADO debajo de el objetivo.
+- L'obiettivo è produrre un identificatore valido per un nuovo blocco
+    - che si adatti perfettamente all'ultimo blocco della catena esistente.
+- a tal scopo, un minatore deve produrre "l'hash vincente"
+    - che deve essere inferiore a uno specifico “valore obiettivo”.
+- Finché il RISULTATO è maggiore dell'hash desiderato,
+    - il minatore imposta un **nonce** e riprova.
+- I minatori ripetono tutto ciò migliaia di volte al secondo.
+    - al fine di guadagnare la ricompensa del blocco.
+        - e creare una "impronta digitale" o un hash univoco di detto blocco
+    - Il processo richiede di cambiare il nonce migliaia e migliaia di volte,
+        - generando molti possibili RISULTATI
+        - fino a raggiungere l'"hash vincente" prima di qualsiasi altro minatore.
+    - Molto simile al nostro esempio iniziale di tirare il dado molte volte,
+        - finché un minatore non riesce a vincere con un RISULTATO inferiore al target.
         
-- Esto significa que cualquier nodo minero en la red puede extraer un nuevo bloque,
-    - pero necesita gastar energía para poder hacerlo.
+- Ciò significa che qualsiasi nodo di mining nella rete può estrarre un nuovo blocco,
+    - ma deve spendere energia per poterlo fare.
 
-*Qué pasa cuando se encuentra el “hash ganador”?*
+*Cosa succede quando viene trovato l'"hash vincente"?*
 
-- Un minero afortunado, finalmente produce el hash ganador,
-- Transmite su éxito a toda la red.
-    - Ese **hash** se convierte en el **“hash del bloque” o su identificador único**
-- Para el resto de los mineros, la confirmación de la validez del bloque es un proceso simple.
-    - Sólo se debe asegurar que todas las transacciones sigan siendo validas,
-    - y que el hash del bloque sea menor que el “valor objetivo”.
-- Al ser confirmado el bloque, los otros nodos lo agregarán a la cadena existente
-    - Todas las transacciones contenidas en dicho bloque quedarán permanentemente grabadas en la cadena de bloques
-- El proceso se repetirá aproximadamente cada 10 minutos
-    - los mineros comenzarán a intentar extraer un nuevo bloque encima.
+- Un minatore fortunato alla fine produce l'hash vincente,
+- Trasmette il ​​suo risultato all'intera rete.
+    - Quell'**hash** diventa l'**"hash del blocco" o il suo identificatore univoco**
+- Per il resto dei minatori, la conferma della validità del blocco è un processo semplice.
+    - devono assicurarsi che tutte le transazioni rimangano valide.
+    - e che l'hash del blocco sia inferiore al "valore target".
+- Quando il blocco viene confermato, gli altri nodi lo aggiungeranno alla catena esistente
+    - Tutte le transazioni contenute in tale blocco saranno registrate in modo permanente nella blockchain.
+- Il processo si ripeterà ogni 10 minuti circa.
+    - i minatori inizieranno a provare a estrarre un nuovo blocco sopra di esso.
     
  
 
-*Y como se gana la recompensa el minero que ha encontrado el valor objetivo?*
+*E come riceve la ricompensa il minatore (miner) che ha trovato il valore target corretto?*
 
-- Todos los bloques candidatos crean una primera transacción que incluye una recompensa:
-    - Contiene una cantidad de bitcoin nuevo que va a ser liberado cuando se cree el bloque
-        - y la totalidad de las comisiones que generan las transacciones seleccionadas
-- Solamente el minero ganador puede cobrar dicha recompensa.
-    - Por su gran esfuerzo computacional: **PoW, o Prueba de Trabajo**
-        - PoW ha sido un método exitoso porque:
-            - encontrar el **hash** es extremadamente difícil, pero verificarlo es sencillo.
-- A esta transacción se le llama **coinbase** (**monedabase**)
-    - y es la primera en cada bloque de la blockchain.
+- Tutti i blocchi candidati creano una prima transazione che include una ricompensa:
+    - Contiene una quantità di nuovi bitcoin che verranno rilasciati alla creazione del blocco
+        - e tutte le commissioni incluse nelle transazioni selezionate
+- Solo il minatore vincente può riscuotere tale ricompensa.
+    - Per il suo grande sforzo computazionale: **PoW, o Proof of Work**
+        - PoW è un metodo funzionante perché:
+            - trovare l'**hash** è estremamente difficile, ma verificarlo è facile.
+- Questa transazione si chiama **coinbase** (**moneta di base**)
+    - ed è la prima in ogni blocco della blockchain.
 
-## ****No Confíes, Verifica…. Que quiere decir?****
+## ****Non fidarti, verifica... Cosa significa?****
 
-- Las transacciones obtienen una confirmación cuando son incluidas en un bloque y luego tras la confirmación de cada bloque posterior.
-- Para que dicho bloque se incluya en la cadena de bloques, se debe enlazar correctamente debajo de el último bloque creado en la red.
-- Una confirmación **en la blockchain, indica que “la transacción ha sido procesada y validada por la red y es muy poco probable que se revierta”.
-- Se recomienda esperar un mínimo de 6 confirmaciones para asegurarse de que los fondos fueron transferidos.
-- Bitcoin es conocida como la **blockchain** más segura y veraz que existe.
+- Le transazioni ricevono una conferma quando vengono incluse in un blocco e poi dopo la conferma di ogni blocco successivo.
+- Affinché tale blocco sia incluso nella blockchain, deve essere correttamente collegato a partire dell'ultimo blocco creato sulla rete.
+- Una sola conferma ** sulla blockchain indica che "la transazione è stata processata e convalidata dalla rete ed è molto improbabile che venga annullata".
+- Si consiglia di attendere un minimo di 6 conferme per assicurarsi che i fondi siano stati trasferiti.
+- Bitcoin rappresenta la **blockchain** più sicura e veritiera mai creata.
     
  
     
 
-## El Hash del Bloque**:**
+## L'hash del blocco**:**
 
-- Cada bloque hace referencia a un bloque anterior,
-    - a través del campo ‘bloque anterior’(**previous hash**) en la **cabecera del bloque**.
-- La secuencia de los hashes que unen cada bloque al previo
-    - crea una cadena que se remonta hasta el el primer bloque jamás creado,
-        - conocido como el bloque génesis.
-- Cualquier modificación  mínima a cualquier transacción cambiará el hash del bloque,
-    - y lo desligará del bloque anterior.
-- Si un hacker trata de alterar hasta una coma de una transacción,
-    - se creará una cascada de fallas en la verificación de bloques posteriores.
-- Esto se debe a que cada bloque tiene información sobre el anterior.
-
-
-Los bloques se componen de una cabecera de bloque y sus transacciones. 
-
-- El **encabezado** contiene:
-    1. el resumen de los datos dentro del bloque, es decir, 
-        - todas las transacciones comprimidas en una **raíz de Merkle**
-    2. junto con el **hash** del bloque anterior en la blockchain y 
-    3. un **nonce**, el cual puede cambiar tantas veces sea necesario en busca de “**valor objetivo**”
-- Mediante la función SHA256, se comprime toda la información contenida en el bloque.
-    - Este resultado es el “hash del bloque” o  representant su “huella digital”.
+- Ogni blocco fa riferimento a un blocco precedente,
+    - attraverso il campo 'blocco precedente' (**previous hash**) nell'**intestazione del blocco** (block header).
+- La sequenza di hash che collegano ogni blocco a quello precedente
+    - crea una catena che percorsa a ritroso porta al primo blocco mai creato.
+        - conosciuto come il blocco genesi.
+- Qualsiasi modifica minore a qualsiasi transazione cambierà l'hash del blocco,
+    - e lo scollegherà dal blocco precedente.
+- Se un hacker cerca di alterare anche solo una virgola di una transazione,
+    - si creerà una successione di fallimenti nella verifica dei blocchi successivi.
+- Questo perché ogni blocco contiene informazioni riguardo a quello precedente.
 
 
-### El Nonce del Bloque
+I blocchi sono costituiti da un'intestazione di blocco (block header) e dalle relative transazioni.
 
-- El **nonce** un campo es un número dentro de la cabecera:
-    - Los mineros lo **modifican hasta que**  el **hash de la cabecera** resulte en el **objetivo de dificultad o el valor objetivo**
+- L'**intestazione** contiene:
+    1. il riepilogo dei dati all'interno del blocco, ovvero
+        - tutte le transazioni compresse in un **merkle root**
+    2. insieme all'**hash** del blocco precedente sulla blockchain e
+    3. un **nonce**, che può essere modificato tutte le volte che è necessario alla ricerca del "**valore target**"
+- Utilizzando la funzione SHA256, tutte le informazioni contenute nel blocco vengono compresse.
+    - Questo risultato è "l'hash del blocco" che rappresenta la sua "impronta digitale".
+
+
+### Il Nonce del Blocco
+
+- Il **nonce** di un campo è un numero contenuto nell'intestazione:
+    - I minatori **lo modificano fino a quando** l'**hash dell'intestazione** risulta nella **difficoltà target o nel valore target**.
     
-- El **objetivo de dificultad** siempre comienza con una cantidad de ceros.
-    - La cantidad de ceros es variable.
-        - Depende cuantos mineros están tratando de extraer el bloque.
+- L'**obiettivo di difficoltà** inizia sempre con una certa quantità di zeri.
+    - Il numero di zeri è variabile.
+        - Dipende da quanti minatori stanno cercando di estrarre il blocco.
 
-**Actividad**:
+**Attività**:
 
-En el siguiente link se puede analizar la cadena de bloques en tiempo real.
+Nel seguente link è possibile analizzare la catena di blocchi in tempo reale.
 
 https://explorer.bit2me.com/home  
 
 https://bits.monospace.live/block/height/746043
 
-**Visualización** de los últimos bloques, las transacciones confirmadas y sin confirmar, el número de transacciones, utilización de memoria y valor aproximado del bloque completo,  https://bits.monospace.live/
+**Visualizzazione** degli ultimi blocchi, delle transazioni confermate e non confermate, del numero di transazioni, dell'utilizzo della memoria e del valore approssimativo dell'intero blocco,  https://bits.monospace.live/
 
-Cual fue el último bloque minado?
+Qual è stato l'ultimo blocco estratto?
 
-Cuantas transacciones se incluyeron en dicho bloque?
+Quante transazioni sono state incluse in quel blocco?
 
-Cual es el valor total transado en bitcoin?
+Qual è il valore totale scambiato in bitcoin?
 
-Cuanto fue el tamaño en Megabytes del bloque?
+Qual era la dimensione in Megabyte del blocco?
 
-Con cuantos ceros comienza el nonce del bloque?
+Con quanti zeri inizia il nonce del blocco?
 
-Cuanto ganó el minero en total?
+Quanto ha guadagnato in totale il minatore?
 
-Cual fue el valor total de las comisiones que recibió el minero por adicionar las transacciones a la red?
+Qual è stato il valore totale delle commissioni ricevute dal minatore per l'aggiunta delle transazioni alla rete?
 
-Escoge una de las transacciones de más valor del bloque. La cantidad de BTC se repartió a cuantos monederos?
+Scegli una delle transazioni di maggior valore nel blocco. La quantità di BTC è stata distribuita a quanti portafogli?
 
-Cuando un minero encuentra un **nonce** que, añadido al **hash de cabecera,** cumpla el **objetivo de dificultad**, lo añade a la **cabecera del bloque nuevo** y lo envía a la red para que el resto de mineros puedan comprobar que la solución es válida.
+Quando un minatore trova un **nonce** che, aggiunto all'**hash dell'intestazione**, soddisfa l'**obiettivo di difficoltà**, lo aggiunge alla **nuova intestazione del blocco** e lo invia alla rete in modo che il resto dei miner possano verificare che la soluzione sia valida.
 
 
