@@ -276,52 +276,52 @@ Ora torniamo al processo Bitcoin:
 - Questo perché ogni blocco contiene informazioni riguardo a quello precedente.
 
 
-Los bloques se componen de una cabecera de bloque y sus transacciones. 
+I blocchi sono costituiti da un'intestazione di blocco (block header) e dalle relative transazioni.
 
-- El **encabezado** contiene:
-    1. el resumen de los datos dentro del bloque, es decir, 
-        - todas las transacciones comprimidas en una **raíz de Merkle**
-    2. junto con el **hash** del bloque anterior en la blockchain y 
-    3. un **nonce**, el cual puede cambiar tantas veces sea necesario en busca de “**valor objetivo**”
-- Mediante la función SHA256, se comprime toda la información contenida en el bloque.
-    - Este resultado es el “hash del bloque” o  representant su “huella digital”.
+- L'**intestazione** contiene:
+    1. il riepilogo dei dati all'interno del blocco, ovvero
+        - tutte le transazioni compresse in un **merkle root**
+    2. insieme all'**hash** del blocco precedente sulla blockchain e
+    3. un **nonce**, che può essere modificato tutte le volte che è necessario alla ricerca del "**valore target**"
+- Utilizzando la funzione SHA256, tutte le informazioni contenute nel blocco vengono compresse.
+    - Questo risultato è "l'hash del blocco" che rappresenta la sua "impronta digitale".
 
 
-### El Nonce del Bloque
+### Il Nonce del Blocco
 
-- El **nonce** un campo es un número dentro de la cabecera:
-    - Los mineros lo **modifican hasta que**  el **hash de la cabecera** resulte en el **objetivo de dificultad o el valor objetivo**
+- Il **nonce** di un campo è un numero contenuto nell'intestazione:
+    - I minatori **lo modificano fino a quando** l'**hash dell'intestazione** risulta nella **difficoltà target o nel valore target**.
     
-- El **objetivo de dificultad** siempre comienza con una cantidad de ceros.
-    - La cantidad de ceros es variable.
-        - Depende cuantos mineros están tratando de extraer el bloque.
+- L'**obiettivo di difficoltà** inizia sempre con una certa quantità di zeri.
+    - Il numero di zeri è variabile.
+        - Dipende da quanti minatori stanno cercando di estrarre il blocco.
 
-**Actividad**:
+**Attività**:
 
-En el siguiente link se puede analizar la cadena de bloques en tiempo real.
+Nel seguente link è possibile analizzare la catena di blocchi in tempo reale.
 
 https://explorer.bit2me.com/home  
 
 https://bits.monospace.live/block/height/746043
 
-**Visualización** de los últimos bloques, las transacciones confirmadas y sin confirmar, el número de transacciones, utilización de memoria y valor aproximado del bloque completo,  https://bits.monospace.live/
+**Visualizzazione** degli ultimi blocchi, delle transazioni confermate e non confermate, del numero di transazioni, dell'utilizzo della memoria e del valore approssimativo dell'intero blocco,  https://bits.monospace.live/
 
-Cual fue el último bloque minado?
+Qual è stato l'ultimo blocco estratto?
 
-Cuantas transacciones se incluyeron en dicho bloque?
+Quante transazioni sono state incluse in quel blocco?
 
-Cual es el valor total transado en bitcoin?
+Qual è il valore totale scambiato in bitcoin?
 
-Cuanto fue el tamaño en Megabytes del bloque?
+Qual era la dimensione in Megabyte del blocco?
 
-Con cuantos ceros comienza el nonce del bloque?
+Con quanti zeri inizia il nonce del blocco?
 
-Cuanto ganó el minero en total?
+Quanto ha guadagnato in totale il minatore?
 
-Cual fue el valor total de las comisiones que recibió el minero por adicionar las transacciones a la red?
+Qual è stato il valore totale delle commissioni ricevute dal minatore per l'aggiunta delle transazioni alla rete?
 
-Escoge una de las transacciones de más valor del bloque. La cantidad de BTC se repartió a cuantos monederos?
+Scegli una delle transazioni di maggior valore nel blocco. La quantità di BTC è stata distribuita a quanti portafogli?
 
-Cuando un minero encuentra un **nonce** que, añadido al **hash de cabecera,** cumpla el **objetivo de dificultad**, lo añade a la **cabecera del bloque nuevo** y lo envía a la red para que el resto de mineros puedan comprobar que la solución es válida.
+Quando un minatore trova un **nonce** che, aggiunto all'**hash dell'intestazione**, soddisfa l'**obiettivo di difficoltà**, lo aggiunge alla **nuova intestazione del blocco** e lo invia alla rete in modo che il resto dei miner possano verificare che la soluzione sia valida.
 
 
