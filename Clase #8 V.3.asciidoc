@@ -45,73 +45,73 @@ Per perseguire un modello deflazionistico,
 - prevenire l'inflazione
 - aggiungere la proprietà di scarsità naturale
 
-**Entonces, ¿por qué el cambio? ¿Por qué no mantener la recompensa igual? ¿No es eso injusto para los mineros?**
+**Perché non mantenere la stessa ricompensa? Non è ingiusto nei confronti dei minatori?**
 
-*La respuesta a esa pregunta está en la ley de la oferta y la demanda.*
+*La risposta a questa domanda si trova nella legge della domanda e dell'offerta.*
 
-- Si las monedas se crean demasiado rápido y no hay límite para la cantidad de bitcoin que se pueden crear:
-    - pronto habrá demasiados bitcoin en circulación y su valor disminuirá.
-- Si los 21 millones se hubieran liberado a la vez,
-    - es posible que unas pocas personas lo hayan acaparado,
-    - nadie más hubiera tenido la oportunidad para acumularlo.
-- El siguiente gráfico ejemplifica cómo la reducción a la mitad afecta el precio a lo largo del tiempo:
+- Se le monete vengono create troppo velocemente e non c'è limite alla quantità di bitcoin che può essere creata:
+    - presto ci saranno troppi bitcoin in circolazione e il loro valore diminuirà.
+- Se tutti i 21 milioni fossero stati rilasciati in una volta sola,
+    - solo poche persone avrebbero potuto entrarne in possesso,
+    - nessun altro ne avrebbe avuto la possibilità.
+- Il grafico seguente esemplifica come il dimezzamento influisce sul prezzo nel corso del tempo:
 
-Fuente: www.bitcoincharts.com
+Fonte: www.bitcoincharts.com
 
-### El valor de Bitcoin a través del tiempo
+### Il valore di Bitcoin nel tempo
 
-El valor de Bitcoin  ha aumentado:
+Il valore di Bitcoin è aumentato:
 
-- de menos de $ 0,01 en el 2009 (primera transacción),
-- hasta un máximo  de alrededor de $ 67.000 USD, en noviembre de 2021.
-- En la última década, aunque ha tenido caídas de hasta 80%,
-    - no sólo se ha recuperado, sino que a largo plazo, su tendencia es a la alza.
-- Los factores que afectan la oferta y demanda se han diversificado
+- inferiore a 0,01$ nel 2009 (prima transazione),
+- fino a un massimo di circa $ 67.000 USD, nel novembre 2021.
+- Nell'ultimo decennio, sebbene abbia avuto ribassi fino all'80%,
+    - non solo si è ripreso, ma nel lungo termine la sua tendenza è al rialzo.
+- I fattori che influenzano l'offerta e la domanda sono molteplici
 
-Tres preguntas:
+Tre domande:
 
-- **¿Por qué es valioso bitcoin?**
-- **¿Por qué ha subido tanto el precio?**
-- **¿Por qué es tan volátil?**
+- **Perché il bitcoin è prezioso?**
+- **Perché il prezzo è aumentato così tanto?**
+- **Perché è così volatile?**
 
-Para entender mejor esto, aquí hay algunos términos importantes que debemos definir:
+Per capire meglio tutto ciò, ecco alcuni termini importanti che dobbiamo descrivere:
 
-1. **Suministro circulante**:  
-    - La cantidad de bitcoin creados hasta el momento.
-    - Hasta Julio del 2022, se han creado aproximadamente 19,101,000 bitcoin.
-2. **Suministro total**: 
-- Cantidad de monedas ya en circulación + monedas que no han sido extraídas
-- En total, les suministro total de Bitcoin será de 21 millones,
-    - Se estima que faltan o se consideran "perdidos" alrededor de 4 millones de bitcoin.
-        - Se cree que no se pueden gastar debido a
-            - contraseñas perdidas, direcciones de salida incorrectas o errores en el programa.
-1. **Capitalización de mercado**: 
-- El valor de mercado total del suministro circulante de Bitcoin reflejado en monedas fiat
-- Multiplicar el precio actual de un bitcoin (en USD) por la oferta circulante.
+1. **Offerta circolante**:  
+    - La quantità di bitcoin creata finora.
+    - A partire da luglio 2022, sono stati creati circa 19.101.000 bitcoin.
+2. **Offerta totale**: 
+- Quantità di monete già in circolazione + monete non ancora estratte
+- In totale, l'offerta totale di Bitcoin sarà di 21 milioni,
+    - Si stima che circa 4 milioni di bitcoin siano considerati "persi".
+        - Si ritiene che non possano essere spesi a causa di
+            - password perse, indirizzi di uscita errati o errori dei programmi.
+3. **Capitalizzazione di mercato**:
+- Il valore di mercato totale dell'offerta circolante di Bitcoin convertito in valute fiat
+- Moltiplicare il prezzo attuale di un bitcoin (in USD) per l'offerta circolante.
     
-**Capitalización de mercado = precio actual x suministro circulante.**
+**Capitalizzazione di mercato = prezzo corrente x offerta circolante.**
     
 
-Podemos ir a *mMarketcap* https://coinmarketcap.com/currencies/bitcoin/ y calcular la capitalización de mercado actual.
+Possiamo andare su *coinmarketcap* https://coinmarketcap.com/currencies/bitcoin/ e calcolare l'attuale capitalizzazione di mercato.
 
-El siguiente gráfico muestra el precio de Bitcoin en los últimos 5 años. 
+Il grafico seguente mostra il prezzo del Bitcoin negli ultimi 5 anni.
 
-- Esta es una manera fácil de visualizar qué tan sensible o volátil es el precio.
-    - Usando el eje X para el tiempo y Y para el precio en USD,
-        - ¿Qué eventos mundiales podrían relacionarse con los cambios de precios? ****
+- Questo è un modo semplice per visualizzare quanto è volatile il prezzo.
+    - Utilizzando l'asse X per il tempo e Y per il prezzo in USD,
+        - Quali eventi mondiali potrebbero essere correlati alle variazioni di prezzo? ****
 
 https://lh4.googleusercontent.com/DJuC6h2XxzgGwKc53R_hh82-syrjzOQJKMcxNkb85foZxqoC5pPYaHtEUfdn_1pWZhh-R4nP1aO3pcMjKxJ2BNTouQ132PAQ53lMuVN7DATjt9fRfB4mKT75qcmj-IXrQxDyeIvR
 
-Fuente: https://capital.com/de/bitcoin-prognose *Bitcoin, Will the Price of Bitcoin Rise or Fall?*, 
+Fonte: https://capital.com/de/bitcoin-prognose *Bitcoin, Will the Price of Bitcoin Rise or Fall?*, 
 Capital.com Research Team https://capital.com/de/capital-research-team, *08:00 (UTC), 31 March 2022*
 
-**Entonces, ¿qué factores determinan su precio? ¿Cómo se involucra la minería? ¿Cuándo afecta el halving al precio?**
+**Quindi quali fattori ne determinano il prezzo? Come incide l'estrazione (mining)? Quando l'halving influisce sul prezzo?**
 
-- La demanda sigue permanentemente creciendo
-- Su sistema de suministro de oferta es fijo.
-- Es un activo naciente de sólo 13 años de vida el cual apenas empieza a ser regulado,
-    - por supuesto que se espera volatilidad en su precio, no obstante,
-        - Su precio ha tenido al alza desde su creación
+- La domanda è in costante crescita
+- Il suo sistema d'emissione di nuova moneta è fissato.
+- Si tratta di un bene nascente con soli 13 anni di vita che sta solo ora iniziando a essere regolamentato,
+    - ovviamente, ci si aspetta la volatilità del suo prezzo, tuttavia,
+        - il suo prezzo è stato in crescita sin dalla sua creazione.
     
 CBBI - Colin Talks Crypto Bitcoin Bull Run Index - BTC Price Evaluation https://colintalkscrypto.com/cbbi/
     
