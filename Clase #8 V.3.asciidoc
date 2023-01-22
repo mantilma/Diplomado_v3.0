@@ -1,49 +1,49 @@
-# La Escasez, el Costo, el Precio y la Volatilidad
+# Scarsità, costo, prezzo e volatilità
 
-## La Importancia de la Recompensa del Bloque
+## L'importanza della ricompensa del blocco
 
-Para crear un sistema económico descentralizado exitoso: 
+Per creare un sistema economico decentralizzato di successo:
 
-- los mineros invierten dinero y trabajo computacional para minar bitcoins.
-- Aseguran la red para evitar ataques, y al mismo tiempo:
-    - generan monedas nuevas que pueden circular libremente en la red.
-- La recompensa por bloque actúa como un subsidio e incentivo para los mineros
-    - las tarifas o las comisiones de transacción garantizan que no existan fallos en la red.
+- i minatori investono denaro e lavoro computazionale per estrarre bitcoin.
+- Proteggono la rete per prevenire gli attacchi e allo stesso tempo:
+    - generano nuova moneta che può circolare liberamente nella rete.
+- La ricompensa del blocco funge da sussidio e incentivo per i minatori
+    - le spese di transazione o le commissioni assicurano che non ci siano errori di rete.
 
-## Qué es el Halving de Bitcoin? (Reducir a la Mitad)
+## Che cos'è l'halving (dimezzamento) di Bitcoin?
 
-Satoshi Nakamoto diseñó una forma muy estratégica de distribuir nuevos bitcoin:
+Satoshi Nakamoto ha progettato un modo molto strategico per distribuire nuovi bitcoin:
 
-- sin que una persona o un grupo de personas estuviera encargada de repartirlos.
+- senza la necessità di avere una persona o un gruppo di persone incaricate di distribuirli.
 
-Con el fin de perseguir un modelo deflacionario,
+Per perseguire un modello deflazionistico,
 
-- cada 210.000 bloques se reduce el número de bitcoin liberados a la mitad
-- Esto sucede aproximadamente cada cuatro años
-- A diferencia de los problemas a los que nos enfrentamos con las monedas fiat,
-    - donde nadie sabe realmente cuánto crédito o dólares hay en el sistema,
-        - Bitcoin tiene una oferta total fija de 21.000.000.
-- Este tope fijo de suministro se controla de forma automatizada,
-    - se hace cumplir a través del consenso
-- Al inicio, la recompensa se fijó en 50 bitcoins por bloque,
-    - Aproximadamente cada cuatro años, la recompensa se reduce a la mitad,
-        - por lo que se denomina evento de ***halving***.
+- ogni 210.000 blocchi si dimezza il numero di bitcoin rilasciati
+- Questo accade circa ogni quattro anni.
+- A differenza dei problemi che abbiamo con le valute fiat,
+    - dove nessuno sa veramente quanto credito o dollari ci sono nel sistema,
+        - Bitcoin ha un'offerta totale fissa di 21.000.000.
+- Questo limite superiore d'offerta è controllato automaticamente
+    - viene fatto attraverso il consenso.
+- Inizialmente, la ricompensa era fissata a 50 bitcoin per blocco,
+    - Circa ogni quattro anni, la ricompensa viene dimezzata,
+        - per questo motivo è chiamato evento di ***halving***.
 
-**Eventos de reducción a la mitad:**
+**Eventi di halving:**
 
-- El primer *halving* se produjo a finales de 2012,
-    - El bloque 210,001 sólo otorgó 25 bitcoin.
-- El segundo evento ocurrió a mediados de 2016,
-    - La recompensa se redujo a 12.5 BTC.
-- Y así seguirá hasta el año 2140,
-    - cuando se habrán extraído los 21 millones de bitcoins.
-- Miremos: [https://www.blockchain.com/charts/total-bitcoins](https://www.blockchain.com/charts/total-bitcoins)
-- (Se observa mejor en escala logarítmica)
+- Il primo *halving* si è verificato alla fine del 2012,
+    - Il blocco 210.001 ha distribuito solo 25 bitcoin.
+- Il secondo evento si è verificato a metà del 2016,
+    - La ricompensa si ridusse a 12,5 BTC.
+- E così continuerà fino all'anno 2140,
+    - quando i 21 milioni di bitcoin saranno stati estratti.
+- Guardiamo: [https://www.blockchain.com/charts/total-bitcoins](https://www.blockchain.com/charts/total-bitcoins)
+- (Miglior visualizzazione su scala logaritmica)
 
-**Esta reducción a la mitad de las recompensas se ha añadido con la intención de:**
+**Questo dimezzamento delle ricompense è stato implementato con l'intento di:**
 
-- Prevenir  la inflación
-- Añadir escasez natural
+- prevenire l'inflazione
+- aggiungere la proprietà di scarsità naturale
 
 **Entonces, ¿por qué el cambio? ¿Por qué no mantener la recompensa igual? ¿No es eso injusto para los mineros?**
 
