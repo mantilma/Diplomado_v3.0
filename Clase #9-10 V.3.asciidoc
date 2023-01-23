@@ -76,119 +76,94 @@ Bitcoin è migliorato attraverso il consenso, attraverso proposte di miglioramen
 ### Bitcoin e il futuro di El Salvador
 
 
-- La originalidad y las posibilidades de Bitcoin ha captado la atención de:
-    - el mundo de la inversión
-    - y el mundo corporativo.
-    - Tanto las empresas públicas como las privadas están sujetas a los mismos
-        - impactos de la inflación ysupresión de intereses a los los ahorradores.
-            - Buscan reforzar sus balances
-            - Poseen grandes reservas de efectivo
-            - Están adaptando bitcoin como reserva de valor a largo plazo.
+- L'originalità e le possibilità di Bitcoin hanno attirato l'attenzione di:
+    - il mondo degli investimenti
+    - e il mondo corporativo.
+    - Sia le aziende pubbliche che quelle private sono soggette agli stessi
+        - impatti dell'inflazione e soppressione degli interessi ai risparmiatori.
+            - Cercano di rafforzare i loro bilanci
+            - Possiedono grandi riserve di cassa.
+            - Stanno utilizzando il bitcoin come riserva di valore a lungo termine.
         
-- Es probable que El Salvador tenga una ventaja gigante frente al mundo en un futuro.
-    - Se ha convertido en el primer país en hacer Bitcoin moneda de curso legal
-        - en paralelo con el dólar estadounidense.
-            - Bitcoin Beach ya es un proyecto robusto,
-                - ha logrado crear una economía circular dentro de una comunidad costera.
-    - El FMI y el Banco Mundial se han pronunciado en contra de esta decisión;
-        - mientras tanto, El Salvador sigue acumulando satoshis.
-- ¿Quién será el próximo en hacer Bitcoin moneda de curso legal?
-    - Los países que fomenten la adopción cuanto antes,
-        - probablemente se beneficiarán  más.
-- El dólar estadounidense parece estar al borde del colapso,
-    - con el rublo (Rusia) y el yuan (China) tomando un papel más importante en la geopolítica.
-        - Ambas son monedas fiduciarias, compitiendo contra Bitcoin.
-- Varios países están tratando de implementar **monedas digitales del banco central** (CBDC):
-    - intentos de crear monedas fiduciarias con beneficios digitales,
-        - Implica que el gobierno puede vigilar cada transacción
-- ¿Quién está comprando Bitcoin?
-    - Rusia está dispuesta a aceptar petróleo y gas en Bitcoin
-    - Rio De Janiero está dispuesto a aceptar impuestos inmobiliarios en Bitcoin
-    - Algunas ciudades de EE. UU. están dispuestas a aceptar impuestos en Bitcoin,
-    - Algunos funcionarios gubernamentales en EE.UU aceptan sus salarios en Bitcoin.
+- È probabile che El Salvador abbia un enorme vantaggio sul mondo in futuro.
+    - È diventato il primo paese a rendere legale il Bitcoin
+        - in parallelo con il dollaro USA.
+            - Bitcoin Beach è già un progetto avanzato,
+                - è riuscita a creare un'economia circolare all'interno di una comunità costiera.
+    - Il FMI e la Banca mondiale si sono espressi contro questa decisione;
+        - nel frattempo, El Salvador continua ad accumulare satoshi.
+- Chi sarà il prossimo a rendere legale il Bitcoin?
+    - Paesi che incoraggiano l'adozione il prima possibile,
+        - probabilmente ne trarranno maggiori benefici.
+- Il dollaro USA sembra essere sull'orlo del collasso,
+    - con il rublo (Russia) e lo yuan (Cina) che assumono un ruolo più importante nella geopolitica.
+        - Entrambe sono valute fiat, in competizione con Bitcoin.
+- Diversi paesi stanno cercando di implementare le **valute digitali della banca centrale** (CBDC):
+    - tentativi di creare valute fiat con i vantaggi del digitale,
+        - Implica che il governo possa monitorare ogni transazione
+- Chi sta comprando Bitcoin?
+    - La Russia è disposta ad accettare petrolio e gas in Bitcoin
+    - Rio De Janeiro è disposto ad accettare tasse immobiliari in Bitcoin
+    - Alcune città negli Stati Uniti sono disposte ad accettare tasse in Bitcoin,
+    - Alcuni funzionari governativi negli Stati Uniti accettano i loro stipendi in Bitcoin.
     
-    - Bitcoin:
-        - permitirá innovar masivamente en soluciones de Capa 2
-        - modernizará  contratos, activos y credenciales en el ámbito privado y publico
-        - alentará a los países a cooperar en lugar de competir
-            - cesará el deseo de manipular las economías mediante la impresión de dinero
-        - Incluso puede ser que los países y estados-nación ya no existan,
-            - y algo nuevo los remplace, con la ayuda de bitcoin... ¿Quién sabe?
+    - Bitcoin in futuro:
+        - consentirà una massiccia innovazione nelle soluzioni Layer 2
+        - modernizzerà contratti, beni e credenziali nella sfera privata e pubblica
+        - incoraggierà i paesi a cooperare piuttosto che a competere
+            - cesserà il desiderio di manipolare le economie stampando moneta
+        - Può anche darsi che paesi e stati-nazione non esistano più,
+            - e qualcosa di nuovo li sostituirà, con l'aiuto di bitcoin... Chissà?
     
-    - Preguntas:
-        - ¿Cuáles crees que son los beneficios de Bitcoin?
-        - ¿Qué imagina que podría pasar en El Salvador en los próximos diez años?
-        - ¿Cree que los Salvadoreños se familiarizarán más con Bitcoin y lo encontrarán una tecnología esencial?
+    - Domande:
+        - Quali pensi siano i vantaggi di Bitcoin?
+        - Cosa immagini potrebbe accadere in El Salvador nei prossimi dieci anni?
+        - Pensi che i salvadoregni acquisiranno maggiore familiarità con Bitcoin e lo troveranno una tecnologia essenziale?
 
-"Tanto si crees que puedes hacerlo, como si no, en los dos casos tienes razón"  Henry Ford
+"Che tu pensi di farcela o no, in entrambi i casi hai ragione" Henry Ford
 
 
-# Clase #*10*
+# Lezione #*10*
 
-### Entrega de Proyecto Final y Evaluaciones
+### Consegna del Progetto Finale e Valutazioni
 
-**"¿Por qué Bitcoin?"**
-Escriba un ensayo de 1 a 2 páginas y asegúrese de cubrir los siguientes puntos:
+**"Perché Bitcoin?"**
+Scrivi un testo di 1-2 pagine e assicurati di coprire i seguenti punti:
 
-- Explicar qué es Bitcoin
-- Explicar cómo funciona Bitcoin
-- En su opinión, ¿Cuáles son al menos dos formas en que Bitcoin cambia la forma en que opera el mundo hoy? Justifique su respuesta
+- Spiega cos'è Bitcoin
+- Spiega come funziona Bitcoin
+- Secondo te, quali sono almeno due modi in cui Bitcoin sta cambiando il modo in cui opera il mondo oggi? Giustifica la tua risposta
 
-### Proyecto Alternativo :
+### Progetto alternativo:
 
-## Actividad Final (Simulador de Bitcoin)
+## Attività finale (Simulatore Bitcoin)
 
 Bitcoin Blockchain Simulator: An interactive learning tool https://www.bitcoinsimulator.tk/
 
-Crear una nueva billetera.
+Crea un nuovo portafoglio.
 
-Ya hemos creado una llamada MiPrimerBitcoin. 
+Ne abbiamo già creato uno chiamato MyFirstBitcoin.
 
-La clave privada es:
+La chiave privata è:
 
 e17a9fe1f9cade3f1f8b6426f9fdabe27d0378d931fc8bb5bbb1d25d7c33e6e5
 
-Su clave pública es:
+La sua chiave pubblica è:
 
 7a38ab902a7e1d86a7eaf9a9ae41276439c95b1f8dfcc98f549b725b25220b
 
-La cual ha minado 2 bloques (2830, 2831) y ha hecho una transacción.
+Che ha minato 2 blocchi (2830, 2831) e ha effettuato una transazione.
 
-Por lo tanto:
+Dunque:
 
-Lo que puedes hacer ahora: 
+Cosa puoi fare ora:
 
-1. Minar un bloque para recibir tu primer Bitcoin como recompensa 
-2. Firmar transacciones y enviar Bitcoin a otras billeteras 
-3. Crear tu propia cadena de bloques privada y usar el simulador con grupos no públicos o clases escolares 
-4. Crear transacciones falsas con un nombre falso e intentar obtener Bitcoin mediante fraude 
-5. Realizar un ataque del 51% para manipular posteriormente la cadena de bloques
-6. Contárselo a otras personas. 
+1. Estrai un blocco per ricevere il tuo primo Bitcoin come ricompensa
+2. Firma transazioni e invia Bitcoin ad altri portafogli
+3. Crea la tua blockchain privata e usa il simulatore con gruppi o classi scolastiche
+4. Crea transazioni false con un nome falso e cerca di ottenere Bitcoin attraverso una frode
+5. Esegui un attacco del 51% per manipolare successivamente la blockchain
+6. Raccontarlo ad altre persone.
 
-Cuanto más entiendas cómo funciona Bitcoin, mejor.
-
-Bitcoin Blockchain Simulator: An interactive learning tool https://www.bitcoinsimulator.tk/
-
-Crear una nueva billetera.
-
-Ya hemos creado una llamada MiPrimerBitcoin. 
-
-La clave privada es:
-
-e17a9fe1f9cade3f1f8b6426f9fdabe27d0378d931fc8bb5bbb1d25d7c33e6e5
-
-La cual ha minado 2 bloques (2830, 2831) y ha hecho una transacción.
-
-Por lo tanto:
-
-Lo que puedes hacer ahora: 
-
-1. Minar un bloque para recibir tu primer Bitcoin como recompensa 
-2. Firmar transacciones y enviar Bitcoin a otras billeteras 
-3. Crear tu propia cadena de bloques privada y usar el simulador con grupos no públicos o clases escolares 
-4. Crear transacciones falsas con un nombre falso e intentar obtener Bitcoin mediante fraude 
-5. Realizar un ataque del 51% para manipular posteriormente la cadena de bloques
-6. Contárselo a otras personas. 
-
-Cuanto más entiendas cómo funciona Bitcoin, mejor
+Più capisci come funziona Bitcoin, meglio è.
 
