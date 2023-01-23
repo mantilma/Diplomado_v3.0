@@ -1,19 +1,19 @@
-# Bitcoin hoy y en el futuro
+# Bitcoin oggi e in futuro
 
-## **Bitcoin realmente consume tanta energía como se cree?**
+## **Bitcoin consuma davvero tanta energia quanto si pensi?**
 
-Para aumentar las ganancias, 
+Per aumentare i profitti,
 
-- los mineros conectan una gran cantidad de computadores,
-    - con el objetivo de aumentar sus posibilidades de conseguir bitcoin.
-- Los computadores trabajan casi día y noche para ganarse las “loterías”,
-    - por lo tanto, el consumo eléctrico es alto..
-- La tecnología que se usa para la minería de Bitcoin se está volviendo cada día más limpia,
-    - tanto que la adopción de energías sostenibles subió al 59,5% en Abril del 2022.
-- Aunque el hashrate de Bitcoin ha crecido un 23% comparado con principios del 2021,
-    - el consumo eléctrico de la minería de BTC es un 25% menor al de aquel entonces.
-- Los ASIC actuales son 100 mil millones de veces más veloces que los CPU’s del 2009.
-- La energía consumida por Bitcoin representa un 0.16% de la energía a nivel mundial.
+- i minatori connettono un gran numero di computers,
+    - con l'obiettivo di aumentare le loro possibilità di ottenere bitcoin.
+- I computers lavorano giorno e notte per vincere le "lotterie",
+    - pertanto, il consumo energetico è elevato.
+- La tecnologia utilizzata per il mining di Bitcoin diventa ogni giorno più green e quindi "pulita",
+    - tanto che l'adozione di energie sostenibili è salita al 59,5% ad aprile 2022.
+- Sebbene l'hashrate di Bitcoin sia cresciuto del 23% rispetto all'inizio del 2021,
+    - il consumo di elettricità del mining di BTC è inferiore del 25% rispetto a prima.
+- Gli ASIC odierni sono 100 miliardi di volte più veloci rispetto alle CPU del 2009.
+- L'energia consumata da Bitcoin rappresenta lo 0,16% dell'energia mondiale.
 
 
 ### Ha evolucionado Bitcoin?
