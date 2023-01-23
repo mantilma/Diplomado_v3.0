@@ -1,33 +1,33 @@
-**Clase #1**
+**Lezione #1**
 
-Actividad Introducción al Dinero-https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/education/lessons/pdf/the-free-silver-movement-and-inflation.pdf, *The Free Silver Movement,* Scott Wolla, Federal Reserve Bank of St. Louis
+Attività Introduzione al denaro-https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/education/lessons/pdf/the-free-silver-movement-and-inflation.pdf, *The Free Silver Movement,* Scott Wolla, Federal Reserve Bank of St. Louis
 
-Video- Qué es el Dinero? [https://youtu.be/2yCIKkq8gKA, MagicMarkers.Tv, Colombia
+Video- Cos'è il denaro? [https://youtu.be/2yCIKkq8gKA, MagicMarkers.Tv, Colombia
 
-Actividad o Tarea: Las Pasas son un Buen Dinero? https://www.philadelphiafed.org/-/media/frbp/assets/institutional/education/lesson-plans/functions-and-characteristics-of-money-lesson.pdf, *Functions and Characteristics of Money, Chapter 3, Segment 301,* Federal Reserve Bank of Philadelphia
+Attività o compito: l'uvetta è un buon denaro? https://www.philadelphiafed.org/-/media/frbp/assets/institutional/education/lesson-plans/functions-and-characteristics-of-money-lesson.pdf, *Functions and Characteristics of Money, Chapter 3, Segment 301,* Federal Reserve Bank of Philadelphia
 
-**Clase #2**
+**Lezione #2**
 
-Actividad del Trueque https://www.philadelphiafed.org/-/media/frbp/assets/institutional/education/lesson-plans/money-grades-6-8.pdf, “*Why Money”,* Bonnie T. Meszaros, Federal Reserve Bank of Philadelphia
+Attività di baratto https://www.philadelphiafed.org/-/media/frbp/assets/institutional/education/lesson-plans/money-grades-6-8.pdf, “*Why Money”,* Bonnie T. Meszaros, Federal Reserve Bank of Philadelphia
 
-Actividad Reserva Fraccionaria https://www.kansascityfed.org/documents/2856/teachingresources-Lessonplangr9-12.pdf
+Attività Riserva Frazionaria https://www.kansascityfed.org/documents/2856/teachingresources-Lessonplangr9-12.pdf
 
 Federal Reserve Bank of Kansas
 
-*Historia de 1870 a 1971 en 10 minutos!,* Robert Breedlove
+*Storia dal 1870 al 1971 in 10 minuti!,* Robert Breedlove
 
-Para la sección de 1870-1914:
+Per la sezione 1870-1914:
 https://www.forbes.com/sites/nathanlewis/2013/01/03/the-1870-1914-gold-standard-the-most-perfect-one-ever-created/?sh=5e0ab9864a6a
 
-*Economía Desde Cero: Dinero*-Video, https://youtu.be/zcYw8a4RJC4, Canal Encuentro 
+*Economia da zero: denaro*-Video, https://youtu.be/zcYw8a4RJC4, Canal Encuentro 
 
-**Clase #3**
+**Lezione #3**
 
-Actividad Subasta https://www.kansascityfed.org/documents/2856/teachingresources-Lessonplangr9-12.pdf , Activity 5, *Auction,* Federal Reserve Bank of Kansas 
+Attività Asta https://www.kansascityfed.org/documents/2856/teachingresources-Lessonplangr9-12.pdf , Activity 5, *Auction,* Federal Reserve Bank of Kansas 
 
-Video- *Qué es la Inflación,*  https://youtu.be/gkDQGribCfc , Banco de la República de Colombia
+Video- *Cos'è l'inflazione,*  https://youtu.be/gkDQGribCfc , Banco de la República de Colombia
 
-Video-Cómo Nos Vigilan en Internet?, https://youtu.be/-sWgOuFIaws , Magic Markers 
+Video-Come veniamo monitorati su Internet?, https://youtu.be/-sWgOuFIaws , Magic Markers 
 
 McDonalds Menú Picture 1973
 
@@ -37,27 +37,27 @@ McDonalds Menú 2022
 
 McDonalds El Salvador, Twitter,  https://muddyrivernews.com/opinion/daily-dirt-where-were-you-in-72-or-once-upon-a-time-when-a-big-mac-was-65-cents/20220323091958/
 
-Gráfico-*Pérdida de Poder Adquisitivo,* Inflación **de **Demanda
+Grafico-*Perdita di potere d'acquisto,* Inflazione **della **domanda
 
 *Declining purchasing power of the US dollar strengthens Bitcoin,* https://cryptopotato.com/is-there-a-pattern-between-usd-dow-jones-and-bitcoin/ , Toju Ometoruwa
 
-*Ejemplo de Estado de Cuentas*, https://www.ejemplode.com/59-finanzas/4274-ejemplo_de_estado_de_cuenta.html
+*Esempio di estratto conto*, https://www.ejemplode.com/59-finanzas/4274-ejemplo_de_estado_de_cuenta.html
 
-Clase #4
+Lezione #4
 
-Video-*Qué es Bitcoin y Cómo Funciona,* https://youtu.be/S2HxMK7iO4c , MagicMarkers.Tv, Colombia
+Video-*Cos'è Bitcoin e come funziona?* https://youtu.be/S2HxMK7iO4c , MagicMarkers.Tv, Colombia
 
-Clase #6
+Lezione #6
 
-Nodos Completos - *Visualización de una Transacció*n http://beautifuldata.net/2015/01/querying-the-bitcoin-blockchain-with-r/
+Nodi completi - *Visualizza una transazione* http://beautifuldata.net/2015/01/querying-the-bitcoin-blockchain-with-r/
 
-Clase #9
+Lezione #9
 
 Video- https://youtu.be/lD8WQbS8-T8](https://youtu.be/lD8WQbS8-T8, *Que es La Red Relámpago*, Whiteboard Crypto en Español 
 
 Bitcoin en Números, Nick Carter, Bitcoin Demystified
 
-## **Fuentes adicionales en Español**
+## **Altre fonti in spagnolo**
 
 El Patrón Bitcoin, Audiolibro,  Saifedean Ammous
 
@@ -71,15 +71,15 @@ Internet del Dinero, Audiolibro, Andreas Antonopolous,
 
 Internet del Dinero - A.Antonopoulos AudioLibro https://youtu.be/1TOGWup0-io
 
-## La Magia de las Firmas Digitales Sección  Opcional
+## La magia delle firme digitali Sezione facoltativa
 
-Ahora que entendemos los retos de seguridad, volvamos a los monederos y las transacciones.
+Ora che comprendiamo le sfide alla sicurezza, torniamo ai portafogli e alle transazioni.
 
-La mayoría de los monederos más seguros proporcionan
+La maggior parte dei wallets più sicuri forniscono
 
-- Una “clave privada **maestra**” o una “**semilla**”
-- Es una lista generada por el monedero aleatoriamente de 12 a 24 palabras
-    - Nadie más en el mundo ha visto jamás.
+- Una “chiave privata **maestra**” o un “**seme** (seed)”
+- È una lista generata dal portafoglio in modo casuale da 12 a 24 parole
+    - che nessun altro al mondo ha mai creato.
     - Es la clave única que permite acceder el bitcoin del usuario en cualquier dispositivo
     - Se usa para como génesis para crear cada una de las **claves privadas**. 
     - https://learnmeabitcoin.com/technical/mnemonic
