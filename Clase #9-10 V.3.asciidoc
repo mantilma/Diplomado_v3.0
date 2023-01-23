@@ -37,44 +37,43 @@ Software originale creato da Satoshi Nakamoto-
     
 
 
-💡 **Código fuente abierto:** Cualquier persona puede ver, **proponer cambios**, **modificar** y distribuir como mejor le parezca. Es comparable a ir a un restaurante y tener acceso a las recetas de tus comidas favoritas (el código)… pero luego puedes hacerlas y agregar o quitar cualquier ingrediente que desees y perfeccionarlas.
+💡 **Codice aperto (Open Source):** chiunque può visualizzarlo, **proporre cambiamenti**, **modificarlo** e distribuirlo come meglio crede. È paragonabile ad andare in un ristorante ed avere accesso alle ricette dei tuoi cibi preferiti (il codice)... ma poi puoi prepararli e aggiungere o rimuovere gli ingredienti che vuoi e perfezionarli.
 
 
-
-- Decenas de expertos en software y criptografía, trabajan en su mantenimiento y mejora.
-- Quien propone una actualización en el software,
-    - requiere el consenso de la mayoría de los para implementarla
+- Decine di esperti di software e crittografia lavorano alla sua manutenzione e miglioramento.
+- Chi propone un aggiornamento nel software,
+    - richiede il consenso della maggioranza di coloro che lo attuano
     
 
-### SegWit, Taproot, y Firmas Schnorr
+### SegWit, Taproot, e Firme Schnorr
 
-Bitcoin ha mejorado a través del consenso, a través de Propuestas de Mejoras de Bitcoin, BIP’s
+Bitcoin è migliorato attraverso il consenso, attraverso proposte di miglioramento Bitcoin, dette BIP
 
-- volviéndolo más seguro y eficiente con los años.
-- Primero,  **SegWit**, un soft fork  que se implementó en el 2017,
-    - aumentó el límite de tamaño de los bloques eliminando partes de las transacciones.
-    - Mejoró  la velocidad de procesamiento de las transacciones de Bitcoin.
-    - Arregló  un punto débil del protocolo que permitía a los nodos:
-        - manipular los problemas de maleabilidad de las transacciones (TXID) en la red.
-            - La ***maleabilidad*** de una transacción es cuando un atacante puede modificar o alterar el hash de una transacción dentro del blockchain.
-- Segundo, **Taproot**  se creó para mejorar la privacidad y aumentar el anonimato en la red.
-    - Taproot, puede "camuflar" transacciones.
-    - Reduce los tiempos de validación de las transacciones,
-        - lo cual podría ayudar a fomentar a bitcoin como medio de pago
-    - Las comisiones de las transacciones se podrían reducir de manera notable
-- La sustitución a firmas **Schnorr;** reemplaza la actual **firma digital de curva elíptica (**ECDSA).
-    - Integra varias claves dentro de una transacción compleja y generar una firma única
-    - Simplifica  los contratos inteligentes en la blockchain.
-    - Ayuda a escalar los canales de pago de segunda capa, como la Lightning Network.
+- rendendolo più sicuro ed efficiente nel corso degli anni.
+- Primo, **SegWit**, un soft fork implementato nel 2017,
+    - aumentò il limite della dimensione del blocco rimuovendo parti delle transazioni.
+    - Migliorò la velocità di elaborazione delle transazioni Bitcoin.
+    - Risolse un problema di debolezza del protocollo che consentiva ai nodi di:
+        - manipolare i problemi di malleabilità delle transazioni (TXID) nella rete.
+            - La ***malleabilità*** di una transazione si verifica quando un utente malintenzionato può modificare o alterare l'hash di una transazione all'interno della blockchain.
+- Secondo, **Taproot** è stato creato per migliorare la privacy e aumentare l'anonimato nella rete.
+    - Taproot può "camuffare" le transazioni.
+    - Riduce i tempi di validazione delle transazioni,
+        - che potrebbe aiutare a promuovere il bitcoin come mezzo di pagamento
+    - Le commissioni di transazione potrebbero essere notevolmente ridotte
+- La sostituzione delle firme **Schnorr;** sostituisce l'attuale **Firma digitale a curva ellittica (**ECDSA).
+    - Integra più chiavi all'interno di una transazione complessa e genera una firma univoca
+    - Semplifica i contratti intelligenti sulla blockchain.
+    - Aiuta a scalare i canali di pagamento di secondo livello, come Lightning Network.
 
 ### Taro
 
-- Con el nuevo protocolo **Taro** se aspira llevar la tecnología Bitcoin a otro nivel..
-- Permitirá la emisión de monedas estables y otros activos en la red Lightning.
-- Se podrá intercambiar cualquier divisa por otra instantáneamente, prácticamente gratis.
+- Con il nuovo protocollo **Taro** aspiriamo a portare la tecnologia Bitcoin a un altro livello.
+- Consentirà l'emissione di stablecoin e altri asset sulla rete Lightning.
+- Si potrà scambiare qualsiasi valuta con un'altra all'istante e praticamente gratis.
 
 
-### Bitcoin y el futuro de El Salvador
+### Bitcoin e il futuro di El Salvador
 
 
 - La originalidad y las posibilidades de Bitcoin ha captado la atención de:
