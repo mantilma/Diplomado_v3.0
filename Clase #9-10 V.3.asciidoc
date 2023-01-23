@@ -15,71 +15,25 @@ Per aumentare i profitti,
 - Gli ASIC odierni sono 100 miliardi di volte più veloci rispetto alle CPU del 2009.
 - L'energia consumata da Bitcoin rappresenta lo 0,16% dell'energia mondiale.
 
-
-### Ha evolucionado Bitcoin?
-
-El valor de Bitcoin desde 2009 (primera transacción) ha aumentado enormemente de menos de $ 0,01 a alrededor de $ 67.000 USD, su valor más alto hasta la fecha, alcanzado en noviembre de 2021. En la última década, su precio ha subido y bajado varias veces, y los factores que afectan la oferta y demanda también han cambiado y se han diversificado mucho.
-
-Tres preguntas:
-
-- **¿Por qué es valioso bitcoin?**
-- **¿Por qué ha subido tanto el precio?**
-- **¿Por qué es tan volátil?**
-
-Para entender mejor esto, aquí hay algunos términos importantes que debemos definir:
-
-1. **Oferta circulante**: es la mejor aproximación del número de unidades que están circulando en el mercado y en manos del público en general. Para Bitcoin, el suministro circulante es igual a la cantidad de bitcoin creados hasta el momento.
-2. **Suministro total**: refleja la cantidad total de monedas que ya se han creado o extraído. En el caso de Bitcoin, la cantidad máxima que se puede crear está limitada a 21 millones, aunque se estima que faltan o se consideran "perdidos" alrededor de 4 millones de bitcoin. 
-3. **Capitalización de mercado**: El valor de mercado total del suministro circulante de Bitcoin reflejado en monedas fiat (dólares). Esto se estima multiplicando el precio actual por la oferta circulante.
-    1. **Capitalización de mercado = precio actual x oferta circulante.**
-
-Podemos ir a *Marketcap* https://coinmarketcap.com/currencies/bitcoin/ y calcular la capitalización de mercado actual.
-
-El siguiente gráfico muestra el precio de Bitcoin en los últimos 5 años. Esta es una manera fácil de visualizar qué tan sensible o volátil es el precio. Usando el eje X para el tiempo, ¿qué eventos mundiales importantes podrían relacionarse con los cambios de precios? ****
-
-https://lh4.googleusercontent.com/DJuC6h2XxzgGwKc53R_hh82-syrjzOQJKMcxNkb85foZxqoC5pPYaHtEUfdn_1pWZhh-R4nP1aO3pcMjKxJ2BNTouQ132PAQ53lMuVN7DATjt9fRfB4mKT75qcmj-IXrQxDyeIvR
-
-**Entonces, ¿qué factores determinan su precio? ¿Cómo se involucra la minería? ¿Cuándo afecta el halving al precio?**
-
-Hay factores simples y complejos que afectan significativamente el precio de bitcoin. Una cosa que se puede decir con certeza es que desde su creación, el precio de bitcoin se ha movido hacia arriba y hacia la derecha en función de la oferta fija y la demanda creciente. Los factores que afectan cómo se mueve el precio se pueden analizar a mediano y largo plazo.
-
-**Factores a mediano plazo:**
-
-- **Comercio diario**: Bitcoin, como muchas otras criptomonedas, se puede comprar y vender a través de múltiples plataformas de intercambio que, a diferencia de los bancos y las bolsas de valores, operan 24 horas al día, los 7 días de la semana. Estas plataformas de intercambio pueden operar en dispositivos móviles, lo que permite intercambiar fácilmente desde unos pocos dólares hasta cientos de miles de dólares en bitcoin. Para un activo que no tiene reguladores o autoridades, y una oferta fija y demanda creciente, se espera la volatilidad en su precio. Para HODLERS esto es una pesadilla ya que el precio puede cambiar hasta un 20% en un solo día. Para traders, esta es una oportunidad para aprovechar estos cambios de precios y obtener ganancias.
-- **Noticias y eventos mundiales**: como muchos otros mercados, el precio de Bitcoin también puede cambiar en conjunto con eventos mundiales, noticias y especulaciones.
-- **Costos de minería**: Como sabemos, los mineros son los responsables de agregar más y más bitcoin al suministro total. Debido a los costos de electricidad, los mineros generalmente se ven obligados a vender entre el 40 % y 60% de los bitcoin extraídos para cubrir las facturas y los gastos de hardware.
-- **Burbujas de mercado**: en los últimos años, los compradores de bitcoins son cada vez más diversos y sus hábitos de compra y ahorro varían. El tamaño de su participación en Bitcoin y su comportamiento hacia él puede cambiar el precio general de Bitcoin.
-
-
-**Factores a largo plazo:**
-
-- **Halving**: La recompensa de bitcoin es reducida a la mitad cada 210.000 bloques, o alrededor de cada 4 años.
-- **Adopción masiva**: (si todo el mundo lo usa y luego, por extensión, pone más de su dinero en bitcoin, el precio subirá exponencialmente. El momento en que todo el mundo empieza a usar Bitcoin se llama *Hiperbitcoinización.*)
-- **Oferta limitada**: el hecho de que solo haya una cantidad finita de Bitcoin significa que no es posible diluir el sistema después de 2140. (Mientras tanto, con la adición de nuevos bitcoin al sistema todos los días para sumar 21 millones, es técnicamente inflacionario, aunque en un calendario claro y consistente, para que los nuevos participantes puedan unirse al sistema. Si los 21 millones se hubieran liberado a la vez, es posible que unas pocas personas lo hayan acaparado, sin dar a nadie más la oportunidad para acumularlo).
-
-El siguiente gráfico se llama “gráfico arcoíris” y usa una escala logarítmica para visualizar el comportamiento del precio. El arcoíris, con la división de colores, muestra cuándo la moneda está sobrevendida (zonas azul y verde) o sobrecomprada (zonas naranja, roja y morada). Podemos obtener con este gráfico el momento adecuado para comprar o vender bitcoin. Cuando bitcoin está en las zonas azul/verde puede ser el momento apropiado para comprarlo. 
-
-https://lh5.googleusercontent.com/Ffya4yg3OoApiYHNMMz2b0Hv6F3Hgwyw7B-h0ZMSg_O1GA2Z4wmlhLNjsEffbQECWu0OYSv5yKUT2xsPi2WRI2o_sReRaqXBmByFM0GKPr2uHi7xevcdro0BOnqaf4yXGsdWXNud
-
-# **Innovación**
+# **Innovazione**
 
 ### Software -**Bitcoin Core**:
 
-Software original creado por Satoshi Nakamoto-
+Software originale creato da Satoshi Nakamoto-
 
-- Diseñado para conectarse a otras personas que ejecutan el mismo programa,
-    - creando una red de computadoras que se comunican entre sí.
-- Su propósito es que al descargarlo, todos trabajen con el mismo conjunto de reglas
-    - para validar transacciones
-    - y contribuir con la seguridad y la descentralización del sistema
-- Quien lo ejecute, puede instalarlo como cualquier otro programa de computador
-    - descarga y crea una copia adicional de la cadena entera de bloques,
-    - puede ayudar a transmitir transacciones a otras computadoras.
-- Siempre y cuando haya acceso a internet, no se necesita ningún permiso para:
-    - descargarlo y/o utilizarlo libremente
-    - transferir bitcoin a otro monedero o recibir de alguien más,
-    - verificar de forma demostrable la emisión de la oferta,
-    - conocer el historial de transacciones y los propietarios de cada bitcoin.
+- Progettato per connettersi ad altre persone che eseguono lo stesso programma,
+    - creando una rete di computer che comunicano tra loro.
+- Il suo scopo è che eseguendolo tutti lavorino con lo stesso insieme di regole
+    - per convalidare le transazioni
+    - e contribuire alla sicurezza e alla decentralizzazione del sistema
+- Chiunque lo esegua può installarlo come qualsiasi altro programma per computer
+    - scarica e crea una copia aggiuntiva della blockchain,
+    - può aiutare a trasmettere transazioni ad altri computer.
+- Finché è disponibile l'accesso a Internet, non è necessaria alcuna autorizzazione per:
+    - scaricarlo e/o usarlo liberamente
+    - trasferire bitcoin su un altro portafoglio o riceverli da qualcun altro,
+    - verificare in modo dimostrabile l'emissione dell'offerta,
+    - conoscere la storia delle transazioni e i proprietari di ogni bitcoin.
     
 
 
