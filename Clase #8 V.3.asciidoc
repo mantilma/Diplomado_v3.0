@@ -144,107 +144,107 @@ CBBI - Colin Talks Crypto Bitcoin Bull Run Index - BTC Price Evaluation https://
     **Fattori a lungo termine:**
     
     - **Halving**:
-        - La recompensa de bitcoin pasa a ser la mitad alrededor de cada 4 años.
-        - La recompensa de los mineros disminuye drásticamente en esos momentos
-    - **Adopción masiva**:
-        - Si todo el mundo lo comienza a usar, un proceso denominado *Hiperbitcoinización*
-            - y por extensión, invierte más de su dinero en bitcoin,
-                - el precio subirá exponencialmente.
+        - La ricompensa in bitcoin si dimezza circa ogni 4 anni.
+        - La ricompensa dei minatori diminuisce drasticamente in questi momenti.
+    - **Adozione di massa**:
+        - Se tutti iniziano ad usare questa tecnologia, il processo prende nome di *Hiperbitcoinización*
+            - e di conseguenza, si investe sempre più denaro nel bitcoin,
+                - il prezzo aumenterà esponenzialmente.
        
         
     
-    Fuente: *U.S. dollar inflation visualized at the top versus bitcoin’s deflation at the bottom:* [Lark Davis @TheCryptoLark https://twitter.com/TheCryptoLark/status/1415134942082699269/photo/1.
+    Fonte: *U.S. dollar inflation visualized at the top versus bitcoin’s deflation at the bottom:* [Lark Davis @TheCryptoLark https://twitter.com/TheCryptoLark/status/1415134942082699269/photo/1.
     
-    - **El Efecto Lindy-**
-        - Una teoría sobre el envejecimiento de las cosas no perecederas,
-            - cuanto más antigua sea una idea o una tecnología,
-                - mayor será su esperanza de vida.
-        - Las cosas no perecederas como la tecnología envejecen, linealmente, a la inversa.
+    - **L'effetto Lindy-**
+        - Una teoria sull'invecchiamento delle cose non deteriorabili,
+            - più vecchia è un'idea o una tecnologia,
+                - maggiore è la sua aspettativa di vita.
+        - Le cose non deteriorabili come la tecnologia invecchiano, linearmente, al contrario.
    
-    - **Oferta limitada**: el hecho de que solo haya una cantidad finita de Bitcoin significa que no es posible diluir el sistema después de 2140.
+    - **Offerta limitata**: il fatto che ci sia solo una quantità finita di Bitcoin significa che non è possibile diluire il sistema dopo il 2140.
     
-    - El “gráfico arcoíris” usa una escala logarítmica para visualizar el precio de bitcoin.
-    - La división de colores:
-        - muestra cuándo la moneda está sobrevendida (zonas azul y verde)
-        - o sobrecomprada (zonas naranja, roja y morada).
-    - Información valiosa para determinar estrategias de compra y venta.
-    - Algunos inversionistas muy exitosos esperan pacientemente:
-        - compran cuando el precio llegue a la zona azul/verde
-        - venden poco a poco, mientras el precio se acerca a la banda roja. https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/
+    - Il "grafico arcobaleno" utilizza una scala logaritmica per visualizzare il prezzo del bitcoin.
+    - La suddivisione in colori:
+        - mostra quando la moneta è ipervenduta (zone blu e verdi)
+        - o ipercomprato (zone arancioni, rosse e viola).
+    - Informazioni preziose per determinare strategie di acquisto e vendita.
+    - Alcuni investitori con successo aspettano pazientemente:
+        - comprano quando il prezzo raggiunge la zona blu/verde
+        - vendono a poco a poco, mentre il prezzo si avvicina alla fascia rossa. https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/
         
         
 
-Fuente: https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/
+Fonte: https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/
 
-Veamos en perspectiva, y a través de ciclos de cuatro años, el crecimiento en la capitalización de bitcoin en relación con la capitalización de otros activos monetarios globales. 
+Vediamo in prospettiva, e attraverso cicli quadriennali, la crescita della capitalizzazione di bitcoin rispetto alla capitalizzazione di altri asset monetari globali.
 
-**Espiral de activos cruzados. Capitalización de mercado #Bitcoin frente a #oro, #plata y bienes raíces**
-
-
-Veamos como han cambiado las recompensas y los incentivos monetarios a los mineros a través del tiempo y observamos que existen épocas más rentables que otras.
-
-Fuente: https://www.blockchain.com/charts/miners-revenue
+** Spirale tra asset. #Bitcoin Market Cap vs. #Oro, #Argento e Immobili**
 
 
+Vediamo come sono cambiate nel tempo le ricompense e gli incentivi monetari per i minatori e vediamo che ci sono momenti più redditizi di altri.
 
-- *→ El incentivo de los mineros aún permanece, independientemente de las recompensas más pequeñas, ya que el valor de Bitcoin aumenta a largo plazo en el proceso.*
+Fonte: https://www.blockchain.com/charts/miners-revenue
 
-## La dificultad
 
-- La dificultad es una medida de lo trabajoso que es extraer un bloque de Bitcoin
-    - o de encontrar un hash por debajo de el “valor objetivo” propuesto.
-- La dificultad se ajusta cada 2016 bloques (cada 2 semanas aproximadamente)
-    - para que el tiempo medio entre cada bloque se mantenga en 10 minutos.
-- El ajuste de la dificultad está directamente relacionado con la potencia minera total
-    - Se estima en terahashes/segundo (TH/s).  (Tera=trillón)
-        - La red de hoy tiene la capacidad de calcular trillones de hashes por segundo.
-- Entre más alta la dificultad, más poder de cómputo para minar la misma cantidad de bloques,
-    - lo que hace que la red sea más segura contra los ataques.
+
+- *→ L'incentivo dei minatori rimane ancora, indipendentemente dalle ricompense minori, poiché il valore di Bitcoin aumenta nel lungo termine.*
+
+## La difficoltà
+
+- La difficoltà è una misura di quanto sia difficile estrarre un blocco Bitcoin.
+    - o per trovare un hash al di sotto del "valore target" proposto.
+- La difficoltà si autoregola ogni 2016 blocchi (ogni 2 settimane circa)
+    - in modo che il tempo medio tra ogni blocco estratto rimanga a 10 minuti.
+- L'impostazione della difficoltà è direttamente correlata alla potenza di mining totale
+    - È stimato in terahash/secondo (TH/s). (Tera=trilioni)
+        - La rete odierna ha la capacità di calcolare trilioni di hash al secondo.
+- Maggiore è la difficoltà, maggiore è la potenza di calcolo per estrarre lo stesso numero di blocchi,
+    - che rende la rete più sicura contro gli attacchi.
         
       
 
-### De qué o de quién me tengo que cuidar?
+### Di cosa o di chi devo prestare attenzione?
 
-Aunque Bitcoin puede ofrecer mucha mayor protección que el sistema financiero tradicional, las estafas de dinero a las víctimas desprevenidas cada vez es más sofisticado.  
+Sebbene Bitcoin possa offrire una protezione di gran lunga maggiore rispetto al sistema finanziario tradizionale, le truffe a vittime ignare stanno diventando sempre più sofisticate. 
 
-- Ejemplos:
-    - Suplantación de Identidad.
-        - El atacante puede obligar al destinatario a revelar información sensible
-            - Roba sus credenciales después de inducirlo a cambiar la contraseña
-            - Roba sus claves privadas y por lo tanto su bitcoin
-            - Lo induce a visitar un sitio web con malware y toma control sobre su computador
-    - Secuestros de DNS o de extensiones de navegador
-        - Los atacantes secuestran sitios web legítimos
-            - los sustituyen por interfaces fraudulentos
-            - engañan a los usuarios para que introduzcan sus claves privadas sus sitios
-    - Un hacker puede intercambiar las tarjetas SIM de dos móviles y robar todos los datos
-- Los ciberdelincuentes buscan sacar provecho de cualquier situación.
-- Las empresas y los equipos de seguridad están luchando para mantenerse al día.
+- Esempi:
+    - Furto d'identità.
+        - L'attaccante può costringere il destinatario a rivelare informazioni riservate.
+            - Ruba le tue credenziali dopo averti indotto a cambiare la password
+            - Ruba le tue chiavi private e quindi i tuoi bitcoin
+            - Ti induce a visitare un sito Web con malware e prende il controllo del tuo computer
+    - Dirottamento del DNS o dell'estensioni del browser
+        - Gli aggressori dirottano siti Web legittimi
+            - li sostituiscono con interfacce fraudolente
+            - inducono gli utenti a inserire le loro chiavi private sui loro siti
+    - Un hacker può scambiare le schede SIM di due cellulari e rubare tutti i dati
+- I criminali informatici cercano di trarre vantaggio da qualsiasi situazione.
+- Le aziende e i team di sicurezza stanno lottando per tenere il passo.
 
-Los ataques físicos que se conocen a Bitcoin: 
+Attacchi fisici noti a Bitcoin:
 
 https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md
 
-- Ninguno de estos ataques ha podido lograr interrumpir la red de Bitcoin.
-- Si las claves privadas permanecen en un lugar seguro,
-    - los atracos se vuelven prácticamente imposibles.
-- De todos modos, existe la pequeñita posibilidad de un ataque del 51%:
+- Nessuno di questi attacchi è riuscito a interrompere la rete Bitcoin.
+- Se le chiavi private rimangono in un luogo sicuro,
+    - gli attacchi diventano praticamente impossibili.
+- Tuttavia, c'è una minima possibilità di un attacco del 51%:
 
-***Que es un ataque del 51%?***
+***Cos'è un attacco del 51%?***
 
-- Para lograrlo, se necesitaría trabajo, energía  y centralización de computación.
-- Un minero malicioso tendría que acumular más del 50% del poder computacional de la red.
-    - La red ya no sería descentralizada, sino controlada y manipulada por dicho minero.
-    - Se crea una cadena nueva atada a la cadena original,
-        - engañando a algunos de los participantes para que adicionen sus bloques ella.
-        - Puede fácilmente manipular, alterar o desencadenar la cadena en su beneficio,
-            - robando dinero a través del doble gasto y/o censurando transacciones.
+- Per raggiungere questo obiettivo, ci vorrebbe lavoro, energia e centralizzazione della computazione.
+- Un minatore malintenzionato dovrebbe accumulare più del 50% della potenza di calcolo della rete.
+    - La rete non sarebbe più decentralizzata, ma controllata e manipolata da questo minatore malintenzionato.
+    - Una nuova catena di blocchi legata alla catena originale è creata,
+        - inducendo alcuni dei partecipanti ad aggiungere i loro blocchi a essa.
+        - Può facilmente manipolare, alterare o attivare la catena a suo vantaggio,
+            - rubare denaro attraverso doppie spese e/o censurando transazioni.
             
          
-    - Este tipo de ataque nunca ha sucedido con Bitcoin.
+    - Questo tipo di attacco non è mai avvenuto in Bitcoin.
 
 
-Más detalles sobre vulnerabilidades de Bitcoin:
+Maggiori dettagli sulle vulnerabilità di Bitcoin:
 
 https://github.com/JWWeatherman/bitcoin_security_threat_model
 Weaknesses https://en.bitcoin.it/wiki/Weaknesses
