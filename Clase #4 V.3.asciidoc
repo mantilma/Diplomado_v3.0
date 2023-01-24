@@ -205,7 +205,7 @@ Esercizio pratico (continuazione di [È un buon asset monetario?]
 
 Se hai avuto difficoltà con l'esercizio precedente, rivedi la tabella "Differenze tra Bitcoin e Fiat".
 
-## **Partecipanti Bitcoin:**
+## **Partecipanti del Bitcoin:**
 
 Per capire come qualcuno o un sistema partecipa alla rete Bitcoin, dobbiamo chiederci
 

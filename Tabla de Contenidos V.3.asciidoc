@@ -1,71 +1,71 @@
-1. Introducción: El Sistema Monetario
-    1. Actividad- “Introducción al 💴 “
-    2. Que problemas existen hoy con el 💵?
-        1. Consecuencias del desarrollo
-            - Necesidades Infinitas/Recursos Escasos
-        2. La Modernización 
-    3. Definición del dinero.
-        1. Funciones del Dinero
-        2. Características del Dinero
-        3. Diferencia entre Dinero Convencional y Activo Monetario
-            - Tipos de Dinero
-            - Ejercicio Práctico-Es un buen activo monetario?
-            - Tarea opcional-Las pasas son un buen dinero?
+1. Introduzione: Il Sistema Monetario
+    1. Attività- “Introduzione al 💴 “
+    2. Quali problemi esistono oggigiorno con il 💵?
+        1. Conseguenze dello sviluppo della nostra civiltà
+            - Bisogni Infiniti/Risorse Limitate
+        2. La Modernizzazione 
+    3. Definizione di denaro
+        1. Funzioni del denaro
+        2. Caratteristiche del denaro
+        3. Moneta convenzionale e attivi monetari
+            - Tipi di moneta
+            - Esercizio pratico-È un buon attivo monetario?
+            - Esercizio opzionale-L'uvetta è una buona moneta?
         
 
-1. Historia, Evolución y Devaluación del Dinero
-    1. Actividad: “Juego del Trueque”
-    2. Evolución del Dinero en el Tiempo 
-        1. Video y organigrama
-    3. Cambio Repentino al Fiat
-    4. Los Bancos Centrales
-        1. La Reserva Fraccionaria
-            - Actividad-Multiplicador Bancario
+1. Storia, Evoluzione e Svalutazione del Denaro
+    1. Attività di Classe: Gioco del Baratto
+    2. Evoluzione del Denaro nel Tempo
+        1. Video e organigramma
+    3. Cambio Improvviso alla Moneta Fiat
+    4. Le Banche Centrali
+        1. Riserva Frazionaria
+            - Attività-Moltiplicatore Bancario
 
-1. Los Efectos del Dinero Fiat y la Centralización 
-    1. Actividad-Subasta
-    2. Inflación 
-        1. Qué es y porqué nos importa?
-        2. Costos de Oportunidad y Preferencia Temporal
-        3. Causas de la Inflación 
-    3. Vigilancia
-    4. Restricción 
-        1. Políticas  Gubernamentales y Bancarias
-        2. Comisiones 
-        3. Horarios y Seguridad
-    5. Centralización vs. Descentralización
-        1. Características de un Sistema Centralizado 
-        2. Características de un Sistema Descentralizado
-    6. Conclusión 
+1. Gli Effetti della Moneta Fiat e della Centralizzazione 
+    1. Attività-Asta
+    2. Inflazione 
+        1. Che cos'è e perché ci interessa?
+        2. Costo Opportunità e Preferenza Temporale
+        3. Cause dell'Inflazione
+    3. Vigilanza
+    4. Restrizioni
+        1. Politiche di Governo e Bancarie
+        2. Commissioni 
+        3. Orari e Sicurezza
+    5. Centralizzazione vs. Decentralizzazione
+        1. Caratteristiche di un Sistema Centralizzato 
+        2. Caratteristiche di un Sistema Decentralizzato
+    6. Conclusione
 
 1. Bitcoin
-    1. Porqué se creó Bitcoin?
-        1. Los problemas a solucionar
-        2. Como se solucionaron- La Blockchain
-        3. Quién los solucionó ? 
-            - Cuales dificultades tenía Satoshi?
-            - Cual era el dilema de los Generales?
-            - Qué tiene que ver con Bitcoin?
-    2. Introducción a Bitcoin
-    3. Diferencias entre el Bitcoin y el Fiat
-        1. Completar Actividad 2.c
-    4. Participantes del Bitcoin
+    1. Perché è stato creato Bitcoin?
+        1. I problemi da risolvere
+        2. Come sono stati risolti- La Blockchain
+        3. Chi li ha risolti? 
+            - Quali difficoltà ha dovuto affrontare Satoshi?
+            - Qual era il dilemma dei generali?
+            - Cosa c’entra questo con Bitcoin?
+    2. Introduzione al Bitcoin
+    3. Differenze tra Bitcoin e Fiat
+        1. Completare Attività 2.c
+    4. Partecipanti del Bitcoin
 
-1. Compra, Custodia y Movimiento de bitcoin
-    1. Rampas de Entrada y Salida
-        1. Tengo suficiente dinero para comprar bitcoin?
-    2. Custodia de Bitcoin
-        1. Tipos de Monederos y Lightning
-            - Quién  Controla Mi Botcoin
-            - Cuál es el Monedero más  Conveniente?
-            - Cómo envío Satoshis?
-    3. El Ciclo de Una Transacción (on-chain)
-        1. Qué es una Transacción de Bitcoin
-        2. Puentes y Paradas para realizar transacciones y guardar BTC
-        3. Cómo  Funciona una Transacción Paso a Paso?
-        4. “UTXOs”- Mondedas No Gastadas o (Unspent Transaction Output)
-        5. La confirmación de una Transacción 
-    4. La Red de Bitcoin  
+1. Acquisto, Custodia e Trasferimento di bitcoin
+    1. Punti di Entrata e di Uscita
+        1. Ho abbastanza soldi per comprare bitcoin?
+    2. Custodia di Bitcoin
+        1. Tipi di Portafogli (Wallets) e Lightning
+            - Chi controlla i miei bitcoin?
+            - Quale Wallet utilizzare?
+            - Come invio/ricevo satoshi?
+    3. Il Ciclo di una Transazione (on-chain)
+        1. Cos’è una Transazione Bitcoin?
+        2. Modi per Effettuare Transazioni e Custodire BTC
+        3. Come Funziona una Transazione Passo a Passo?
+        4. UTXO - “Monete non spese” o “Unspent Transaction Output”
+        5. Conferma di una Transazione 
+    4. La Rete Bitcoin  
     
 2. Bitcoin cómo  Depositó de Valor y cómo Red de Pagos
     1. El Problema del Doble Gasto

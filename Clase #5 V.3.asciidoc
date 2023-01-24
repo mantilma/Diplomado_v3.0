@@ -49,9 +49,9 @@ Dunque,
         - Comprendere che non esiste un portafoglio ideale che soddisfi tutte le esigenze
     
 
-## **Tipi di portafogli & lightning**
+## **Tipi di portafogli (wallets) e lightning**
 
-### Chi controlla il mio bitcoin?
+### Chi controlla i miei bitcoin?
 
 - **Portafogli con auto-custodia**:
 
@@ -79,7 +79,7 @@ Rischi:
     - Rischio: sempre connessi a Internet, il che li rende più vulnerabili.
 
 
-## Qual è il portafoglio più conveniente?
+## Quale Wallet utilizzare?
 
 - **Cold Wallets (Portafogli "freddi")**
 
@@ -162,7 +162,7 @@ Quando una nuova transazione entra nella rete,
     - Le transazioni non valide
         - vengono semplicemente respinte e non si propagano sulla rete
 
-## Modi per realizzare transazioni e custodire BTC
+## Modi per effettuare transazioni e custodire BTC
 
 Una transazione tramite un portafoglio è simile al seguente processo:
 
