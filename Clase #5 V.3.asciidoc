@@ -1,6 +1,6 @@
 # Acquisto, Custodia e Trasferimento di bitcoin
 
-### Punti di entrata ed uscita
+### Punti di entrata e uscita
 
 - Il primo passo per ottenere bitcoin è acquistarlo. Ci sono diverse alternative:
     - exchanges, brokers, ATM, società fintech, carte regalo, ecc.
@@ -40,7 +40,7 @@ Quando i Sats vengono acquistati su un sito web,
 
 Dunque,
 
-- È importante comprendere i rischi dell'investimento in bitcoin ed iniziare a:
+- È importante comprendere i rischi dell'investimento in bitcoin e iniziare a:
     - conoscere i modi migliori per mantenere i bitcoin sul mercato
     - Scoprire cos'è un "portafoglio" o wallet
         - Quale offre la migliore sicurezza?
@@ -49,9 +49,9 @@ Dunque,
         - Comprendere che non esiste un portafoglio ideale che soddisfi tutte le esigenze
     
 
-## **Tipi di portafogli & lightning**
+## **Tipi di portafogli (wallets) e lightning**
 
-### Chi controlla il mio bitcoin?
+### Chi controlla i miei bitcoin?
 
 - **Portafogli con auto-custodia**:
 
@@ -79,7 +79,7 @@ Rischi:
     - Rischio: sempre connessi a Internet, il che li rende più vulnerabili.
 
 
-## Qual è il portafoglio più conveniente?
+## Quale Wallet utilizzare?
 
 - **Cold Wallets (Portafogli "freddi")**
 
@@ -98,7 +98,7 @@ Rischi:
 - È necessario copiare una nuova chiave privata ogni volta che viene effettuata una transazione
 
 **Hot Wallets (Portafogli Software)**:
-    - connessi ad Internet
+    - connessi a Internet
     - Possono essere installati e/o accessibili tramite un'applicazione mobile o via web.
         
 ** Mobile Wallets**
@@ -162,7 +162,7 @@ Quando una nuova transazione entra nella rete,
     - Le transazioni non valide
         - vengono semplicemente respinte e non si propagano sulla rete
 
-## Modi per realizzare transazioni e custodire BTC
+## Modi per effettuare transazioni e custodire BTC
 
 Una transazione tramite un portafoglio è simile al seguente processo:
 
@@ -171,7 +171,7 @@ Una transazione tramite un portafoglio è simile al seguente processo:
     - Chiunque può vedere quanti bitcoin ci sono in ogni scatola e la storia di come sono arrivati lì
 
 
-- Ogni cassetta ha un **indirizzo** appartenente ad un unico proprietario,
+- Ogni cassetta ha un **indirizzo** appartenente a un unico proprietario,
 - Questa è protetta da un lucchetto di sicurezza, che richiede due differenti chiavi.
 - Una delle chiavi (**la chiave privata**) **apre** il lucchetto e **dà accesso ai BTC all'interno**,
 - L'altra chiave (**la chiave pubblica**) **chiude** il lucchetto e **protegge i BTC**
@@ -199,13 +199,13 @@ Supponiamo che Marco invierà 0,5 bitcoin a suo fratello Roberto. Entrambi hanno
 - È necessario creare una transazione che porti un **identificativo unico e irripetibile**.
     - Questo identificatore è l'**impronta digitale** di ogni transazione
     - Questo per evitare che due transazioni passino per identiche,
-    - ed il processo di verifica sia semplice.
+    - e il processo di verifica sia semplice.
         - Affinché questo avvenga in modo sicuro ma efficiente,
             - è necessario crittografare, decrittografare, firmare e verificare ogni transazione.
 
 A. **Crittografare**: Marco deve inviare il Bitcoin attraverso un canale non sicuro senza che nessuno lo intercetti. 
 
-B. **Decrittografare**: Roberto deve ricevere il denaro, assicurarsi che nessun altro abbia accesso ad esso ed essere in grado di usarlo.
+B. **Decrittografare**: Roberto deve ricevere il denaro, assicurarsi che nessun altro abbia accesso a esso ed essere in grado di usarlo.
 
 C. **Firmare**: Marco deve verificare a Roberto che il denaro che ha inviato in origine apparteneva a lui e che invia l'importo corretto.
 
@@ -225,7 +225,7 @@ D. **Verificare**: Gli utenti della rete devono verificare che Marco disponeva d
 7. I **nodi minatori** selezionano migliaia di transazioni e rifiutano quelle non valide
     - le transazioni valide vengono aggiunte ai "blocchi delle transazioni candidate", che non sono state ancora accettate
     - consolidano tutte le informazioni e ognuno crea un blocco identificatore.
-8. inizia una competizione tra **nodi (**simile ad una lotteria)
+8. inizia una competizione tra **nodi (**simile a una lotteria)
     - per vedere chi è il prossimo ad aggiungere un blocco alla blockchain
 9. il blocco del minatore vincente contiene la transazione Marco-Roberto e la propaga ad altri nodi
 10. I nodi verificano l'identificatore del blocco vincente e lo aggiungono alla blockchain
@@ -247,7 +247,7 @@ Le transazioni sono semplicemente **input** e **output** di bitcoin da un portaf
     - Un output va alla persona a cui viene effettuato il pagamento
 - Quando un utente sblocca il suo UTXO con la sua chiave privata da inviare a un altro,
     - il suo saldo potrebbe essere in pericolo, poiché la sua "cassetta di sicurezza" è aperta.
-    - Per questo motivo è sempre consigliabile inviare l'eventuale saldo ad un nuovo wallet
+    - Per questo motivo è sempre consigliabile inviare l'eventuale saldo a un nuovo wallet
 - Se il portafoglio originale ha un saldo:
     - l'altro output va a un nuovo indirizzo creato per ricevere il resto
         - convertendo questa quantità in un nuovo input UTXO
@@ -257,7 +257,7 @@ Le transazioni sono semplicemente **input** e **output** di bitcoin da un portaf
 
 ## Conferma di una transazione
 
-- Per autorizzare ed **inviare** qualsiasi bitcoin da un portafoglio,
+- Per autorizzare e **inviare** qualsiasi bitcoin da un portafoglio,
     - la transazione deve essere **firmata** con la **chiave privata**.
     - Questo passaggio è necessario per dimostrare la proprietà dei fondi.
 - Per **ricevere** bitcoin in un portafoglio,

@@ -6,11 +6,11 @@
 
 ### Attività “Introduzione al denaro”
 
-## Quali problemi esistono con i soldi di oggi?
+## Quali problemi esistono oggigiorno con il denaro?
 
 Siamo programmati per resistere alle sfide della vita e prosperare. È un processo umano naturale voler migliorare noi stessi, condurre una vita produttiva, creativa e di valore, ma:
 
-- Viviamo in un mondo dove c'è molto per pochi e molto poco per molti.
+- Viviamo in un mondo dove c'è molto per pochi e poco per molti.
     - Individui con minori risorse economiche:
         - Non hanno le stesse opportunità. Come mai?
             - non hanno accesso agli stessi livelli di istruzione,
@@ -53,7 +53,7 @@ Lo sviluppo permanente ha rivoluzionato le società e l'interazione globale
 - *Qual è il pericolo invisibile della perdita di valore del denaro?*
 - *Come possiamo dare un valore aggiunto ai nostri risparmi?*
 
-Oggi solo le banche ed i governi hanno il potere di emettere moneta in un'economia.
+Oggi solo le banche e i governi hanno il potere di emettere moneta in un'economia.
 
 I soldi semplicemente sono illimitati. I governi stampano la quantità di denaro necessaria per finanziare la loro spesa pubblica, iniettano risorse nell'economia e poi le ritirano sotto forma di tasse.
 
@@ -62,7 +62,7 @@ Il problema è che come umanità spendiamo più di quanto generiamo. Dovuto a:
 - perdita di fiducia nel valore del denaro e nel sistema bancario moderno.
 - instabilità economica e politica globale che porta persino allo scoppiare di nuove guerre. Come mai?
 
-### **I nostri bisogni sono infiniti ma le nostre risorse sono limitate.**
+### **IBisogni Infiniti/Risorse Limitate**
 
 
 
@@ -285,7 +285,7 @@ Recurso: Economía desde Cero, *Dinero*, Canal Encuentro, Argentina
 
 - Il denaro si è evoluto nel corso della storia, affrontando sfide e mutevoli esigenze...
     - In genere, veniva scelta la forma di denaro che offriva le caratteristiche superiori.
-    - Ma da quando si iniziò a ridurre le monete ed il passaggio da metalli preziosi a metalli garantiti dalla carta...
+    - Ma da quando si iniziò a ridurre le monete e il passaggio da metalli preziosi a metalli garantiti dalla carta...
         - siamo passati da una selezione naturale della forma di denaro con le migliori prestazioni,
         - a uno di facilità d'uso, maggiore portabilità e divisibilità.
     - C'è stato uno spostamento verso la centralizzazione.
@@ -361,7 +361,7 @@ Segui le istruzioni dell'insegnante
 
 # Lezione #*3*
 
-## Gli effetti **del denaro fiat e della centralizzazione**
+## Gli effetti **della moneta fiat e della centralizzazione**
 
 ## Attività di classe - Asta!
 
