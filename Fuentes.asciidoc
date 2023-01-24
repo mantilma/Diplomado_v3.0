@@ -57,7 +57,7 @@ Video- https://youtu.be/lD8WQbS8-T8](https://youtu.be/lD8WQbS8-T8, *Que es La Re
 
 Bitcoin en Números, Nick Carter, Bitcoin Demystified
 
-## **Altre fonti in spagnolo**
+## **Altre fonti in lingua spagnola**
 
 El Patrón Bitcoin, Audiolibro,  Saifedean Ammous
 
@@ -80,72 +80,72 @@ La maggior parte dei wallets più sicuri forniscono
 - Una “chiave privata **maestra**” o un “**seme** (seed)”
 - È una lista generata dal portafoglio in modo casuale da 12 a 24 parole
     - che nessun altro al mondo ha mai creato.
-    - Es la clave única que permite acceder el bitcoin del usuario en cualquier dispositivo
-    - Se usa para como génesis para crear cada una de las **claves privadas**. 
+    - È la chiave univoca che consente l'accesso ai bitcoin dell'utente su qualsiasi dispositivo
+    - Viene utilizzata come genesi per creare ciascuna delle chiavi private.
     - https://learnmeabitcoin.com/technical/mnemonic
 
 
 
-- Cada **clave privada** genera una **clave pública,**
-- Cada **clave pública** nos permite **firmar** digitalmente una **transacción**.
-- Cada **transacción** tiene una **firma digital** única
-- Cada **firma** permite transferir bitcoin a una **dirección** en particular.
+- Ogni **chiave privata** genera una **chiave pubblica**
+- Ogni **chiave pubblica** ci consente di **firmare digitalmente** una **transazione**.
+- Ogni **transazione** ha una **firma digitale** univoca
+- Ogni **firma** ti consente di trasferire bitcoin a un altro **indirizzo**.
 
-Entremos en detalle:
+Entriamo nel dettaglio:
 
-- Private Key=Clave Privada, Public Key=Clave Pública, Address=Dirección, Generate=Generar
+- Private Key=Chiave Privata, Public Key=Chiave Pubblica, Address=Indirizzo, Generate=Generare
     
     
-- La clave **privada**:
-    - Comparable con una contraseña  y debe mantenerse a salvo de cualquier tercero.
-    - En caso de perder nuestro monedero-una forma de recuperar nuestro bitcoin.
-        - A menos que se tengamos una “semilla”
-    - Las claves privadas son números completamente aleatorios y grandísimo entre 1 y 115792089237316195423570985008687907852837564279074904382605163141518161494336
+- La chiave **privata**:
+    - Paragonabile a una password e deve essere tenuto al sicuro da terzi.
+    - In caso di perdita del nostro portafoglio - rappresenta un modo per recuperare i nostri bitcoin.
+        - A meno che non abbiamo un "seme" (seed)
+    - Le chiavi private sono numeri completamente casuali e grandissimi compresi tra 1 y 115792089237316195423570985008687907852837564279074904382605163141518161494336
     
  
     
-    - Cualquier clave privada se convierte a una estructura hexadecimal:
-        - un número de 0-9, A-F, donde A=10, B=11, etc.
-    - Es prácticamente imposible generar la misma clave privada dos veces.
-    - Practiquemos:
+    - Qualsiasi chiave privata viene convertita in una struttura esadecimale:
+        - un numero da 0-9, A-F, dove A=10, B=11, ecc.
+    - È praticamente impossibile generare due volte la stessa chiave privata.
+    - Facciamo un pò di pratica:
         https://learnmeabitcoin.com/technical/private-key
     
-- Clave **pública**:
-    - Usando la clave privada como dato de entrada,
-    - se usa una multiplicación matemática muy avanzada para generar la **clave publica**
-    - La operación es unidireccional- no se puede reversar
+- Chiave **pubblica**:
+    - Utilizzando la chiave privata come input,
+    - viene utilizzata una moltiplicazione matematica avanzata per generare la **chiave pubblica**
+    - L'operazione è unidirezionale - non può essere invertita
       https://learnmeabitcoin.com/technical/public-key
     
 
     
-- Como medida de seguridad y para simplificar el resultado de la clave pública,
-    - la clave pública pasa por una serie de funciones hash y resulta una **dirección**.
-- Al igual que un correo electrónico, la **dirección** se puede compartir con quien la solicite.
-- Apunta al sitio (o a la caja fuerte) donde se van a recibir los fondos.
-- No hay límite para la cantidad de direcciones que un usuario puede crear
+- Come misura di sicurezza e per semplificare il risultato della chiave pubblica,
+    - la chiave pubblica passa attraverso una serie di funzioni hash che hanno come risultato un **indirizzo**.
+- Proprio come un'e-mail, l'**indirizzo** può essere condiviso con chiunque ne faccia richiesta.
+- Indica il luogo (o "cassaforte") in cui verranno ricevuti i fondi.
+- Non c'è limite al numero di indirizzi che un utente può creare
 - https://coinb.in/#newAddress
 
-- **La Firma Digital:**
-    - Se usa para demostrar que conocemos la clave privada sin revelarla públicamente.
-    - Se calcula a partir de la clave privada y de la información incluida en la transacción,
-    - Es única, irrepetible e imposible de falsificar.
-    - Es obligatoria para desbloquear el bitcoin que el emisor va a trasladar.
+- **La Firma Digitale:**
+    - Viene utilizzata per dimostrare che conosciamo la chiave privata senza rivelarla pubblicamente.
+    - Si calcola a partire dalla chiave privata e dalle informazioni incluse nella transazione,
+    - È unica, irripetibile e impossibile da falsificare.
+    - È obbligatoria per sbloccare il bitcoin che il mittente sta per trasferire.
 
 
-💡 Detengámonos un momento. Si un hacker intercepta tu transacción, crees que sea capaz de descifrar tu clave privada y robarte tus fondos?  Es decir, suponiendo que una persona maliciosa tenga acceso a la dirección a la cual vas a enviar bitcoin, crees que puede redirigirlo a su propia caja de seguridad?
+💡 Fermiamoci un attimo. Se un hacker intercetta la tua transazione, pensi che sarà in grado di decifrare la tua chiave privata e rubare i tuoi fondi? Cioè, supponendo che una persona malintenzionata abbia accesso all'indirizzo a cui stai per inviare bitcoin, pensi che possa reindirizzarlo verso il proprio indirizzo?
 
 
 
-**Transacciones válidas  :**
+**Transazioni valide:**
 
-El objetivo de una firma digital es poder demostrar que se es propietario de una clave pública.
+L'obiettivo di una firma digitale è quello di poter dimostrare di essere il proprietario di una determinata chiave pubblica.
 
-- los mineros verifican la firma con la clave pública del emisor.
-- La verificación criptográfica es similar a:
-    - evidenciar que la última pieza en un rompecabezas encaje correctamente.
-- Si la transacción se modifica en lo más mínimo,
-    - el hash de la firma automáticamente cambia, haciéndola falsa y obsoleta.
-    - Es extremadamente fácil detectar las transacciones que se deben rechazar
+- i minatori verificano la firma con la chiave pubblica del mittente.
+- La verifica crittografica è simile a:
+    - provare che l'ultimo tassello di un puzzle combacia correttamente.
+- Se la transazione viene minimamente modificata,
+    - l'hash della firma cambia, rendendola falsa e obsoleta.
+    - È estremamente facile rilevare le transazioni che devono essere rifiutate
 
 
-Bitcoin es un protocolo brillante!
+Bitcoin è un protocollo brillante
