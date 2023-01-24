@@ -32,7 +32,7 @@ Per esempio:
 - Nel caso migliore, se la banca accetta la sua contestazione, riavrà i soldi in pochi mesi.
 - Nel caso peggiore, il ristorante si oppone alla restituzione del denaro, sostenendo che ci sono stati 2 acquisti.
 
-Continuiamo ad esplorare esempi quotidiani per illustrare il concetto di "doppia spesa"
+Continuiamo a esplorare esempi quotidiani per illustrare il concetto di "doppia spesa"
 
 Giorno #1:
 
@@ -63,7 +63,7 @@ Giorno #3 (A Raquel è andata bene, ma ha paura di tornare nuovamente al McDonal
 - Due nodi diversi ricevono le due transazioni
     - Ricordiamo che Raquel aveva solo 0,2 BTC da spendere nel suo wallet.
 
-- I nodi di rete se ne accorgono ed una delle due transazioni viene rifiutata!
+- I nodi di rete se ne accorgono e una delle due transazioni viene rifiutata!
 - In che modo? Se abbiamo un sistema in cui nessun computer è al comando, come si decide quale transazione rifiutare e quale lasciare inalterata sulla blockchain?
 
 - Per raggiungere questo obiettivo, Satoshi Nakamoto è riuscito a trovare un meccanismo che:
@@ -140,7 +140,7 @@ Potremmo analizzare altre transazioni?
 ## **La Rete Bitcoin (On-Chain)**
 
 - È composto da nodi Bitcoin...
-    - ovvero un insieme di computers che aderiscono ad un sistema di regole (software noto come Bitcoin core).
+    - ovvero un insieme di computers che aderiscono a un sistema di regole (software noto come Bitcoin core).
         - Comunicano tra loro attraverso il cyberspazio rendendoli una rete.
             - Ogni nodo esegue la propria versione del software Bitcoin.
 
@@ -198,7 +198,7 @@ https://www.blockchain.com/explorer?view=btc
 Andiamo al link indicato dove possiamo osservare diversi proprietà delle transazioni.
 
 - l'importo totale trasferito,
-- quanti input ed output ci sono
+- quanti input e output ci sono
 - la dimensione (o la memoria che occupa nel blocco),
 - l'ID di una transazione
 - lo stato della transazione e,
@@ -230,10 +230,10 @@ Software originale creato da Satoshi Nakamoto-
     - scaricarlo e/o utilizzarlo liberamente
     - trasferire bitcoin su un altro portafoglio o riceverne da qualcun altro,
     - verificare in modo dimostrabile l'emissione di nuovi bitcoin
-    - conoscere la storia delle transazioni ed i proprietari di ogni bitcoin.
+    - conoscere la storia delle transazioni e i proprietari di ogni bitcoin.
     
 
-💡 **Codice aperto (Open Source):** chiunque può visualizzarlo, **proporre cambiamenti**, **modificarlo** e distribuirlo come meglio crede. È paragonabile ad andare in un ristorante ed avere accesso alle ricette dei tuoi cibi preferiti (il codice)... ma poi puoi prepararli e aggiungere o rimuovere gli ingredienti che vuoi e perfezionarli.
+💡 **Codice aperto (Open Source):** chiunque può visualizzarlo, **proporre cambiamenti**, **modificarlo** e distribuirlo come meglio crede. È paragonabile ad andare in un ristorante e avere accesso alle ricette dei tuoi cibi preferiti (il codice)... ma poi puoi prepararli e aggiungere o rimuovere gli ingredienti che vuoi e perfezionarli.
 
 
 - Decine di esperti di software e crittografia lavorano alla sua manutenzione e miglioramento.
@@ -291,7 +291,7 @@ https://youtu.be/lD8WQbS8-T8
 
 **Lightning Network** funziona in modo simile all'analogia. In che modo?
 
-- L'analogia è accurata ad esclusione del bisogno di fiducia.
+- L'analogia è accurata a esclusione del bisogno di fiducia.
     - Questo è un fraintendimento molto comune di LN: non è un sistema di credito.
         - Le transazioni LN non sono cambiali:
             - sono transazioni Bitcoin valide che spostano UTXO reali
@@ -323,7 +323,7 @@ https://lnrouter.app/graph/zero-base-fee
 
 Attività:
 
-Diamo un'occhiata ad un simulatore:
+Diamo un'occhiata a un simulatore:
 https://www.robtex.com/lnemulator.html?conf=A5-5B,B5-5C&send=A2C
 
 - Usare Lightning è economico e veloce come inviare un'e-mail

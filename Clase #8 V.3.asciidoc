@@ -147,7 +147,7 @@ CBBI - Colin Talks Crypto Bitcoin Bull Run Index - BTC Price Evaluation https://
         - La ricompensa in bitcoin si dimezza circa ogni 4 anni.
         - La ricompensa dei minatori diminuisce drasticamente in questi momenti.
     - **Adozione di massa**:
-        - Se tutti iniziano ad usare questa tecnologia, il processo prende nome di *Hiperbitcoinización*
+        - Se tutti iniziano a usare questa tecnologia, il processo prende nome di *Hiperbitcoinización*
             - e di conseguenza, si investe sempre più denaro nel bitcoin,
                 - il prezzo aumenterà esponenzialmente.
        

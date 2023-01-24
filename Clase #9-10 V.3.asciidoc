@@ -37,7 +37,7 @@ Software originale creato da Satoshi Nakamoto-
     
 
 
-💡 **Codice aperto (Open Source):** chiunque può visualizzarlo, **proporre cambiamenti**, **modificarlo** e distribuirlo come meglio crede. È paragonabile ad andare in un ristorante ed avere accesso alle ricette dei tuoi cibi preferiti (il codice)... ma poi puoi prepararli e aggiungere o rimuovere gli ingredienti che vuoi e perfezionarli.
+💡 **Codice aperto (Open Source):** chiunque può visualizzarlo, **proporre cambiamenti**, **modificarlo** e distribuirlo come meglio crede. È paragonabile ad andare in un ristorante e avere accesso alle ricette dei tuoi cibi preferiti (il codice)... ma poi puoi prepararli e aggiungere o rimuovere gli ingredienti che vuoi e perfezionarli.
 
 
 - Decine di esperti di software e crittografia lavorano alla sua manutenzione e miglioramento.

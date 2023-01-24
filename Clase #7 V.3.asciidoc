@@ -29,7 +29,7 @@ Una differenza fondamentale tra i **nodi completi** e i nodi di **mining**:
 
 ### Com'è la competizione matematica tra minatori?
 
-Ancora una volta torniamo ad un'analogia:
+Ancora una volta torniamo a un'analogia:
 
 - Ogni minatore ha un dado speciale che dispone dei numeri da 1 a 1000, cioè ha 1000 facce.
 - I minatori si preparano a partecipare a una competizione, con l'incentivo a vincere poco più di 6,25 bitcoin nei prossimi 10 minuti.
@@ -54,7 +54,7 @@ Ancora una volta torniamo ad un'analogia:
 - Immaginiamola come una macchina che trasforma qualcosa in qualcos'altro:
     - qualcosa viene introdotto, modificato da regole ferree, e ne emerge qualcos'altro completamente diverso. Vale a dire:
     - Vengono forniti i dati di input, **x**, o i dati che si immettono,
-    - Ad essi vengono applicate operazioni matematiche predefinite (addizione, sottrazione, moltiplicazione, ecc.),
+    - A essi vengono applicate operazioni matematiche predefinite (addizione, sottrazione, moltiplicazione, ecc.),
     - Il risultato è un *output*, **f(x),y.**
 
 

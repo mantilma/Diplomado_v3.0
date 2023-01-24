@@ -49,7 +49,7 @@ https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf
 
 Questi sono altri fatti fondamentali che conosciamo su Satoshi, il suo Whitepaper e la creazione di Bitcoin:
 
-- La prima transazione bitcoin è stata fatta da Nakamoto ad Hal Finney.
+- La prima transazione bitcoin è stata fatta da Nakamoto a Hal Finney.
 - L'ultimo "segno di vita" di Satoshi è stato con Gavin Andersen, uno sviluppatore di software:
     
     > “…passo a fare altre cose…in buone mani con Gavin e tutti gli altri.”
@@ -115,7 +115,7 @@ Il problema dei generali bizantini descrive:
 
 5) e questo è riconosciuto da tutti i partecipanti,
 
-6) oltre ad essere immutabile o impossibile da commutare o cancellare,
+6) oltre a essere immutabile o impossibile da commutare o cancellare,
 
 7)  tutto questo in maniera totalmente **distribuita** e **decentralizzata**.
 
@@ -126,7 +126,7 @@ Nel quadro della blockchain, ogni Generale è un **nodo nella rete**,
     - Se la maggior parte della **rete** sulla **blockchain** raggiunge un accordo,
         - modificano i saldi dei conti con debiti e crediti degli utenti,
     - Se la maggior parte della rete è malevola,
-        - il sistema è vulnerabile ad errori.
+        - il sistema è vulnerabile a errori.
 
 ### *Introduzione al Bitcoin*
 
@@ -183,7 +183,7 @@ Sono tante cose….
     - L'obiettivo del mining è scoraggiare i cattivi attori e ostacolare comportamenti indesiderati come la doppia spesa o lo spamming.
     - La crittografia protegge le informazioni in modo sicuro. Vengono utilizzati:
         - chiavi pubbliche (simili al # di un conto bancario ma univoco per ogni transazione)
-        - e chiavi private (simile a un PIN segreto di accesso ad un conto bancario)
+        - e chiavi private (simile a un PIN segreto di accesso a un conto bancario)
 - Chi e come si assicura che le transazioni vengano eseguite senza errori?
     - Attraverso i minatori ed il mining.
     - L'obiettivo è scoraggiare i cattivi attori e rendere più difficile comportamenti fraudolenti.
@@ -226,7 +226,7 @@ Per capire come qualcuno o un sistema partecipa alla rete Bitcoin, dobbiamo chie
     - Simile alle banche; offrono servizi agli utenti
 3. **Portafogli**: Applicazioni utilizzate per archiviare, inviare e ricevere bitcoin.
     - Simili ai conti bancari o alle app per trasferire denaro online
-4. **Nodi**: Dispositivi connessi a una rete digitale che convalidano, trasmettono, elaborano e archiviano transazioni BTC. (Oltre ad essere portafogli, hanno molte altre funzioni)
+4. **Nodi**: Dispositivi connessi a una rete digitale che convalidano, trasmettono, elaborano e archiviano transazioni BTC. (Oltre a essere portafogli, hanno molte altre funzioni)
     - Sono costituiti da due parti: hardware e software. (Simile a un cellulare e un'app)
         - L'hardware è il materiale fisico necessario per eseguire il software.
 - **Sviluppatori**: Mantengono e propongono miglioramenti al codice.
