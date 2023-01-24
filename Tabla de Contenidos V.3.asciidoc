@@ -67,66 +67,66 @@
         5. Conferma di una Transazione 
     4. La Rete Bitcoin  
     
-2. Bitcoin cómo  Depositó de Valor y cómo Red de Pagos
-    1. El Problema del Doble Gasto
-    2. Grupo de Memoria o “Mempool”
-    3. Actividad-Transacciones Verificadas pero no Confirmadas
-    4. La Red de Bitcoin
-        1. Nodos Completos
-        2. Actividad-Estado de las transacciones
+2. Bitcoin come Deposito di Valore e come Rete di Pagamento
+    1. Il Problema della Doppia Spesa
+    2. Gruppo/Pool di Memoria o “Mempool”
+    3. Attività - Transazioni Verificate ma non Confermate
+    4. La Rete Bitcoin (On-Chain)
+        1. Nodi Completi
+        2. Attività-Stato delle Transazioni
     5. Lightning Network
-        1. La Diferencia entre Capa 1 y Capa 2
-        2. Visualización y Actividad con Lightning
+        1. La Differenza tra Layer 1 e Layer 2
+        2. Visualizzazione e Attività con Lightning
         
-3. Los Mineros y La Minería de bitcoin
-    1. Los Nodos Mineros
-        1. Cómo es la competencia matemática entre mineros?
-    2. Un Pequeño Desvío- para entender la importancia de los hashes 
-        1. Qué es una Función ?
-        2. Qué es un Hash?
-        3. Qué es SHA256?
-            - Actividad: Crear Hashes
-        4. Qué es un “nonce”?
-        5. Qué es un Árbol de Merkle?
-    3. La Minería 
-        1. No Confíes… Verifica
-        2. El Hash del Bloque
-        3. El Nonce del Bloque
-        4. Actividad y Visualización: Analizar Bloques en Tiempo  Real
+3. I Minatori e il Bitcoin Mining
+    1. I Nodi Minatori
+        1. Com’è la competizione matematica tra minatori?
+    2. Una piccola Deviazione - per capire l’importanza degli hash
+        1. Cos’è una funzione?
+        2. Cos’è un hash?
+        3. Cos’è SHA256?
+            - Attività: Creare Hashes
+        4. Cos’è un "nonce"?
+        5. Cos'è un Albero di Merkle?
+    3. Il Mining 
+        1. Non Fidarti… Verifica
+        2. L’hash del Blocco
+        3. Il Nonce del Blocco
+        4. Attività e Visualizzazione: Analizzare i Blocchi in Tempo Reale
         
-4. La Escasez, El Costo, El Precio y La Volatilidad
-    1. La Importancia de la Recompensa del Bloque
+4. Scarsità, Costo, Prezzo e Volatilità
+    1. L’importanza della Ricompensa del Blocco
     2. Halving
-        1. Eventos de Reducción a la Mitad
-    3. El Valor de Bitcoin a Través del Tiempo
-        1. Factores a Mediano y Largo Plazo
-        2. El Efecto Lindy
-    4. Las Recompensas a los Mineros
-        1. La Dificultad
-    5. De Qué  o Quién  me Tengo que Cuidar?
-        1. Los Ataques a Bitcoin
-        2. Los ataques del 51%
+        1. Eventi di Halving
+    3. Il valore di Bitcoin nel Tempo
+        1. Fattori a Medio e Lungo Termine
+        2. L’effetto Lindy
+    4. Le Ricompense ai Minatori
+        1. La Difficoltà
+    5. Di cosa o da chi devo prestare attenzione?
+        1. Gli Attacchi a Bitcoin
+        2. Gli Attacchi del 51%
         
-5. Bitcoin de Hoy y del Futuro
-    1. La Energía Consumida
-    2. Ha Evolucionado?
-    3. Innovación 
+5. Bitcoin Oggi e in Futuro
+    1. L'Energia Consumata
+    2. Evoluzione
+    3. Innovazione
         1. Software-Bitcoin Core
-        2. SegWit, Taproot y Firmas Schnorr
+        2. SegWit, Taproot e Firme di Schnorr
         3. Taro
-    4. Bitcoin y el Futuro del Salvador
+    4. Bitcoin e il Futuro di El Salvador
     
-6. Proyecto Final  y Evaluación 
-    1. Porqué Bitcoin?
-        1. Qué es?
-        2. Cómo funciona?
-        3. Cómo cambia al mundo? 
+6. Progetto Finale e Valutazioni 
+    1. Perché Bitcoin?
+        1. Cos’è?
+        2. Come Funziona?
+        3. Come cambia il Mondo? 
     
 
-Apendice
+Appendice
 
-FUENTES
+FONTI
 
-FUENTES ADICIONALES
+FONTI AGGIUNTIVE
 
-La Magia de las Firmas Digitales (Sección Opcional)
+La Magia delle Firme Digitali (Sezione Opzionale)

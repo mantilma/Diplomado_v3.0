@@ -155,7 +155,7 @@ CBBI - Colin Talks Crypto Bitcoin Bull Run Index - BTC Price Evaluation https://
     
     Fonte: *U.S. dollar inflation visualized at the top versus bitcoin’s deflation at the bottom:* [Lark Davis @TheCryptoLark https://twitter.com/TheCryptoLark/status/1415134942082699269/photo/1.
     
-    - **L'effetto Lindy-**
+    - **L'effetto Lindy**
         - Una teoria sull'invecchiamento delle cose non deteriorabili,
             - più vecchia è un'idea o una tecnologia,
                 - maggiore è la sua aspettativa di vita.
@@ -203,7 +203,7 @@ Fonte: https://www.blockchain.com/charts/miners-revenue
         
       
 
-### Di cosa o di chi devo prestare attenzione?
+### Di cosa o da chi devo prestare attenzione?
 
 Sebbene Bitcoin possa offrire una protezione di gran lunga maggiore rispetto al sistema finanziario tradizionale, le truffe a vittime ignare stanno diventando sempre più sofisticate. 
 

@@ -45,7 +45,7 @@ Software originale creato da Satoshi Nakamoto-
     - richiede il consenso della maggioranza di coloro che lo attuano
     
 
-### SegWit, Taproot, e Firme Schnorr
+### SegWit, Taproot, e Firme di Schnorr
 
 Bitcoin è migliorato attraverso il consenso, attraverso proposte di miglioramento Bitcoin, dette BIP
 

@@ -1,4 +1,4 @@
-# Bitcoin come riserva di valore e come rete di pagamento
+# Bitcoin come deposito di valore e come rete di pagamento
 
 - **La doppia spesa:** 
 Quando qualcuno invia la stessa "moneta" due volte.

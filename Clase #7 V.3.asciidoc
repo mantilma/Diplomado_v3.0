@@ -1,8 +1,8 @@
-# I Minatori ed il **Bitcoin Mining**
+# I Minatori e il **Bitcoin Mining**
 
 ### I **nodi minatori**
 
-Provano ad essere i primi a risolvere problemi computazionali matematici e creare nuovi blocchi
+Provano a essere i primi a risolvere problemi computazionali matematici e creare nuovi blocchi
 
 - con l'obiettivo di guadagnare ricompense in denaro
 - dimostrando di aver compiuto un lavoro,
@@ -108,7 +108,7 @@ Faremo un succo di frutta rossa.
     
     
 
-***Che cos'è SHA256?***
+***Cos'è SHA256?***
 
 - La particolare funzione hash utilizzata da Bitcoin si chiama SHA256.
 - Il suo **risultato** o **hash** è sempre esadecimale (numeri compresi tra 0 e 9 e lettere comprese tra A e F).
@@ -164,7 +164,7 @@ SHA(Dalia**2**)=17df2ae3b1dec56c7bde0cf8b161f24329d351e08cb797adbd76af46401dadf3
 
 SHA(Dalia**8**)=**0**93d4ddb855114f49f3b775803529ed1cbd5598b5995c327091552bab5672658
 
- ***Cos'è un albero Merkle?***
+ ***Cos'è un albero di Merkle?***
 
 Una struttura dati suddivisa in più layer di hash che permette di verificare,
 
@@ -178,7 +178,7 @@ Una struttura dati suddivisa in più layer di hash che permette di verificare,
     
     
 
-# Mining
+# Il Mining
 
 Ora torniamo al processo Bitcoin:
 
