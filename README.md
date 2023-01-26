@@ -7,7 +7,6 @@ Questa è la versione 3.0 tradotta in italiano del libro 'Bitcoin Diploma' forni
 La traduzione in lingua italiana è di mantilma
 Contatti:
 Twitter @mantilma
-Telegram @mantilma
 Contatto E-mail mantilma@pm.me
 
 Per contribuire, integrare, correggere la traduzione italiana il link al GitHub Repository è https://github.com/mantilma/Diplomado_v3.0_it
